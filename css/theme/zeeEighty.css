@@ -15,20 +15,27 @@
  * GLOBAL STYLES
  *********************************************/
 body {
-  background: #add9e4;
+  background: #45484d; /* Old browsers */
+  background: -moz-radial-gradient(center, ellipse cover, #45484d 0%, #000000 100%); /* FF3.6-15 */
+  background: -webkit-radial-gradient(center, ellipse cover, #45484d 0%,#000000 100%); /* Chrome10-25,Safari5.1-6 */
+  background: radial-gradient(ellipse at center, #45484d 0%,#000000 100%); /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
+  filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#45484d', endColorstr='#000000',GradientType=1 ); /* IE6-9 fallback on horizontal gradient */
+    /*background: #add9e4;
   background: -moz-radial-gradient(center, circle cover, #f7fbfc 0%, #add9e4 100%);
   background: -webkit-gradient(radial, center center, 0px, center center, 100%, color-stop(0%, #f7fbfc), color-stop(100%, #add9e4));
   background: -webkit-radial-gradient(center, circle cover, #f7fbfc 0%, #add9e4 100%);
   background: -o-radial-gradient(center, circle cover, #f7fbfc 0%, #add9e4 100%);
   background: -ms-radial-gradient(center, circle cover, #f7fbfc 0%, #add9e4 100%);
   background: radial-gradient(center, circle cover, #f7fbfc 0%, #add9e4 100%);
-  background-color: #f7fbfc; }
+  background-color: #f7fbfc; */
+}
 
 .reveal {
   font-family: "Raleway", sans-serif;
   font-size: 36px;
   font-weight: normal;
-  color: #333; }
+  color: #fff;
+ }
 
 ::selection {
   color: #fff;
@@ -50,29 +57,28 @@ body {
 .reveal h5,
 .reveal h6 {
   margin: 0 0 20px 0;
-  color: #333;
+  color: #fff;
   font-family: "Invasion 2000", sans-serif;
   font-weight: normal;
   line-height: 1.2;
   /*letter-spacing: -0.08em;*/
   text-transform: none;
   text-shadow: none;
-  word-wrap: break-word; }
+  word-wrap: break-word;
+  text-shadow: 0px 0px 0.5em #999;
+}
 
 .reveal h1 {
   font-size: 3em; }
 
 .reveal h2 {
-  font-size: 2.5em; }
-
-.reveal h3 {
   font-size: 2em; }
 
-.reveal h4 {
-  font-size: 1.5em; }
+.reveal h3 {
+  font-size: 1.6em; }
 
-.reveal h1 {
-  text-shadow: none; }
+.reveal h4 {
+  font-size: 1.3em; }
 
 /*********************************************
  * OTHER
