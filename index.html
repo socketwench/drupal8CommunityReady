@@ -55,7 +55,8 @@
     <section>
       <section data-background="images/8bitBackground.png"
                data-background-size="contain">
-        <h1>Character Select Screen</h1>
+        <h1>Character Select</h1>
+        <img alt="Character select">
       </section>
     </section>
 
@@ -63,99 +64,312 @@
       <section data-background="images/8bitBackground.png"
                data-background-size="contain">
         <h1>Drupal at a Crossroads</h1>
+        <aside>
+          In many ways, Drupal today is at a kind of crossroads. There's been
+          a lot of speculation, hope, excitement, even a little fear. Developers
+          and businesses alike have a lot to be both concerned, and excited about.
+        </aside>
+      </section>
+      <section>
+        <h2>Huge Changes</h2>
+        <p class="fragment">That we really needed</p>
+        <aside>
+          There's been some huge changes with over the last several years.
+          Critics have called Drupal 8 a completely different CMS from the
+          previous version. While intimidating, there were many changes we
+          needed for Drupal to be ready for the now and the future.
+        </aside>
+      </section>
+      <section>
+        <h2>Gigantic Dev Cycle</h2>
+        <p class="fragment">Four years!</p>
+        <aside>
+          There's also been a gigantic development cycle for this version,
+          longer than any other we've done in the history of the project. Four
+          years! That's an eternity in the tech world.
+        </aside>
+      </section>
+      <section>
+        <h2>"When it's Ready"</h2>
+        <p>Led to speculation, worry</p>
+        <aside>
+          We also had the nagging problem that we never really knew when Drupal
+          8 was going to be released. We said, "When it's ready". This created
+          a lot of speculation and even worry that Drupal would never get out
+          the door.
+        </aside>
+      </section>
+      <section>
+        <h2>Community Shakeup</h2>
+        <p>Long time devs left or reduced involvement</p>
+        <p>While others joined the project</p>
+        <aside>
+          We've also had some long time developers leave the project, or reduce
+          their involvement. From an outsider perspective it's hard to read this
+          in an alarming way, forgetting about the many new developers that have
+          joined the project recently and had a big impact.
+        </aside>
+      </section>
+      <section>
+        <h2>Forked!</h2>
+        <p>Not the first, but highest profile</p>
+        <aside>
+          And let's not forget the big fork Drupal had recently. It wasn't the
+          first, but it was certainly the highest profile.
+        </aside>
+      </section>
+      <section>
+        <h2>"It's too different!"</h2>
+        <p class="fragment">But change can be good</p>
+        <aside>
+          A lot of this seems like it's all just too much. That Drupal 8 feels
+          too different. Yet, change can be a very, very good thing.
+        </aside>
       </section>
     </section>
 
     <section>
-      <section data-background="images/8bitBackground.png"
-               data-background-size="contain">
+      <section>
         <h1>But let me tell you a different story...</h1>
       </section>
 
       <section>
-        <h2>...all the way back in 2012...</h2>
-        <p class="fragment">Drupal 8 hadn't quite yet started...</p>
-        <p class="fragment">...but we were talking aobut it.</p>
+        <h2>Let's go back to 2012</h2>
+        <p class="fragment">Drupal 8 had just gotten started</p>
       </section>
 
       <section>
-        <h2>Drupal 7 is <u>wierd</u></h2>
-        <p class="fragment"><em>How Does Drupal 7 Work</em> series</p>
+        <aside>
+          And I was sitting in an auditorium listening to Larry Garfield give
+          a talk an "Musical CMS: How Symfony is coming to Drupal".
+        </aside>
       </section>
 
       <section>
-        <h2>Anacronisms</h2>
-        <p class="fragment">Stright functions (mostly)</p>
+        <aside>
+          This was my second Drupal camp. I actually had given a talk just the
+          previous day on how does Drupal 7 work. See, for year's I had used
+          Drupal for my own site, but I never really developed any code for it,
+          nor peaked inside core. I decided to change that. I set up a debugger
+          and stepped through the entire Drupal 7 init process. And that's when
+          I discovered something kinda surprising.
+        </aside>
+      </section>
+
+      <section>
+        <h2>Drupal 7 is <u>weird</u></h2>
+        <aside>
+          Drupal 7 is really, really weird. While I had largely taught myself
+          coding, I had done so in C++. From there I learned several other
+          languages then finally PHP. And D7 didn't look like anything I had
+          come to expect.
+        </aside>
+      </section>
+
+      <section>
+        <h2>Anachronisms</h2>
+        <p class="fragment">Straight functions (mostly)</p>
         <p class="fragment">PHP4's OOP was odd &amp; incomplete</p>
+        <aside>
+          Drupal 7 is, to me, full of anachronisms. It's composed of straight
+          functions -- mostly. There isn't anything wrong with that, it only
+          feels...well...old fashioned. It was also justified in Drupal's case
+          as PHP 4's OOP support was odd and incomplete.
+        </aside>
+      </section>
+
+      <section>
+        <h2>Hooks are API Go-Fish</h2>
+        <p class="fragment">Do you have a _____ hook?</p>
+        <aside>
+          The thing that really bothered me was hooks, hooks are like API
+          Go-fish.  I had been coding for over a decade at that point. I've been
+          through 4 years of college, worked in multiple languages and products,
+          and I had never saw anything like hooks. Drupal 7, in essence, asks each
+          module "Do you have a something-hook?" and if it does, it executes it.
+          I just couldn't believe the project I had come to love the last few
+          years works like that. I was dumbfounded.
+        </aside>
       </section>
 
       <section>
         <h2>Code for everything!</h2>
-        <p>Even for things that shouldn't be code</p>
+        <p class="fragment">Even for things that shouldn't be code</p>
+        <aside>
+          That wasn't the only thing that bothered me. Drupal used code for
+          everything. Menu items, forms, and tons of other things that shouldn't
+          be code. I did't understand why we didn't save these in flat-files
+          like many, many other projects.
+        </aside>
       </section>
 
       <section>
-        <h2>Arrays of doom</h2>
-        <p>Forms</p>
-        <p>Routing (Menus)</p>
-        <p>Page Structure</p>
+        <h2>Arrays of doom!</h2>
+        <p class="fragment">Undocumentable monstrosities</p>
+        <aside>
+          With the exception of the database layer, there were huge arrays of
+          doom everywhere in Drupal. Either you needed to create them in your
+          code, or work with huge, undocumentable monstrosities that you needed
+          to run through a debugger first BEFORE writing your code. WTH!?
+        </aside>
       </section>
 
       <section>
-        <h2>Hook Love, or Hate?</h2>
-        <p>An effective Golden Hammer</p>
-        <p>Regressive and non-standard</p>
+        <img alt="Request, process, return HTML"/>
+        <aside>
+          Drupal 7 was also built with the assumption of the desktop web at its
+          core. When a request comes in, Drupal processes it, routes it to the
+          appropriate handlers, and then returns HTML for display. With frameworks
+          like React and mobile applications, the need to return HTML has gotten
+          smaller and smaller.
+        </aside>
       </section>
 
       <section>
-        <h2>No really</h2>
-        <p>We just guessed at a function name and ran it.</p>
+        <h2>Bootstrapping Drupal is slow!</h2>
+        <p class="fragment">Everything is loaded even when not needed</p>
+        <aside>
+          drupal_bootstrap() is also really slow! Even if Drupal 7 was returning
+          a REST response, it would still load the theme layer, load up all
+          modules, and require a lot of CPU and memory resources. This makes
+          Drupal 7 unattractive as a backend to decoupled and native applications.
+        </aside>
+      </section>
+
+      <section>
+        <h2>Not-Invented-Here (NIH)</h2>
+        <p class="fragment">PHP4 dependencies were copy-paste</p>
+        <p class="fragment">Drupal 7 didn't make this easier</p>
+        <aside>
+          Drupal also has a bad habit of developing their own solutions rather
+          than working with others'. This is the "Not Invented Here" problem.
+
+          In earlier versions of PHP, there was a good reason for this as
+          including external dependencies was laborious. We literally had to
+          copy and paste code into our repository. Today, however, there
+          are many excellent libaries and tools we could leverage, yet Drupal
+          7 did not provide any natural way to do so.
+        </aside>
+      </section>
+
+      <section>
+        <h2>NIH has a social cost</h2>
+        <p>In-community preferred despite costs</p>
+        <p>Sunk-cost fallacy makes replacement impossible</p>
+        <aside>
+          Not-invented-here also has a big social cost. It creates a culture
+          where in-community solutions are immediately preferred even in the
+          face of time, stress, and maintainership costs. Once in place,
+          NIH motivated code can become impossible to replace due to the
+          sunk-cost fallacy.
+        </aside>
+      </section>
+
+      <section>
+        <h2>Sunk-cost Fallacy</h2>
+        <p class="fragment">"Point of no return" thinking</p>
+        <p class="fragment">Works in software design too</p>
+        <aside>
+          Haven't heard of the Sunk-cost Fallacy? It's an idea from behavioral
+          economics that suggests once we've invested a certain amount of utility
+          in something, we pass a point of "no return" where we're obligated
+          to stick with it even when we know the problems.
+
+          Usually this refers to cars, houses, movie or concert tickets, but it
+          works in software design as well! Often, it's a key motivator behind
+          forks.
+        </aside>
+      </section>
+
+      <section>
+        <img alt="Sad developer" />
+        <aside>
+          After discovering all of this, I was really discouraged. The coding
+          techniques I had been familiar with for years just didn't apply to
+          Drupal. It all seemed too strange, too weird, and too impenetrable for
+          me to even seriously consider writing a module or contributing to core.
+        </aside>
       </section>
 
       <section>
         <h2>I &lt;3 Drupal</h2>
-        <p>Just don't tell me how you work</p>
+        <p class="fragment">Just don't tell me how you work</p>
+        <aside>
+          I really, really love you Drupal, but please, don't tell me how you
+          work.
+        </aside>
+      </section>
+
+      <section>
+        <aside>
+          The thing was, I had assumed I was alone. That no one else had this bizarre
+          perspective on our beloved CMS. That is, until I was sitting in that
+          auditorium listening to Crell talk about putting Symfony in Drupal.
+          And then I got really, really excited.
+        </aside>
       </section>
 
     </section>
+
     <section>
 
       <section>
-        <h1>We knew we had to change</h1>
+        <h1>What's to get excited about in Drupal 8?</h1>
+        <aside>
+          So why was I getting excited, and why am I excited today for Drupal 8?
+        </aside>
       </section>
 
       <section>
-        <h2>Out of Fashion Internals</h2>
-        <p>Kept away many new devs</p>
+        <h2>OOP Everywhere!</h2>
+        <p class="fragment">PHP 5 fully implemented OOP</p>
+        <aside>
+          The first thing was that we finally started using object-oriented
+          programming. PHP 5 brought a full OOP features that we could finally
+          leverage in Drupal.
+        </aside>
       </section>
 
       <section>
-        <h2>Twin Cities Drupalcamp 2012</h2>
-        <p><em>Musical CMS: How Symfony is coming to Drupal</em></p>
+        <h2>More than just Objects</h2>
+        <p class="fragment">Exception Handling</p>
+        <p class="fragment">Polymorphism</p>
+        <p class="fragment">Encapsulation</p>
+        <aside>
+          OOP brings more than just classes and objects, it standardizes error
+          handling, provides a language consistent way to extend existing code,
+          and compartmentalizes functionality making it easier to find what
+          you need.
+        </aside>
       </section>
 
       <section>
-        <h2>Drupal 8 Goals</h2>
-        <p>Use Modern OOP
-        <p>
-        <p>Reduce "Drupalisms"</p>
+        <h2>Reduced "Drupalisms"</h2>
+        <p>Lowers barriers for developers to use Drupal</p>
+        <p>Provides a familiar environment to learn new skills</p>
+        <aside>
+          One of the benefits of modern OOP is that it reduces "Drupalisms",
+          of which hooks was one of the biggest offenders. These project-
+          specific patterns have long been a barrier to developers that would
+          otherwise look to other CMSes.
+
+          OOP and reduced Drupalisms benefits longtime Drupal developers too.
+          Drupal 8 provides a familiar environment to develop a broader base of
+          skills.
+        </aside>
+      </section>
+
+      <section>
+        <h2>Symfony Components</h2>
+        <aside>
+          One of the biggest advertised features of Drupal 8 is that we've taken
+          advantage of Symfony components.
+        </aside>
       </section>
 
       <section>
         <h2>Not just invite in</h2>
         <h2>But also venture out</h2>
-      </section>
-
-      <section>
-        <h2>Symphony Components</h2>
-      </section>
-
-    </section>
-
-    <section>
-      <section data-background="images/8bitBackground.png"
-               data-background-size="contain">
-        <h1>What's new in Drupal 8?</h1>
       </section>
 
       <section>
@@ -279,27 +493,254 @@
     </section>
 
     <section>
-      <section data-background="images/8bitBackground.png"
-               data-background-size="contain">
+      <section>
+        <h1>It'll Just Hurt...Differently</h1>
+      </section>
+      <section data-background="images/areYouTryingTo___MeOff/1.png" data-background-size="contain" data-transition="none">
+        <h2>How's this sound?</h2>
+        <p>Rewrite your modules...</p>
+        <p><span class="fragment">...every 6 months</span><span class="fragment">...for 4 years?</span></p>
+      </section>
+      <section data-background="images/areYouTryingTo___MeOff/2.png" data-background-size="contain" data-transition="none">
+        <h2>How's this sound?</h2>
+        <p>Rewrite your modules...</p>
+        <p><span>...every 6 months</span><span>...for 4 years?</span></p>
+      </section>
+      <section data-background="images/bandaid.png" data-background-size="contain">
+        <h2>Baid-aid Problem</h2>
+        <p class="fragment">Pull it off slowly and it'll hurt longer</p>
+        <p class="fragment">Or fast and it'll hurt more for less time</p>
+      </section>
+      <section>
+        <h2>Flag 8.x-4.x</h2>
+        <p class="fragment">Chased Drupal 8 HEAD for 3 years!</p>
+        <p class="fragment">Required Dedication, passion, and patience!</p>
+      </section>
+      <section>
+        <p>SOMETHING ABOUT HOW FLAG WAS UPDATED</p>
+      </section>
+      <section>
+        <h2>Makes things Harder for Core</h2>
+        <p>Prioritizing updates</p>
+        <p>Maintaining vision</p>
+      </section>
+    </section>
+
+    <section>
+      <section>
+        <h1>Big Bang Updates</h1>
+      </section>
+      <section>
+        <h2>Focuses Culture Shock</h2>
+        <blockquote>
+          "But I have to start all over again!"
+        </blockquote>
+      </section>
+      <section>
+        <h2>New but Familiar</h2>
+        <p>It's easier to be a new student, than an old expert</p>
+      </section>
+      <section>
+        <h2>Change is scary</h2>
+        <p>Some will take this as an exit cue</p>
+      </section>
+      <section>
+        <h2>Creates New Interest</h2>
+        <p>Big changes are exciting</p>
+        <p>Can attract new developers</p>
+      </section>
+      <section>
+        <h2>Big Bang can be tiring</h2>
+        <p>Socially and emotionally</p>
+      </section>
+    </section>
+
+    <section>
+      <section>
+        <h1>But...forks?</h1>
+      </section>
+      <section>
+        <h2>Forks are Good!</h2>
+        <p>Sign of a healthy community</p>
+      </section>
+      <section>
+        <h2>OSS isn't "Highlander"</h2>
+        <p>There doesn't have to be only one.</p>
+      </section>
+      <section>
+        <h2>Shakes the Status Quo</h2>
+        <p>Introduces new ideas</p>
+      </section>
+      <section>
+        <h2>Forks are Natural</h2>
+        <p>When a project reaches a certain size</p>
+        <p>And no authoritarian figure at the center</p>
+      </section>
+    </section>
+
+    <section>
+      <section>
         <h1>So what didn't we do so well?</h1>
+        <aside>
+          As much as I'm proud and excited about Drupal 8, there's a lot of things
+          I feel we should work on.
+        </aside>
+      </section>
+
+      <section>
+        <h2>There are also Technical Things</h2>
+        <aside>
+          There are always technical things we could have done better. We could
+          have chosen a different routing system, a different front end...and
+          while those things are important, they're the least important
+          things we should improve.
+        </aside>
       </section>
 
       <section>
         <h2>FUD</h2>
         <p>Fear Uncertainty and Doubt</p>
+        <aside>
+          One of the first things I think we could do better in the future, and
+          I admit, also a personal axe to grind, is FUD. Fear Uncertainty, and Doubt.
+        </aside>
+      </section>
+      <section>
+        <h2>FUD easily created Unintentionally</h2>
+        <p>Social media echo chamber</p>
+        <aside>
+          FUD is easily created unintentionally, especially in Open Source. With
+          so many voices from so many backgrounds it's easy for any irregularity,
+          difference of opinion, or unexpected delay to result in fear,
+          uncertainty and doubt.
+
+          This is amplified by the social media echo chamber where concerns can
+          be reposted spread virally in seconds.
+        </aside>
+      </section>
+      <section>
+        <h2>Drupal 8 Created a lot of FUD</h2>
+        <aside>
+          Drupal 8 created a lot of FUD. Any popular project that undergoes a
+          big refactoring as Drupal did inevitability results in FUD. Our seemingly
+          never-ending development cycle helped little, but that wasn't all.
+        </aside>
+      </section>
+      <section>
+        <h2>People Turnover</h2>
+        <p>When a long-time project member leaves...</p>
+        <p>...it can be seen as a sign the project is failing.</p>
+        <aside>
+          Drupal 8 had several people either leaving the project entirely or
+          taking on reduced roles. When this happens in the middle of a dev
+          cycle, it can be seen as a sign the project is failing.
+        </aside>
+      </section>
+      <section>
+        <h2>Other Missteps</h2>
+        <p>"Secret" sprints & "heads down" behavior</p>
+        <aside>
+          We've also had some other missteps that created FUD. Sequestering
+          core developers for dedicated, private sprinting and other "heads
+          down" behavior may be forgotten now, but it was a serious worry that
+          created a needless information vacuum in which FUD can flourish.
+        </aside>
+      </section>
+      <section>
+        <h2>Fighting FUD</h2>
+        <p>Needs clear, and consistent communication</p>
+        <aside>
+          So how can we fight FUD in when we start working on the next version
+          of Drupal? We need clear, and consistent communication.
+        </aside>
+      </section>
+      <section>
+        <h2>Not easy in OSS</h2>
+        <p class="fragment">For smaller projects, the lead dev or original author</p>
+        <p class="fragment">Larger projects, sponsoring corporation or foundation</p>
+        <aside>
+          This isn't easy in open source! Often it requires a single point of
+          communication. In smaller projects this is often the lead developer
+          or original author. With a project as large as Drupal, it usually
+          falls to the sponsoring corporation, foundation, or association.
+        </aside>
+      </section>
+      <section>
+        <h2>Not an easy Job</h2>
+        <p class="fragment">And it is a job.</p>
+        <p class="fragment">"Contrib Champion", "Core Ombudsman"</p>
+        <aside>
+          This isn't an easy job either, and it is a job. Providing clear and
+          consistent communication throughout a development cycle is demanding.
+          If it doesn't come from an authoritative source, it won't have clout
+          to fight fear, uncertainty and doubt. I like calling this role the
+          "Contrib Champion" others call it a "Core Ombudsman". No matter
+          what they're called, I think it's an essential piece for Drupal's
+          future success.
+        </aside>
       </section>
 
       <section>
         <h2>BURNOUT</h2>
+        <aside>
+          For four years we worked on Drupal 8. While I didn't spend a lot of
+          time with core, I did put a lot of effort into developing one of the
+          first Drupal 8 modules. And I have to tell you, it was exhausting.
+          Today more than one developer in Drupal is suffering from a psychological
+          and physiological condition known as burnout.
+        </aside>
       </section>
 
       <section>
-        <h2>Routing System</h2>
+        <h2>What causes burnout</h2>
+        <blockquote class="fragment">
+          The candle the burns twice as bright burns half as long.
+        </blockquote>
+        <aside>
+          While I can go into a long description of burnout and what causes it,
+          I find the following quote a great summary. 'The candle that burns
+          twice as bright burns half as long.' This is from the film Blade Runner.
+
+          Like many coders, we in Drupal often enjoy working on Drupal both as
+          a day job and as something fun to do. More than one developer working
+          on Drupal 8 was caught up in this pattern. For a short period of time,
+          this is okay, but four years is a very, very long time.
+        </aside>
       </section>
 
       <section>
-        <h2>4 Years is too many!</h2>
+        <h2>Reducing Your Burnout Risk</h2>
+        <p class="fragment">Do...less.</p>
+        <aside>
+          A few developers I've spoken to have suffered burnout during Drupal 8's
+          development cycle. Solutions are often very personal, but some patterns
+          exist. We can reduce the risk of burning out by...doing less. This
+          seems obvious, but it can be very, very difficult to do. We're passionate
+          in the Drupal community, but we can't subsist on passion alone.
+        </aside>
       </section>
+
+      <section>
+        <h2>Doing Less for Yourself</h2>
+        <p class="">Seek out a co-maintainer</p>
+        <aside>
+          If your a module dev or contribute in your free time, take a break.
+          Seek out a co-maintainer to keep things moving while you're away.
+        </aside>
+      </section>
+
+      <section>
+        <aside>
+          If you're an employer, 
+        </aside>
+      </section>
+
+      <section>
+        <h2>Burnout Recovery</h2>
+        <p class="fragment"></p>
+        <p class="fragment">It's a process, not a goal</p>
+      </section>
+
     </section>
 
     <section>
