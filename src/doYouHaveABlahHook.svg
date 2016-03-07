@@ -1,0 +1,790 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="1024"
+   height="763"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.91 r13725"
+   sodipodi:docname="doYouHaveABlahHook.svg"
+   inkscape:export-filename="/home/tess/projects/drupal8CommunityReady/images/doYouHaveABlahHook4.png"
+   inkscape:export-xdpi="90"
+   inkscape:export-ydpi="90">
+  <defs
+     id="defs4">
+    <inkscape:perspective
+       sodipodi:type="inkscape:persp3d"
+       inkscape:vp_x="0 : 381.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_z="1024 : 381.5 : 1"
+       inkscape:persp3d-origin="512 : 254.33333 : 1"
+       id="perspective11405" />
+    <mask
+       id="mask3348"
+       height="1"
+       width="1"
+       y="0"
+       x="0"
+       maskUnits="userSpaceOnUse">
+      <image
+         id="image3350"
+         xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAA8AAAAOCAAAAADV4RkzAAAAAXNCSVQI5gpbmQAAAFdJREFUCJmNjjkOgDAQA8ebcEiRaPj/N4kQbJYCcXW4sjXFGH5FnyITLQIgAaSh9Hq28jRP5h5ABlAaS+ebXxxZirV6nDx8adXqHrdIluXeXmJB/Lv6zQHz5Rw9hjYfFQAAAABJRU5ErkJggg=="
+         height="1"
+         width="1" />
+    </mask>
+    <mask
+       id="mask3336"
+       height="1"
+       width="1"
+       y="0"
+       x="0"
+       maskUnits="userSpaceOnUse">
+      <image
+         id="image3338"
+         xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAA4AAAAOCAAAAAA6I3INAAAAAXNCSVQI5gpbmQAAAFlJREFUCJmVzksKgDAUQ9H72lqxCIrg/vcoCNpW4sDPvJmEMwmBhthbhgR4APOx9z/Np3kKteqhG5Z11JEFDnBditdZBARAda/HlvUuW+hdKddHzExSyz8AblbTHlG+WuMuAAAAAElFTkSuQmCC"
+         height="1"
+         width="1" />
+    </mask>
+    <mask
+       id="mask3308"
+       height="1"
+       width="1"
+       y="0"
+       x="0"
+       maskUnits="userSpaceOnUse">
+      <image
+         id="image3310"
+         xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAA4AAAAOCAAAAAA6I3INAAAAAXNCSVQI5gpbmQAAAFhJREFUCJmVjjsKgEAQQ1+cdRUrxfsfUkREd3Qs/PSmCeFBEvghPSYiAAOQNW36oqzr++wekAA1w5inRUAFqG7rsu7BTcMX3+btfJpl2bwc8Q5JBPHnHwAXQa4bOhlsasUAAAAASUVORK5CYII="
+         height="1"
+         width="1" />
+    </mask>
+    <mask
+       id="mask3296"
+       height="1"
+       width="1"
+       y="0"
+       x="0"
+       maskUnits="userSpaceOnUse">
+      <image
+         id="image3298"
+         xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAA8AAAAOCAAAAADV4RkzAAAAAXNCSVQI5gpbmQAAAFVJREFUCJmVjrEKgDAUA+89axVFXfz/37SCbRykdHAQbwgchBD4h9XU4x2Ah95pbmFeB4qqe9z2xfMlIACSfOJMufYp0nWkXPeti6Ol5pi5laL3kU9ugG0ZUnsaljoAAAAASUVORK5CYII="
+         height="1"
+         width="1" />
+    </mask>
+    <mask
+       id="mask3284"
+       height="1"
+       width="1"
+       y="0"
+       x="0"
+       maskUnits="userSpaceOnUse">
+      <image
+         id="image3286"
+         xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABMAAAAPCAAAAAAjL6vwAAAAAXNCSVQI5gpbmQAAAG9JREFUGJWdzsEOgzAMA1DHabshQBP//580o6TdgQ444+NTHBl4HgEAIVprpykApnci5W6i0/IZUtC/BgCM08xi2db8re24E1XVOIxj8OL9H3yzdduFNZv3bi1uGtMrevZzCyAQKuF7vaz7beTD/AAp0iVNqEyglAAAAABJRU5ErkJggg=="
+         height="1"
+         width="1" />
+    </mask>
+    <mask
+       id="mask3272"
+       height="1"
+       width="1"
+       y="0"
+       x="0"
+       maskUnits="userSpaceOnUse">
+      <image
+         id="image3274"
+         xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABIAAAAOCAAAAAAHsRNrAAAAAXNCSVQI5gpbmQAAAHBJREFUGJWdjssOwjAQxDybhIQKxIH//0tIqZrtcuB5RPjokaWBPxGAiQjiS9muaay+RQRAApXj+TTVkuzRZEB5fzBf5vnab1uQQJJkuU5THqtDhhh9XGprLds7jOFLyqUW7/46AUgywz0+6rkGv3IHG6AmZmAGeMcAAAAASUVORK5CYII="
+         height="1"
+         width="1" />
+    </mask>
+    <mask
+       id="mask3260"
+       height="1"
+       width="1"
+       y="0"
+       x="0"
+       maskUnits="userSpaceOnUse">
+      <image
+         id="image3262"
+         xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABMAAAAPCAAAAAAjL6vwAAAAAXNCSVQI5gpbmQAAAHlJREFUGJWdj8EKwzAMQ23HIW3dw9j/f+IuYyFJm8TeIWWEHauL4CGBBHBDiMMmgGSqE0N0HHzPhwLwIMR+3cTnVzUbjHgR2VduJyKMHDp5PhbX8+ed1a4uBQk9xpSOqlcO9IylpFKb2m8L+QC1dTOY9iGBgt25+a8v0Iwu/0zODkwAAAAASUVORK5CYII="
+         height="1"
+         width="1" />
+    </mask>
+    <mask
+       id="mask3248"
+       height="1"
+       width="1"
+       y="0"
+       x="0"
+       maskUnits="userSpaceOnUse">
+      <image
+         id="image3250"
+         xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABMAAAAPCAAAAAAjL6vwAAAAAXNCSVQI5gpbmQAAAHdJREFUGJWlzrESwiAYA+AEaKlwMvj+j+jiWRGE/r9DW6+umiV335IAP4RfBYA0VJGD0dhxtO35UsABAIxx/hQD52tfNrNDiDFOpmYCq3FIl+TRH/dbld3sFFzJcy6167ZBn84ouTYR/Xyxo9O2iOrhH0nd4c+8AXysKzAR7Cf2AAAAAElFTkSuQmCC"
+         height="1"
+         width="1" />
+    </mask>
+    <mask
+       id="mask3236"
+       height="1"
+       width="1"
+       y="0"
+       x="0"
+       maskUnits="userSpaceOnUse">
+      <image
+         id="image3238"
+         xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAFAAAABFCAAAAAD4YT5ZAAAAAXNCSVQI5gpbmQAABV1JREFUWIXlmFl34soOhbdqssvMBHL+/9873YEkgIcapPtgQkwCJHRnrfNw9cSyzceu0pZKBvi/C7pxSxGL9B+JIHy8quTt8qXQV++oovIaIgBIFd5B+qujcYF8XcZVILnZelkSMwBdLh7GKmUhXc4f1yMJ+apEc1Wgmz36rrLPbYad/jOXMueoyvlq4du4D1cVngGJIHj7bVMWBgujnxvx86nDrOnIzVdTA2PV9a0fApUxlDNLv2+QXLd6rMxLmk6xIzNtu9Gyik2hr6fkDKjcZKRT24XIDBHOOWxo5h99HJXNVi1Hj6l07QsvysRCIIJcyPYQ6FcrG5u6btqQmDgLN3W7HD9AxZet0g8zyfvNrpwJQylttMTAn4jDJWs/sZ2tUlvXbZsNEeW6i2Fi48t2T4rGcnh+jZaULpQpCpd3z+0toKQ2UNuIHY1S23Q00sI55PbVpcMh4DkUaJtImfWE4Apn81MXPi16CGxfqlmua3jvJmMRR11k7mKtJWZGFxWYRcVmPCoZ0A6F+ZztgbFFmKzN+9d93SVSOu83uyAiOSUWQJiZBdSvZXfIhl+fO761h9xuzaqadruDdoUz0u5bwcCZAgASnjtHiZ3O7e4z7wwoqd7oh2kM+9hqpZDT5yRCchcJ0K7AYR9u2gaQuNd2Pg+hyQzClZ7CDJC2JQXWEPlgxuMeEpEiIgJTWVHbsVzDHZ+346nL5MrCaoXhk6bHaaWIAJDOYVL5XbpFA4DcHuzE55hi19R1fN9LA4BUUZVWAQAp67W6UfvHkLz/FSurDSDx+fcungQYAGRn64nul0ik4r653u7egttNXVhjTeErnUI6B7rJsgpNEgAiqXsd/OB1iV1QSmtdTNfO2/clGQACEDebQxJAJMcQPtvrgkYwQKrTMzvMigEg4bAjQthHEXw2wnWVgADa5G6QQwNA4qvFaA7eBcb3WKcgN7JdPdii3oc5si5Lg/x1Nj7w7PTBvm7a9z3qgZJDUkVlJd04IC+FKhfztHn5sGRAcsspLqYk288t8ybQelU3aZDEYy1L7jjnh0mO6WvLDMNYnJvi1Bw47kSvx+PDl1V3HkSgYWGp0ydOzSEap78su7PIAaU375QBkMjY23PQheDuEKvFxL5jTkcAaT9/8M32kO5SKLBlQTmddLwByVSL9Tg+bdvvlN0AyGJ8qdKJ+NZgTbVajcLmqb5PIMCZtS9UerNODyRVrVa+/f10uM80ACSnrH2BeHRHD1TF4rFqfm3u9QwACKesvctdX7ZHYLWaxV9P9b2lfNSYpRih6c/UPt9knGr27R/xAO72Byldf3AcDSTyxTH3hUg5jf89UGLLZeXUje/cCF1MRuiOo93JNr5UKV6YFL4M0uV8PYmblzAECrQvKef7iaSrxXqat5u6b6VvlcKifak531cnAJnRcj1O26fdmQ8ByVn50sil+eg2b7WuwtPTLp5VSm9PKrzFfas21WpV1r83+1PTPnUb4ZTgqkLxHR2M3PyxOvza1O8V9j7BCqfIzpcqp29vpCqWc9kMecP5kAPnvBwtOH3/7COQEBHhgkIAkkKCys23RpFeovOFJhHgY4M9EnMIXd1cmHSva7Sld+Z93P3weisc2vbCKH4thGMmV1WFAvMlIETuKxdOoctUVl6nvig+v4Df2XQkd21gNypyFwU3XsC/D2TOYn3pzbAf/l1o5+jtlPprhQCVy9U4vDx3/b8cf89TfjHj7b+v8YeAIGVUquvzjv1XQFMWKsV02Yd/EgJdlEY4y08BU1aFd4hZfgjIMYox3Ab+EdsAuePQlCEBN/+duydIO8tdlB8DgojwJ6f6fxD/AycfNEYjs+CsAAAAAElFTkSuQmCC"
+         height="1"
+         width="1" />
+    </mask>
+    <mask
+       id="mask3224"
+       height="1"
+       width="1"
+       y="0"
+       x="0"
+       maskUnits="userSpaceOnUse">
+      <image
+         id="image3226"
+         xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAADUAAAA0CAAAAAAP0S8JAAAAAXNCSVQI5gpbmQAAA3hJREFUSInN1ll3qkgQAOBaekPEqInO//970eQaVGjopeYB9y33ac70I4ePoqqLagD+7wsfXkNEBAAQEQH5G4VErJQiApAcY0xJ5BbeKiRtrLPWKEJIKfTed13INw5vjSvHZaE1EQKIpBTaZrdv+5yfKlKumkxGhiWlLALIpFBCs63rNmR5qJBMOZ2PLYbOd11MAqyMdU5j2G02dZfOTF0gN3mfldg3273vQxIBYja2rEo7dc78aaPcKWQ3Xcxc3P3Uex+ziAAgIKl6M5lWhTb8vT8xPkea/zO3/vvzq25DGoomIhJD57vM1uoc060iN1vOTbP+3DQhXZVZcuy7xNZx7uO1QjNZvptmtbpK+rByikGUMxiPD+RDUuXHovDrVd3nWwMAIjGCdiZ3IV8ostNlFb8+HyMAySmzcxT8UJBBqfHHnOrPTfcYAYBkMc5kPzyWAQDQThelX3+1TxFIFioc9kMwAgAgMx7lXe3vC3HBum0d3NgNAACA3ViH3T68QCCp3XoaFQoPCpVz6PfPkxpYaJpsR4YOipTT2b98PwCQ1LVROX2Kpa2K/knRL1jvI9uzYk25j69DAUjqIyomPNZQ0UVrPlWSkhAf8kJEgvwrAhDJgATHWPhwwD1cw60Ew2eE9BcQcZiQQAACOQnxrwyJGIdMCAAkhURG/RqMNENM+ahin9SwES9jaatyiIc3BAk+srP8C2NT6OjDOZb34EbmtSJVjLhv+nNevol2XLzOjOy4kLY9f1/Z7zxXlaVXSI8npt8Nio8PKnTu+vy0QVCPF3OuV9sAJyWgXMEphGd9j1y8L0bd+k97nhsAAMpZTuFJNyK7+fJN/qy3lzMKJKMurMrx9nw7RpotZ1SvjkPsGCtn0M5qyPepIenRfDlT+9VXk+BKQU6grTUMkm8M2+p9OVX79fo0j05KUsxsnTOMCDgch4hEypSzj0VFu/V6dxpip/NL4l5SnBZmVG0bH2IWAESlbVFVpY7br+/tucKXJywXk/l0xMm3bRtiAiA2dlQ4LW39vWni+dUvmwjJlG9vlWOJMcUswKSUotztf352V4PvuvVI2VE1Lq1iAgFAkBT7Zrfd+3hV25uGRWLjiqKwiglFcuh927Z9uNmPuzZHZNZaKyaSnGIMIaa7PXzwcSAgIRKiiGSR+7+ox/9sh8soAI9+2P7j9S+gYAoJlIB2gQAAAABJRU5ErkJggg=="
+         height="1"
+         width="1" />
+    </mask>
+    <mask
+       id="mask3212"
+       height="1"
+       width="1"
+       y="0"
+       x="0"
+       maskUnits="userSpaceOnUse">
+      <image
+         id="image3214"
+         xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAEwAAAA1CAAAAADO0VL+AAAAAXNCSVQI5gpbmQAABEdJREFUSInllsdy5EYMhpG6GYaaVNK+/8v5pLSjCWSzG4APEzQKay/HrvLB4I1kffUD6AZ+gP9F4PcvCdz9X4ERhYBlLJNp/BXPcbZcz4OZTYXJF5bUd8tFC/vwvC8TcZ9hFGeL9bxmjIS0z/ZdqogIiA72uawf00Su5w8Py5j7IjHy1yYgEonEumnbuvpSog8NQGoW96vGd5s+LOfcb35u+6xnJCIiskiIMYZAXg5vu+GD9Os0kevVw6oaN8+bUYayaMJsuzukUswAkIhZJFRVVYkwoVvqnl4H9W9hSPXqx1r6l+fNYFRyWrR37XIY0qgKQCQSQgwiTG6aDcMsMr70V9quYFQvf6zl8Pz0lsztoOmw6Kq2LWrmjkBITISmqeRxzErtol25+aDfwCjM71dyeHx6Gw3AdSjDtuvaSoQRAdzdbNQ8pjSOuahRm+5nK1NL9gWG0q1X8fD0uB2PHy1r2m/quoqBCcBVNY9jzrkUdQPHsQDOVjlr9s8wqpfrJr08nVkArlYGDiJMiA5mVlTVzB0cAMC3xFyvU7ZzE84wivP1TH9esQDA3TQjIiAAOLifOSfpWw737XoYzz3gS5IPa3l7fB0+3yB3O8ZR08dPilUjmsaPMKpXD7P0+HxQmBIG3NSY0mnAnGDSPSzx5+NbnjZ23DG2ov1JGgEAAIZZF4bNbiILPO82vXRdxCsYVXeN7bZp8gSztN1Z01X0DkNpZmHcHabPVtd+m8KsYbyG1TjspwsDsLTvoWnCFSw2UQ/9dGEArsOhhDbSBUaxkdzfIgzAUp+5jhdlSCFiHm4RBuBlyBgj4xnGMUAe9TaY5dElXMEC2Th1FZ3DSjZ+hwELWZl2ka6kaTEShrMyIjT9dqv9ljQ1ZLooQ0K/meVugPh+zv5pOFzdTfdf2KHfCQREOE46AgB3c2K+FUeXIhEAgKlxVYUbccRkxfysrGTlbrVohG7AIQeyog6nSUuxrWMMQnBDS+Vu3abXbYb3HcBStU0UhKk8jIt1PLzs9Qxzy1kx1G1TCQNOai036yW9vfYXGFhJaTSMddvWcVLlkLv7u/L6M11qBuBlHPrRINTtrKnkeDv+jomIxPXivj68vGV4h4FbSalPClK17aypgxAhAuD33h4JiZlj1czXS9ic9u3Fa7iapv2267o6Vt049P2Qci56shYn8wiAgIBH58ciMbbzeNifbNUnG8qxbruuqQQ0j2MaxlyK2smsHCnIRMxBYggizCLl5Y/n5F9gAIgsVdPOmjoKumop+YQDBzwqYhZhJiYiMNNyeH7al6/KTlUVqeq6baogTOhq5tcemZAIwc1UreQ8jv2uz/497FhelhirqqqiMCPR0VX50T+6mWnJJY8la9FSynl7/KL9iEgsQYKEwMJEBHh0oqZatBRV1aLmHzzbr88Sng8AMSEinuzeyau5w0fr99ewCxHw6i8/PbeMhP8w/gSmiY2YixZ/EAAAAABJRU5ErkJggg=="
+         height="1"
+         width="1" />
+    </mask>
+    <mask
+       id="mask3194"
+       height="1"
+       width="1"
+       y="0"
+       x="0"
+       maskUnits="userSpaceOnUse">
+      <image
+         id="image3196"
+         xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABMAAAAPCAAAAAAjL6vwAAAAAXNCSVQI5gpbmQAAAH9JREFUGJWNz8EKAjEMBNBJW1sLIor//5XCut0kHQ/tonvbOeTwCEwCnIuMIQQPJiEFeO+cnABIvlXR1jbrAIAIIFyfr8e9XjA3IwBJpaRca6Y5p4G2Lo2lxk37z9pnacjJVuPoAN1N1b1Q9t7BfHtW5X7zSIiB3nkwCP6eOZEveag9KW/MrjMAAAAASUVORK5CYII="
+         height="1"
+         width="1" />
+    </mask>
+    <mask
+       id="mask3182"
+       height="1"
+       width="1"
+       y="0"
+       x="0"
+       maskUnits="userSpaceOnUse">
+      <image
+         id="image3184"
+         xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAE8AAABFCAAAAAAuxOQ8AAAAAXNCSVQI5gpbmQAABT5JREFUWIXlmNuW4roORZdsJ44DBJpL7f//P6q4BRLHtrQfuHRooLpSu8Z5OXrKSMLEkpeWBcD/V9DrJwpguV2LyPmKINfbT0K/eqCy0hk6f1BZZ0nkfHfsKA3nkZksF6ViFkDZ2aIyMQlUXq3eJgjxJdC84mWT1SSM8k0TYcarud5yFLLVcj5KUrf8FR6BBNdv1tZlNNXm48R2OnWo2lbMdDnLoTPzuuo9ntKGJDHLBcntiUqtt92oMkfOqsYU80oOmZXX5evxKBuNs+i9j4kh4MRxk6rRsmjdqNvwrFhVtgh7P1GRBUR03fIXPGXnb0VsmmPT+sjgJNIemsXkl2jefjBWkzGfNjtdCkMZbTRi97jRvXx1MXYhK6ft6dS2USkQN23wlQ2HjwNDVdRsd92IoPKxsjZHvW3Sa55E32X+KKYso29aGZuOU4y+tnw6eDmkHfnGU2JdLlNmbSbb0D0ou8fz+5HitkZe2vGIJdddEO5SqxGDiI81JIkKbSxtAlSm2yf73NOzMLKcj/vDsY3QSpqPvWdwijEJAGY+l4sktcc6GKq3p0/yhfit0cXU706HPLcGXd0wgNsmCgBI2AdLKZlf3OybR1n3edxuzHIcun3bKq0oxWd9yl2sSdTEqvrQPfLu+leYtbPsA3NKMT7XrTAzq/HC1ocARX+U8MIjIkVEIrCl9j4JPmsCkB7NLEtubWYI/TcNACilNIEAaO7gRvvuMxgAYX+0ZR5jCF17PPXyNgBUXrpMgQAoU5r4kMRj8GmdykybAgj7952/fb8ByExWM3PJj3Q6nl7b243XbRqbG5PlzmXsw003BiAzmlexiQIIOHWH3d/SBZA4HJXWOh8vR2Wm+jwBkbSbOogAzNE/afPHkMQAUYaqRG9HDIB4OhhQV3cMgcgzG3pKBIREG/bhjiexXtOkEkkx4WuoW1BW2nDs7a8GgBSTti5D+kqid6HHS3f8OP5u47OeU4iwLpehQMpnc/rY+vv6QVLLIcxHBH50yM9CZYXpmr4cLn7AHae0LBchfnL2PwmTUXdnqld/4XCEeisndRi0QBDum0ldLyS2R6/tJ0frs0idWJer3zd656UyGvxF7V2Cu5N3M8/+Jpib/+miWo7DZh8GSsY4q1K6lfDqf7qYraa8+Ti9nEyehrDowmm+baO+4Nz8reLNuv67tfwBTEkXTqUr8MzTxXw1CR/r+smJ8LcFxqQKp2Lg3zzKpm+Tbv1+CENxZ6B2xdUUNAAot5jL+/Bkr0DJSt2eZ0IFAGRy7Q/Nt3AAh7rm3Gq68c6T1/do508LXSZ7BQAS2pSXfZkPCZWPxrq7mPpFf7pwKg70givOVsupbLbn+p15Am2dTt8AknbT1Yx274eI3vqElXUZx6F6IV3+WlXYra8jwJWXkipchjRshaTL+WoSN+v91RGufsApknU5pUEOo4rFauT7fXXzF0lBMldoHrBEyqp/Kr9+r8OjXwmnTswwIOWzhd6s6/DHeXQGBuawmMwkDtgVIoCU+r2C/jwpMUTR3Pqv8ogyZzX6s+L9fJpC55tTN+BIoqxwVhMYd3q5Ajn4xg841DlEyl1ZaGLu99sNKHGQBCV1PipbOsOh1293r3ydBkBS8D6ZUSFnQ331e/rLPAkpsnZudB4qv+lRd6GznFI4V/2/rg+gfPpW8W5z9qv/zlPFbIbN+jK0/UC+yuh0OvqnevlGkC4Knbr4UzwAOrcZnX/N/gBPUkRe5oiRf4bHIbDOxPuf4UE4dCH6k0+f/b82JEjlufjAP8UDFEGGD1P/+/gX9XxD7FJZ5skAAAAASUVORK5CYII="
+         height="1"
+         width="1" />
+    </mask>
+    <mask
+       id="mask3172"
+       height="1"
+       width="1"
+       y="0"
+       x="0"
+       maskUnits="userSpaceOnUse">
+      <image
+         id="image3174"
+         xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAA0AAAARCAAAAAAjlHlAAAAAAXNCSVQI5gpbmQAAAG1JREFUCJmFjssKwkAQBGt6Ekzixdf/f6Siiyaz42ETL4LWpSkamoa/WAsHMJd9zHycuqyraTid+3lJEKDhcDmObtCBWT/t6060zuTedgRkjYiazTLn8iivbRNZ3K7Pulou5V5iu2RSRn79/MUbSkkjY99s3ugAAAAASUVORK5CYII="
+         height="1"
+         width="1" />
+    </mask>
+    <mask
+       id="mask3162"
+       height="1"
+       width="1"
+       y="0"
+       x="0"
+       maskUnits="userSpaceOnUse">
+      <image
+         id="image3164"
+         xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAA4AAAAOCAAAAAA6I3INAAAAAXNCSVQI5gpbmQAAAF9JREFUCJmNjjsKwzAUBOc9KSkEAocUvv8VYxMi67MuHINLT7NssR+4g13E3FEXEACLKacg6bAhvecp1iaIgD3zy1m+HJa+/by0M4t6WT5rHf9mf0RrdejcM0O69e/KDiaxHznjh7r4AAAAAElFTkSuQmCC"
+         height="1"
+         width="1" />
+    </mask>
+    <mask
+       id="mask3150"
+       height="1"
+       width="1"
+       y="0"
+       x="0"
+       maskUnits="userSpaceOnUse">
+      <image
+         id="image3152"
+         xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAADUAAAA0CAAAAAAP0S8JAAAAAXNCSVQI5gpbmQAAA41JREFUSInNlt1S6zoMhZdkO3aS0kKhvP/rHaBAS5rEvzoXbQqU0u6bPbN9mcw3S5KXJAP/+qGzH4mIAEBEIPInFBErrbUigpSUU8ryAzyliLVx1jpjmKXkGPzofcwnHJ0ytpm1TWUUMSCSc/S7bjeEXH6lSNvZfN5ajZxLERArxRLHj+22D0XOU2zaxd3ccQp+9DELWBvrbMVpt3nbjukT05+Qqm7ul62OH91u8CkVAbM2tp219cK56q2P8lOL3eJh2chus+3GmEUgIBArW98s5i5/PK+7I6aOkL19fGjS+/PLex9yERFARCRH731i64ykY0kmiuxi9eDG16fX3be8ASkphMzW6RKn1NRUvdlqVfv10/uQf3hBcgpFWcspHH7qKanbZRNfnzY+nzIAJBaAF/Pg0z6OvRaZxeMt3v57PwsBkJzJ1ir5WD4p1dzf2+7pbSjnIUCKmNqK90Umisx8NU/rl+5nTl8wcrWOQywAGAComrXcb/oLEErsNt7MakUTxba1qdvFX+MDgDJ+DFS31USRsrUK3fhLJSYqDbtU1RVPlHYVxiFeiA8Aiu+jduaopSudfbiUFQBI8pEqo2iK0KgS0hUIkmMUbZimaijOqVyjIDkVVse8mCHlYgEPWBHwUQtEuKoEAIL9xGPs24j47GT8fohJishBq2RhdR0j1lTK5CjJMXOlr1HEWnOJ5aAlKWRVGb5GKWskxjxpJR/JOXVFjCpn8viplceh2Maqy5CuWxOHIJiq4ftoZs3lzLhqW/J9OPZXCV2Pdn4xRtLtwqauT8deBtg2FsH/bmBS7f293b1swhdKlKtNCenXFlP13eomva77jCMlgHZOl5TObUYAyt6u7njz8h6+TDaIwDirJZ/ut0N4dvG4rHbPr4chNlVbihjrDJUzqbGu7x7v7bB+6Q5NeLyjUkRZV6nT7U2kq3b5uLTj+nkbv895ADkVrpyrNAO0X1FEpFTVLFarW9OvnzfhdKfsPQxt69pWWrEiVkrpys3mD6tlg+7leeOPjfvlXknZ+d1dq3PohyGkLGBlbN24CmH79rYLn93+1Q3EplksbmotOeZUCpRSWisJ/WbzMXx9BXz3EKuqmd20ziiGACDkFMbuoxu/r8IT5xFp4+q6tkbv3zZhHIbBx5NZ9MOvRKyNMVopQskpxRhzOZ1F51xOxERMBJFS5Ocr6pc3Gw43JvizgfdXz/8dwv9YdmBQTQAAAABJRU5ErkJggg=="
+         height="1"
+         width="1" />
+    </mask>
+    <mask
+       id="mask3138"
+       height="1"
+       width="1"
+       y="0"
+       x="0"
+       maskUnits="userSpaceOnUse">
+      <image
+         id="image3140"
+         xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAEsAAAA2CAAAAACqmTspAAAAAXNCSVQI5gpbmQAABFNJREFUWIXdl9mS6jgMhrV4ycLW0D3v/3ynTy8QyGJb1lwkgV5PNcxUTdUYrnD46rckS38A/v8Lv/wRUVX/DRaStZSC5GtZ/JnkqvV27VWuVmY+otgv1puaW0dNvFLZBxaZcr3dlAYdEzUhfyUNAREBQD/uvmeRW9ztllZO6JZkTDPI++cREAnZMBPkGOL73Xcsdqv77QJOhxOtV7Xxr4cuyJxRBEQiY6x1zhmG1DeHXvQbFvn1w65MzfNLT23cFLt61bRDTDkrAhEzW+u899YwIWho3Eub9EsW+fVfuyK8PL12CWMc7qq6WHf9EEQUkNlYZ50xTJglZTSlZYTTG2UXFrnVw67onx/3vSj2EtrNoixLSTmrjnFiwiwxxRBiomJdb0Bze4nZmYVmcb8r+qdf+yErqKgMp8WiKowhmrImUWIchiHEJEJF97DaZMm9fGQhV9tdGZ5/7YdxL6uE096X3htDCCo5xRhCijFJVlUcEuByk+Il1WeWX+/q9PK47+cCVY1pYGMNEyKoZhGRlFWnxGZF5nozBJnjP7HQLrZLPfzeD29qXTVL7BEBAUBBx+95Nx7Z2vKuC3P4p/vI1f29bx+fuo/XRjWPS3L+2Ds0gy2t9vNd4ymHm4dVevp9TFfd56zsS4r99C+eZe1s8/garmwNCrZ0uZ8CQwAAaKqlD/vmalQ67VuqF47esNyihvbQfdkW/ggLxyYVy/INi33tUnO6tl8BaO6ajurK4sxCLioeTsPVKIAcT2321XhIAgC0pde+vV4WAOShjaa8sMiVJnW3yALIoYtUeMazLs+pu0kWqAyDWjezkIzDNFxXphdhccjszKyLLUNMVxfEJCxFYXvRxaRJbkOBSsxkGM4szHKjLIAsGZnOsSf8NOt+rktVkc61+g/XWQUBgOo3fudnCxHGxkYAqlmJ+UYa0jlCBABZMjlvb6SRoSlzBkAlClV38sk9/EwXW8pjRTEAoqsK55xBvMEMmnq7SK+HoGOPRkQyviy9uT6raJbbanhu0sSCnIKAKarSW8brUkp+s7XH55PAxNIU+kHQFlVVOEMAPwdyvVvD/qXLMwtUwtCFhNZXVeUtE+IPcIhEbnVfD8/jAJtmrWqKfT9EZV9WdVk4Q4TfAhFxtGOuWG439vh0TAAXP6EaU2gP9XJZ2lUd+77thzDaENDzPcHxg0hsmI2xrlyV4Tg5uov/Uo1paA91vai8L3IMoR+GmJLkefojIhIRMbE11lpr2LDRUzO19/dnQCTji6quCmdRc0oppjjSpvgwGTaGmYkYUbNI9/zYjLo+xQOJrSuKqvTOMKFmyarjQUcXjUQ0WqicYoyhO82D9at3GCQyznlfOGeZiGjOgaqqZs1ZUooxxigpSUrz287XiR+ja6yx1hjDPDY71ZyziKSURETSaKMuluzbIsI588RjdYwwPVsxVX3TB//ImoEwHRBBAcby+AT5Eev9g7eOhP96/Q3ZTKRtudo+tAAAAABJRU5ErkJggg=="
+         height="1"
+         width="1" />
+    </mask>
+    <mask
+       id="mask3126"
+       height="1"
+       width="1"
+       y="0"
+       x="0"
+       maskUnits="userSpaceOnUse">
+      <image
+         id="image3128"
+         xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABYAAAAPCAAAAADFBmC0AAAAAXNCSVQI5gpbmQAAAJJJREFUGJWtkE0PgkAMRN9udwEF0Yj//xd6kGBEPrb1AKJnYw9N+iZpZgb+MG7d9jkNEMB5kVWWLGzY59XOKzgfy7og6YKlbE6ZGRKr5pyNo0IAINZVcR/Jq1omVVuwDl1+uBwnF6J1t0daf6NpNh9iZGiv7WBvg87H3T4PzM++n3TD4ESCR+eU7CsO4Bxg9lMnL6E2MsdRgQLFAAAAAElFTkSuQmCC"
+         height="1"
+         width="1" />
+    </mask>
+    <mask
+       id="mask3114"
+       height="1"
+       width="1"
+       y="0"
+       x="0"
+       maskUnits="userSpaceOnUse">
+      <image
+         id="image3116"
+         xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAANCAAAAACF0LH4AAAAAXNCSVQI5gpbmQAAAF5JREFUCJmVjjsKgDAQRGc/CRICFt7/kgpBNiZrEQOWOs3AK94M8Ds0mwjuPgGJqsBqcygAcExpCfXY+wCkeVsDijEwgMRIZuVsj5RCTnxZNes+pKyC1v29AsC/Pr0BoCwhMlQG0ucAAAAASUVORK5CYII="
+         height="1"
+         width="1" />
+    </mask>
+    <mask
+       id="mask3102"
+       height="1"
+       width="1"
+       y="0"
+       x="0"
+       maskUnits="userSpaceOnUse">
+      <image
+         id="image3104"
+         xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAANCAAAAACF0LH4AAAAAXNCSVQI5gpbmQAAAGFJREFUCJmVzbsOwjAQBdHZtR2kxBKP///JFAghr/dSkNSIKU8z8HcGmBkSAqAC3hafEVMCCljtj9t2KUoOaP1+7WvLkfqCFxfOeA9BBcUz9qXymucFc3O3jNQBgGHn+FcfLNshbod78bUAAAAASUVORK5CYII="
+         height="1"
+         width="1" />
+    </mask>
+    <mask
+       id="mask3090"
+       height="1"
+       width="1"
+       y="0"
+       x="0"
+       maskUnits="userSpaceOnUse">
+      <image
+         id="image3092"
+         xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAE4AAABFCAAAAADBBo8CAAAAAXNCSVQI5gpbmQAABUFJREFUWIXVmGlz4jgQhrtbh2UbCASY2v//83Yy4fYhqbv3A0cgE5Owk6qtfT9RYD1uqU8B8L8Vfvglfvj1nRXHX4hAWc+fVVQBAMmSZNGBRWaQZqtxZVUBAMjXdQECAGSrp4kXkUdxVC7+mgUUUUA3WS5rTQzkRou/5kXueWCVHcSFp7mtC7dqGcNsOUqYMrvxfD7ydreJA7u9xiEiqJ4eRHKUcWLMqsXRUyFmfOi5ns98RiQaMuIKh9Y7zIn5SFSJbVdUZLc6LfvWhSnrZII7GcPg0V3jqJyNsW+7LmVRVcm5XZtpvay1xs06LEYOHK+3viQWQEI8OftjHJpy8Uyxa5um6xITiGob4/N4SrpdbQr3XEq3fu2ngECOnDPc9axDOAByAaVwo9Q1Tc+eELiNsRu5frVpE3HI+22DglRM1JfBxtfXbhCn0h9GtjlA4Ypx6qKtSSTH3AWT2o5501uOkR3nMKvIWe96PvTDZyftazHRfo9FFXwBhvo2icTcoLKq9glVVbnbO29VEjr7e0pdh7EI+kKb3f7QxqzcbVYNA6gIn1ytCgDKOba7TWtcfN2m4bNT6VZ2UT31u3bvvCPpuuPTN0s0blqrjGPg3f63aL52heYDmfkkpV2MLaLKR5muLAkVgyv40Ang7SPvcpbVlT53WeS8xQ+kolBMJ3qISkQ39eqIQyIiQ4SoVFbaxsGwPwldNXbkyqr0jvTtOCwAAFrrjm9BQ2rLAnHIsrOBab+ZlEGUU3/Y7S+vtwCArh6X9ogjV+FgcbzGbaEJ3lrr6kmAi4ctAFCYL8Op8CLIdt1+DpSOD84Za8O4nrVNvsKhq8d0aJIqgEru9s1QdbwyT2MiRDIheesvDrUAoJwZ+vUhKSiIpOFWcAsUQCBIQnzjCu3XYeKKQx8FFFThK7QjEsAUFPvzXo+BIqwmeJKc5fcSdldox/Ni99qePXvcNWemUDrlzw/tVlTMpvK6uaSuBQBQaSWn6ZNB+IJTb3G13R3SbRiDcic5P49A5X1BvCtEH6Dt5B0OQOKWZTHKXfosv255xmrKbxZcWpykw+sW6srcmUA+kCqaqyVvHVM59mLMYAv9ECapw9HIXRa9FShy9axOm8NjzkUXCuRL4F9w5CeLKW5X3WM4BVsGZD7xzjgqnhYzs33Zva/+n4nFhpLO9pkzbbqc4fZl82nhfG+dMJsQKGd5w6F/Wk51/bIZnLTu8DKbEOAYLkecqZfPsHrZ9A/adubZyuUu6wmHZrwM27+3j+70zGMIpTRRznGHxkL3YEK8SVLbgbcIZ5wyqzX3RvJ7QjIGjlMhHc2Njdaj4qGMuIhcNa24iW+uQDAhEOfBTn2XNp7P3e7XIV9wCmDKYC7B/QitmCzmfn+K2FMYqyiF0gg/6g0TpsuZ2f1c91dhDKDMFEoHD9pHYfpjCpuXdXeTZKCSGYrKIz/SfNA//Xji1c9LNl0qimrO6stA+oCBplw84+rnLt52shMviS2Dka+Hsyln4/7X9m1qvJrvVHJiKhz3Xy5S6MeV9lfXgZtxUXPMqn3zdRzZovCGLlev2+lTOXVt80BBVkYbquAIjqPIu2FWJfUxf921yjGDK6vCHpP2/X1WPx6w7/H6BL6qTEof4B6WcOx69SMbW9bh6/HXearkR+AswXXb/tdCW01KPjrwz61DUy+eze7XNum3WGeqSWhffjX8PThQULnps38kNN5bOJbeb8CBChWlQ2H9DpxKzuhLJzHr91iXIyPFLumfBwoASM+x8W3SO/+QPSQkaySJfhMOAPGB29J/pH8ARWFBWD+IFLQAAAAASUVORK5CYII="
+         height="1"
+         width="1" />
+    </mask>
+    <mask
+       id="mask3078"
+       height="1"
+       width="1"
+       y="0"
+       x="0"
+       maskUnits="userSpaceOnUse">
+      <image
+         id="image3080"
+         xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAADUAAAA0CAAAAAAP0S8JAAAAAXNCSVQI5gpbmQAAA29JREFUSInVltt26jgMhiXZjp2QAKXAvP/jbVqgHBOfpLmghXDsvpq1Rpcsvvy29EsywH8X+MvP8rcUAiESIoCwCMsD8o5CIm2M0QpROKcYY85yy+Eto60rS2e1QgBJybdt24XM8pxCNLaum9JqhSAACJyTP+x3R5/4GYXK1qNRbYlTypkFSSutMXe7zeYQ+nI9inQ1mgxLil3bdjExgNKmLEun8vFrte3SBdMXyNST98bE3XZ/9DGzACBp46qmqRpri/XhgqkL1Mz+GdJhtVhuDl1MnJk5p9h1rRdlXQH5nkLTzOc1bz8+N8deyoQ5BR+ysk5LynJNoRrM5nVe/1nu/U2WRXIIWTmrckjXlCon82Fe/1m18d4JwimKdhZS+FY7UViM5m/4tVi1+ZHxhHOCwhXZR+5RuppO7X6xPD6ETvdTzlH0p4yok9R41sTlZy+39xiY0uTO85lSg/eJ3i224SkEwqKdA3+qNQEAKlfbuN0HfgoBSNjusqstwQ9lqhLbffcKAknt3uvKKTxTZcHtMb2kQOKxE1eaH4qM1bF9eT4AkOzbrJ3+phB1Qal7UN7r4OizKvT5hFpjis9K1RMLmcz5XkQK+H443EXOjIoQTxQQCP8OgTAgInxrnUbEX8T5TwQAwoJE+CtIhHJqIwIAZgal6FclpYkTiwAQgEiKogr1mxbqQnE8+1Ciz9qZ38TIOJVDj+qSLh29FkPlnAonMxAAcDx6qirzmiI7cNK1F63UHrJrypc3Q101RTx2+YeC3O29bob2BYWqHNbU7nq9DEC2NBwiPzWIsm+zJq2Wbe5RoF2pcnjaYlQM5xPafmyj9CgB7Zzi+MTDVDSzqW0/V21/soEIGGcVPNiLAKiK4Ww6CMvPXepPUQDOYJw1+MD8pNx4Nh2k9WLzM8TOO4WzKOusBrnqACRV1JP5e5XWH1/dzXYAkJyYCltaTYSAiIBIpHRRjaazceFXi3V3TnHvq7ocv4+d+MPu4ENiBiBlTDmoB5aP6+XmAvW7EZVt3sa1keA7H1IGJGOtsxrCbv217y/mq21OpmxGTaVJUmYBIFIKORy3m113VcprExEV5aCuSqMJEUWYU2gP+2N745rbV8rpVK4wmgByir7rfEi3U+/+RYRIWmtNiCI5pZT53p2PbI6A3xNMRB49vv4H8S81QAbwCK0l/gAAAABJRU5ErkJggg=="
+         height="1"
+         width="1" />
+    </mask>
+    <mask
+       id="mask3066"
+       height="1"
+       width="1"
+       y="0"
+       x="0"
+       maskUnits="userSpaceOnUse">
+      <image
+         id="image3068"
+         xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAEsAAAA2CAAAAACqmTspAAAAAXNCSVQI5gpbmQAABFRJREFUWIXll9ly2zgQRXsBCJIiZcmW5/8/byaJI1srsXT3PFBr5CSWK08zKD2pCge30RfAJcB/f+C7fxKZqf0BFpIPFQxDuRfG75Ams8WidyJ2J8zdoEI3e5gGbYk2WX82DQEAflzqBxa65mE+bxj5AZk2WW6lISAiIYCJXa91zSI3mS+mVdnm0PTsl+uh2EWlI4adc47RShzSVYOu9p58t3jqaXh9S83j1Mf123qXihqAIQAiknPeV6GqvEPLm9fV/lK4u0L1i+fOVt+/b0uIaR4eJ9vNLmZRA0Aidq4KIXjniAHAusYtdxewCxb6/vl5Im/fltsMpeQ4mzT1NOaUxAyRnfPOsSNUyYMo1eGRwHbnMs8sdJOnxaS8fl3uioENErfTvvEViCoYAhERqORSYoqpqJvOJzNTHeSGhdzMF50svyz3YgAmJsOm7dpQMTECmBXVkmOKKZVSBHibn7uZFI16wwqzRa+vX5fH7VSTtFuFqqocE4CKlFxyKVnUFAxQAGkyS1myXbPQd49TXH1bnjtjZpJ25JgJAUxVRNXsaBJLa3RcP8Yscs2iejbz25flVZMNRCHj0eVmV163vHnxz+18nw5VHs4jhdlf0/LydZNvjG5mqqpqN8fTTDE0LPEw6cDiyfMTr768pvuOs5mvA8RhLGZkYZg9d/Hb9/1PD/PPWBgal4fxEiAAAKDQT2x7fSI+xMqbt+j7icMTC13T+bTa3n37gcb11pou0Jnl2wb3m3hnhQBgZbdOVVvziUVVW8luX+5ngaZtxKZ2eGY1Lu+i/Gbe+8KGvVaNpwMLOQSK+1trfUzYvrjaH3WhC15TureJB2F5KBw84VGXP5v3blZJBb071+hJ3nsmPsTSko0vdDFp+SQLTESJj7oAGU0/YYgjzJCOugARTG+ezg+zzABP/vpDg0YyIOG7kecDAxHB7MhSMXL8aRajqdrIMi3q2jZ8jobMpKIw3vdWkoSHwpuhfCLAkfM4upNhDG8hhOA/0wgKD3O/XW7leEcbAIe6DZ5xzCF3sJr5A6yWgx5YJjkV4LppGs939tN1T31ZviU76SpxiAVc3bRt8Iwf51E1e6r3L+sMpzdNNcUhFuPQtG19xP2SiIhE7CaPc1y97ATO77bakId11/etD33c77ZDTEXUzG7OFgIgwkjiqp9VcTtmnVM2MTNJ+/Wk69q6baZpGPZDyqWIXj79CAiIxEyOnfOVr9oWd5ukh0UuZZMPTdu3tWeTMSBlKWMiGeMqETI55533zjExk+3++Xudb1gwWq+u27atvCPVokWkjPkGEImIiZmJiAnNREXS+uUt3uo6iGP2oa6bOjjHjGCjLBtjNBICqKqKlJxTznnYH+L0e61CQHLOV1UIlXeOCHHMTWZmZqpSSs65ZCkiInq8Rn/W9mOQZ8eOmZEAYQxPIiKictzGiz7/wkJjSUhEdLjcRlUjwuDGLb8zOI4+OH0AnX7/0/EvsZ6pGhJQ2l8AAAAASUVORK5CYII="
+         height="1"
+         width="1" />
+    </mask>
+    <clipPath
+       id="clipPath3042"
+       clipPathUnits="userSpaceOnUse">
+      <path
+         id="path3044"
+         d="M 0,0 566,0 566,476 0,476 0,0 Z"
+         inkscape:connector-curvature="0" />
+    </clipPath>
+    <clipPath
+       id="clipPath3579"
+       clipPathUnits="userSpaceOnUse">
+      <path
+         id="path3581"
+         d="M 0,0 563,0 563,471 0,471 0,0 Z"
+         inkscape:connector-curvature="0" />
+    </clipPath>
+    <clipPath
+       id="clipPath4847"
+       clipPathUnits="userSpaceOnUse">
+      <path
+         id="path4849"
+         d="M 0,0 474,0 474,101 0,101 0,0 Z"
+         inkscape:connector-curvature="0" />
+    </clipPath>
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#000000"
+     bordercolor="#666666"
+     borderopacity="0.57254902"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.53159302"
+     inkscape:cx="447.42299"
+     inkscape:cy="370.05882"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer12"
+     showgrid="false"
+     inkscape:window-width="1366"
+     inkscape:window-height="704"
+     inkscape:window-x="0"
+     inkscape:window-y="27"
+     inkscape:window-maximized="1"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0"
+     units="px" />
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+        <cc:license
+           rdf:resource="http://creativecommons.org/licenses/by-nc-sa/3.0/" />
+      </cc:Work>
+      <cc:License
+         rdf:about="http://creativecommons.org/licenses/by-nc-sa/3.0/">
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#Reproduction" />
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#Distribution" />
+        <cc:requires
+           rdf:resource="http://creativecommons.org/ns#Notice" />
+        <cc:requires
+           rdf:resource="http://creativecommons.org/ns#Attribution" />
+        <cc:prohibits
+           rdf:resource="http://creativecommons.org/ns#CommercialUse" />
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#DerivativeWorks" />
+        <cc:requires
+           rdf:resource="http://creativecommons.org/ns#ShareAlike" />
+      </cc:License>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:groupmode="layer"
+     id="layer12"
+     inkscape:label="Layer 0"
+     style="display:none">
+    <path
+       style="display:inline;fill:#ffffff"
+       d="m 252.75518,523.70049 c 3.00107,2.29595 7.50269,4.16142 17.10613,4.16142 9.60343,0 16.35585,-2.58295 19.35693,-4.73541 1.35049,-1.00448 1.9507,-0.14349 2.10076,0.43049 0.15004,0.57399 0.45016,1.43497 -0.60022,2.43945 -0.75027,0.71749 -7.65275,5.3094 -15.75565,6.02688 -8.10289,0.7175 -19.05682,1.14798 -25.65918,-4.59191 -1.05038,-1.00447 -0.75028,-2.43945 0,-3.01344 0.75027,-0.57399 1.35048,-1.00448 2.2508,-1.00448 0.90033,0 0.75027,0 1.20043,0.287 l 0,0 z"
+       id="path10179"
+       inkscape:connector-curvature="0" />
+  </g>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-35.315951,293.31249)"
+     style="display:inline">
+    <path
+       style="fill:#ffffff"
+       d="m 312.98005,214.02931 c 2.40086,0 4.95177,0.14349 6.75242,1.29147 1.80064,1.14798 2.85102,3.73093 3.45123,5.1659 0.60022,1.43498 0,2.29596 -1.20043,2.86995 -1.05037,0.57399 -1.20043,0.287 -2.2508,-1.57847 -1.05037,-1.86547 -1.9507,-3.73093 -7.20258,-3.73093 -5.25188,0 -6.90247,1.72197 -9.45339,3.73093 -2.55091,2.00896 -3.45123,2.72645 -4.35156,1.57847 -0.90031,-1.14798 -0.60021,-2.29596 1.05039,-3.73093 1.65059,-1.43497 4.35155,-3.73093 6.90247,-4.7354 2.55091,-1.00449 3.90139,-0.86099 6.30225,-0.86099 l 0,0 z"
+       id="path10177"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:none;fill-opacity:1;stroke:#ffffff;stroke-width:3.68781495;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 327.28908,111.97858 c -8.58618,-5.44893 -17.00725,-7.59547 -25.26319,-13.044398 -5.11869,-3.302374 -12.21881,-11.723444 -18.16309,-18.823557 -1.15583,11.393209 -4.45821,16.181652 -8.58618,19.318914 -8.42107,6.604761 -13.70488,8.586181 -20.97012,12.549041 -6.1094,3.30238 -39.2983,22.95153 -39.2983,65.55222 0,13.6014 3.65309,26.0582 9.921,36.71498 13.36363,22.72058 38.61516,37.25831 65.70348,37.25831 39.79366,0 74.30352,-28.89581 74.30352,-72.65234 0,-24.02942 -9.76007,-40.83677 -19.4356,-51.6558 -7.9431,-8.88187 -15.8294,-13.72844 -18.21152,-15.21737 z"
+       id="path10183"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cccccsssssc" />
+    <path
+       style="fill:#ffffff"
+       d="m 252.65845,204.2715 c 0.15005,-11.19279 11.10398,-21.66809 24.90892,-21.81159 17.55628,-0.14349 29.71064,16.64568 38.56381,16.50219 7.50269,-0.1435 21.90784,-14.20623 28.96038,-14.20623 7.50268,0 9.60343,7.46186 9.60343,11.91027 0,4.44842 -1.50054,12.48427 -5.10183,17.50666 -3.60129,5.02241 -5.85209,6.88787 -10.0536,6.60088 -5.40193,-0.43049 -16.2058,-16.50218 -23.10827,-16.78917 -8.70312,-0.287 -27.60989,17.36316 -42.46521,17.36316 -9.00322,0 -11.7042,-1.29147 -14.70527,-3.15694 -4.50161,-3.01344 -6.75241,-7.60536 -6.60236,-13.91923 l 0,0 z"
+       id="path10189"
+       inkscape:connector-curvature="0" />
+    <path
+       style="opacity:1;fill:none;fill-opacity:1;fill-rule:nonzero;stroke:#ffffff;stroke-width:4;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       d="m 705.35543,103.63794 0,119.08443 40.25906,0 -17.84947,28.95733 115.94986,0 -17.84947,-28.95733 40.26068,0 0,-119.08443 -41.97133,0 19.56012,31.73348 -115.94986,0 19.56013,-31.73348 -41.96972,0 z"
+       id="rect11443"
+       inkscape:connector-curvature="0" />
+    <flowRoot
+       xml:space="preserve"
+       id="flowRoot11493"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:30px;line-height:125%;font-family:'Anime Ace 2.0 BB';-inkscape-font-specification:'Anime Ace 2.0 BB, Normal';text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       transform="translate(35.315951,-293.31249)"><flowRegion
+         id="flowRegion11495"><rect
+           id="rect11497"
+           width="237.02342"
+           height="84.651222"
+           x="135.44196"
+           y="561.7182" /></flowRegion><flowPara
+         id="flowPara11499"
+         style="fill:#ffffff;fill-opacity:1">dRUPAL</flowPara></flowRoot>    <flowRoot
+       xml:space="preserve"
+       id="flowRoot11501"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:30px;line-height:125%;font-family:'Anime Ace 2.0 BB';-inkscape-font-specification:'Anime Ace 2.0 BB, Normal';text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       transform="translate(-60.684049,-304.1455)"><flowRegion
+         id="flowRegion11503"><rect
+           id="rect11505"
+           width="282.17075"
+           height="77.126671"
+           x="705.42688"
+           y="573.005" /></flowRegion><flowPara
+         id="flowPara11507"
+         style="fill:#ffffff;fill-opacity:1">mODULE</flowPara></flowRoot>  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer8"
+     inkscape:label="Layer 2"
+     style="display:none">
+    <flowRoot
+       xml:space="preserve"
+       id="flowRoot11421"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:30px;line-height:125%;font-family:'Anime Ace 2.0 BB';-inkscape-font-specification:'Anime Ace 2.0 BB, Normal';text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       transform="translate(-127.91741,71.25036)"><flowRegion
+         id="flowRegion11423"><rect
+           id="rect11425"
+           width="282.17072"
+           height="126.03625"
+           x="297.21985"
+           y="98.958176" /></flowRegion><flowPara
+         id="flowPara11427"
+         style="fill:#ffffff;fill-opacity:1">Do you have a foo_bar() hook?</flowPara></flowRoot>    <path
+       style="opacity:1;fill:none;fill-opacity:1;fill-rule:nonzero;stroke:#ffffff;stroke-width:4;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       d="M 311.20898,139.98633 A 185.29213,80.888947 0 0 0 125.91797,220.875 185.29213,80.888947 0 0 0 284.05273,300.78906 l 0,59.64649 50.26368,-59.40235 A 185.29213,80.888947 0 0 0 496.50195,220.875 185.29213,80.888947 0 0 0 311.20898,139.98633 Z"
+       id="path11509"
+       inkscape:connector-curvature="0" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer9"
+     inkscape:label="Layer 3"
+     style="display:none">
+    <flowRoot
+       xml:space="preserve"
+       id="flowRoot11485"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:30px;line-height:125%;font-family:'Anime Ace 2.0 BB';-inkscape-font-specification:'Anime Ace 2.0 BB, Normal';text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       transform="translate(-29.772738,108.79208)"><flowRegion
+         id="flowRegion11487"><rect
+           id="rect11489"
+           width="285.93301"
+           height="158.01562"
+           x="615.1322"
+           y="104.60159" /></flowRegion><flowPara
+         id="flowPara11491"
+         style="fill:#ffffff;fill-opacity:1">gO FISH!</flowPara></flowRoot>    <path
+       style="opacity:1;fill:none;fill-opacity:1;fill-rule:nonzero;stroke:#ffffff;stroke-width:4;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       d="m 728.94141,176.08398 a 125.0957,55.49358 0 0 0 -125.09571,55.49414 125.0957,55.49358 0 0 0 91.2168,53.36524 l 38.58203,62.32422 0,-60.26953 a 125.0957,55.49358 0 0 0 120.39258,-55.41993 125.0957,55.49358 0 0 0 -125.0957,-55.49414 z"
+       id="path11511"
+       inkscape:connector-curvature="0" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer10"
+     inkscape:label="Layer 4"
+     style="display:inline">
+    <path
+       style="opacity:1;fill:none;fill-opacity:1;fill-rule:nonzero;stroke:#ffffff;stroke-width:4;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       d="m 485.8373,255.05981 0,119.08443 40.25906,0 -17.84947,28.95733 115.94986,0 -17.84947,-28.95733 40.26068,0 0,-119.08443 -41.97133,0 19.56012,31.73348 -115.94986,0 19.56013,-31.73348 -41.96972,0 z"
+       id="rect11443-4"
+       inkscape:connector-curvature="0" />
+    <flowRoot
+       xml:space="preserve"
+       id="flowRoot11501-8"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:30px;line-height:125%;font-family:'Anime Ace 2.0 BB';-inkscape-font-specification:'Anime Ace 2.0 BB, Normal';text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       transform="translate(-280.20218,-152.72363)"><flowRegion
+         id="flowRegion11503-1"><rect
+           id="rect11505-8"
+           width="282.17075"
+           height="77.126671"
+           x="705.42688"
+           y="573.005" /></flowRegion><flowPara
+         id="flowPara11507-4"
+         style="fill:#ffffff;fill-opacity:1">mODULE</flowPara></flowRoot>    <path
+       style="opacity:1;fill:none;fill-opacity:1;fill-rule:nonzero;stroke:#ffffff;stroke-width:4;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       d="m 544.15259,256.94095 0,119.08443 40.25906,0 -17.84947,28.95733 115.94986,0 -17.84947,-28.95733 40.26068,0 0,-119.08443 -41.97133,0 19.56012,31.73348 -115.94986,0 19.56013,-31.73348 -41.96972,0 z"
+       id="rect11443-3"
+       inkscape:connector-curvature="0" />
+    <flowRoot
+       xml:space="preserve"
+       id="flowRoot11501-9"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:30px;line-height:125%;font-family:'Anime Ace 2.0 BB';-inkscape-font-specification:'Anime Ace 2.0 BB, Normal';text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       transform="translate(-221.88689,-150.84249)"><flowRegion
+         id="flowRegion11503-3"><rect
+           id="rect11505-1"
+           width="282.17075"
+           height="77.126671"
+           x="705.42688"
+           y="573.005" /></flowRegion><flowPara
+         id="flowPara11507-1"
+         style="fill:#ffffff;fill-opacity:1">mODULE</flowPara></flowRoot>    <path
+       style="opacity:1;fill:none;fill-opacity:1;fill-rule:nonzero;stroke:#ffffff;stroke-width:4;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       d="m 542.27145,414.95657 0,119.08443 40.25906,0 -17.84947,28.95733 115.94986,0 -17.84947,-28.95733 40.26068,0 0,-119.08443 -41.97133,0 19.56012,31.73348 -115.94986,0 19.56013,-31.73348 -41.96972,0 z"
+       id="rect11443-47"
+       inkscape:connector-curvature="0" />
+    <flowRoot
+       xml:space="preserve"
+       id="flowRoot11501-1"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:30px;line-height:125%;font-family:'Anime Ace 2.0 BB';-inkscape-font-specification:'Anime Ace 2.0 BB, Normal';text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       transform="translate(-221.88689,-150.84249)"><flowRegion
+         id="flowRegion11503-4"><rect
+           id="rect11505-9"
+           width="282.17075"
+           height="77.126671"
+           x="705.42688"
+           y="573.005" /></flowRegion><flowPara
+         id="flowPara11507-9"
+         style="fill:#ffffff;fill-opacity:1">mODULE</flowPara></flowRoot>    <path
+       style="opacity:1;fill:none;fill-opacity:1;fill-rule:nonzero;stroke:#ffffff;stroke-width:4;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       d="m 657.02089,354.76014 0,119.08443 40.25906,0 -17.84947,28.95733 115.94986,0 -17.84947,-28.95733 40.26068,0 0,-119.08443 -41.97133,0 19.56012,31.73348 -115.94986,0 19.56013,-31.73348 -41.96972,0 z"
+       id="rect11443-6"
+       inkscape:connector-curvature="0" />
+    <flowRoot
+       xml:space="preserve"
+       id="flowRoot11501-0"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:30px;line-height:125%;font-family:'Anime Ace 2.0 BB';-inkscape-font-specification:'Anime Ace 2.0 BB, Normal';text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       transform="translate(-109.01859,-53.023298)"><flowRegion
+         id="flowRegion11503-5"><rect
+           id="rect11505-88"
+           width="282.17075"
+           height="77.126671"
+           x="705.42688"
+           y="573.005" /></flowRegion><flowPara
+         id="flowPara11507-2"
+         style="fill:#ffffff;fill-opacity:1">mODULE</flowPara></flowRoot>    <path
+       style="opacity:1;fill:none;fill-opacity:1;fill-rule:nonzero;stroke:#ffffff;stroke-width:4;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       d="m 758.60236,211.79362 0,119.08443 40.25906,0 -17.84947,28.95733 115.94986,0 -17.84947,-28.95733 40.26068,0 0,-119.08443 -41.97133,0 19.56012,31.73348 -115.94986,0 19.56013,-31.73348 -41.96972,0 z"
+       id="rect11443-2"
+       inkscape:connector-curvature="0" />
+    <flowRoot
+       xml:space="preserve"
+       id="flowRoot11501-5"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:30px;line-height:125%;font-family:'Anime Ace 2.0 BB';-inkscape-font-specification:'Anime Ace 2.0 BB, Normal';text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       transform="translate(-7.4371236,-195.98981)"><flowRegion
+         id="flowRegion11503-7"><rect
+           id="rect11505-3"
+           width="282.17075"
+           height="77.126671"
+           x="705.42688"
+           y="573.005" /></flowRegion><flowPara
+         id="flowPara11507-42"
+         style="fill:#ffffff;fill-opacity:1">mODULE</flowPara></flowRoot>    <path
+       style="opacity:1;fill:none;fill-opacity:1;fill-rule:nonzero;stroke:#ffffff;stroke-width:4;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       d="m 641.97178,198.62566 0,119.08443 40.25906,0 -17.84947,28.95733 115.94986,0 -17.84947,-28.95733 40.26068,0 0,-119.08443 -41.97133,0 19.56012,31.73348 -115.94986,0 19.56013,-31.73348 -41.96972,0 z"
+       id="rect11443-36"
+       inkscape:connector-curvature="0" />
+    <flowRoot
+       xml:space="preserve"
+       id="flowRoot11501-59"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:30px;line-height:125%;font-family:'Anime Ace 2.0 BB';-inkscape-font-specification:'Anime Ace 2.0 BB, Normal';text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       transform="translate(-124.0677,-209.15778)"><flowRegion
+         id="flowRegion11503-6"><rect
+           id="rect11505-97"
+           width="282.17075"
+           height="77.126671"
+           x="705.42688"
+           y="573.005" /></flowRegion><flowPara
+         id="flowPara11507-0"
+         style="fill:#ffffff;fill-opacity:1">mODULE</flowPara></flowRoot>    <path
+       style="opacity:1;fill:none;fill-opacity:1;fill-rule:nonzero;stroke:#ffffff;stroke-width:4;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       d="m 743.55326,48.134589 0,119.084431 40.25906,0 -17.84947,28.95733 115.94986,0 -17.84947,-28.95733 40.26068,0 0,-119.084431 -41.97133,0 19.56012,31.73348 -115.94986,0 19.56013,-31.73348 -41.96972,0 z"
+       id="rect11443-46"
+       inkscape:connector-curvature="0" />
+    <flowRoot
+       xml:space="preserve"
+       id="flowRoot11501-55"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:30px;line-height:125%;font-family:'Anime Ace 2.0 BB';-inkscape-font-specification:'Anime Ace 2.0 BB, Normal';text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       transform="translate(-22.486223,-359.64885)"><flowRegion
+         id="flowRegion11503-0"><rect
+           id="rect11505-12"
+           width="282.17075"
+           height="77.126671"
+           x="705.42688"
+           y="573.005" /></flowRegion><flowPara
+         id="flowPara11507-3"
+         style="fill:#ffffff;fill-opacity:1">mODULE</flowPara></flowRoot>    <path
+       style="opacity:1;fill:none;fill-opacity:1;fill-rule:nonzero;stroke:#ffffff;stroke-width:4;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       d="m 636.32837,10.511825 0,119.084435 40.25906,0 -17.84947,28.95732 115.94986,0 -17.84947,-28.95732 40.26068,0 0,-119.084435 -41.97133,0 19.56012,31.73348 -115.94986,0 19.56013,-31.73348 -41.96972,0 z"
+       id="rect11443-5"
+       inkscape:connector-curvature="0" />
+    <flowRoot
+       xml:space="preserve"
+       id="flowRoot11501-3"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:30px;line-height:125%;font-family:'Anime Ace 2.0 BB';-inkscape-font-specification:'Anime Ace 2.0 BB, Normal';text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       transform="translate(-129.71111,-397.27162)"><flowRegion
+         id="flowRegion11503-2"><rect
+           id="rect11505-33"
+           width="282.17075"
+           height="77.126671"
+           x="705.42688"
+           y="573.005" /></flowRegion><flowPara
+         id="flowPara11507-01"
+         style="fill:#ffffff;fill-opacity:1">mODULE</flowPara></flowRoot>    <path
+       style="opacity:1;fill:none;fill-opacity:1;fill-rule:nonzero;stroke:#ffffff;stroke-width:4;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       d="m 816.91764,461.98502 0,119.08443 40.25906,0 -17.84947,28.95733 115.94986,0 -17.84947,-28.95733 40.26068,0 0,-119.08443 -41.97133,0 19.56012,31.73348 -115.94986,0 19.56013,-31.73348 -41.96972,0 z"
+       id="rect11443-44"
+       inkscape:connector-curvature="0" />
+    <flowRoot
+       xml:space="preserve"
+       id="flowRoot11501-51"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:30px;line-height:125%;font-family:'Anime Ace 2.0 BB';-inkscape-font-specification:'Anime Ace 2.0 BB, Normal';text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       transform="translate(50.878163,54.201579)"><flowRegion
+         id="flowRegion11503-20"><rect
+           id="rect11505-6"
+           width="282.17075"
+           height="77.126671"
+           x="705.42688"
+           y="573.005" /></flowRegion><flowPara
+         id="flowPara11507-43"
+         style="fill:#ffffff;fill-opacity:1">mODULE</flowPara></flowRoot>    <path
+       style="opacity:1;fill:none;fill-opacity:1;fill-rule:nonzero;stroke:#ffffff;stroke-width:4;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       d="m 578.01308,576.73446 0,119.08443 40.25906,0 -17.84947,28.95733 115.94986,0 -17.84947,-28.95733 40.26068,0 0,-119.08443 -41.97133,0 19.56012,31.73348 -115.94986,0 19.56013,-31.73348 -41.96972,0 z"
+       id="rect11443-22"
+       inkscape:connector-curvature="0" />
+    <flowRoot
+       xml:space="preserve"
+       id="flowRoot11501-2"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:30px;line-height:125%;font-family:'Anime Ace 2.0 BB';-inkscape-font-specification:'Anime Ace 2.0 BB, Normal';text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       transform="translate(67.808412,-2.2325679)"><flowRegion
+         id="flowRegion11503-8"><rect
+           id="rect11505-11"
+           width="282.17075"
+           height="77.126671"
+           x="705.42688"
+           y="573.005" /></flowRegion><flowPara
+         id="flowPara11507-17"
+         style="fill:#ffffff;fill-opacity:1">mODULE</flowPara></flowRoot>    <path
+       style="opacity:1;fill:none;fill-opacity:1;fill-rule:nonzero;stroke:#ffffff;stroke-width:4;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       d="m 720.9796,608.71381 0,119.08443 40.25906,0 -17.84947,28.95733 115.94986,0 -17.84947,-28.95733 40.26068,0 0,-119.08443 -41.97133,0 19.56012,31.73348 -115.94986,0 19.56013,-31.73348 -41.96972,0 z"
+       id="rect11443-0"
+       inkscape:connector-curvature="0" />
+    <flowRoot
+       xml:space="preserve"
+       id="flowRoot11501-6"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:30px;line-height:125%;font-family:'Anime Ace 2.0 BB';-inkscape-font-specification:'Anime Ace 2.0 BB, Normal';text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       transform="translate(-45.059883,200.93037)"><flowRegion
+         id="flowRegion11503-22"><rect
+           id="rect11505-86"
+           width="282.17075"
+           height="77.126671"
+           x="705.42688"
+           y="573.005" /></flowRegion><flowPara
+         id="flowPara11507-5"
+         style="fill:#ffffff;fill-opacity:1">mODULE</flowPara></flowRoot>    <path
+       style="opacity:1;fill:none;fill-opacity:1;fill-rule:nonzero;stroke:#ffffff;stroke-width:4;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       d="m 894.04431,287.03916 0,119.08443 40.25906,0 -17.84947,28.95733 115.9499,0 -17.8495,-28.95733 40.2607,0 0,-119.08443 -41.9714,0 19.5602,31.73348 -115.9499,0 19.56013,-31.73348 -41.96972,0 z"
+       id="rect11443-59"
+       inkscape:connector-curvature="0" />
+    <flowRoot
+       xml:space="preserve"
+       id="flowRoot11501-99"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:30px;line-height:125%;font-family:'Anime Ace 2.0 BB';-inkscape-font-specification:'Anime Ace 2.0 BB, Normal';text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       transform="translate(128.00484,-120.74428)"><flowRegion
+         id="flowRegion11503-59"><rect
+           id="rect11505-2"
+           width="282.17075"
+           height="77.126671"
+           x="705.42688"
+           y="573.005" /></flowRegion><flowPara
+         id="flowPara11507-94"
+         style="fill:#ffffff;fill-opacity:1">mODULE</flowPara></flowRoot>    <path
+       style="opacity:1;fill:none;fill-opacity:1;fill-rule:nonzero;stroke:#ffffff;stroke-width:4;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       d="m 867.70838,51.896865 0,119.084425 40.25906,0 -17.84947,28.95733 115.94983,0 -17.84944,-28.95733 40.26064,0 0,-119.084425 -41.97129,0 19.56009,31.73348 -115.94983,0 19.56013,-31.73348 -41.96972,0 z"
+       id="rect11443-8"
+       inkscape:connector-curvature="0" />
+    <flowRoot
+       xml:space="preserve"
+       id="flowRoot11501-28"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:30px;line-height:125%;font-family:'Anime Ace 2.0 BB';-inkscape-font-specification:'Anime Ace 2.0 BB, Normal';text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       transform="translate(101.6689,-355.88658)"><flowRegion
+         id="flowRegion11503-88"><rect
+           id="rect11505-24"
+           width="282.17075"
+           height="77.126671"
+           x="705.42688"
+           y="573.005" /></flowRegion><flowPara
+         id="flowPara11507-26"
+         style="fill:#ffffff;fill-opacity:1">mODULE</flowPara></flowRoot>    <path
+       style="opacity:1;fill:none;fill-opacity:1;fill-rule:nonzero;stroke:#ffffff;stroke-width:4;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       d="m 841.37245,-45.922324 0,119.08443 40.25906,0 -17.84947,28.957334 115.94986,0 -17.84947,-28.957334 40.26067,0 0,-119.08443 -41.97132,0 19.56012,31.73348 -115.94986,0 19.56013,-31.73348 -41.96972,0 z"
+       id="rect11443-81"
+       inkscape:connector-curvature="0" />
+    <flowRoot
+       xml:space="preserve"
+       id="flowRoot11501-90"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:30px;line-height:125%;font-family:'Anime Ace 2.0 BB';-inkscape-font-specification:'Anime Ace 2.0 BB, Normal';text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       transform="translate(75.332965,-453.70576)"><flowRegion
+         id="flowRegion11503-46"><rect
+           id="rect11505-20"
+           width="282.17075"
+           height="77.126671"
+           x="705.42688"
+           y="573.005" /></flowRegion><flowPara
+         id="flowPara11507-06"
+         style="fill:#ffffff;fill-opacity:1">mODULE</flowPara></flowRoot>    <path
+       style="opacity:1;fill:none;fill-opacity:1;fill-rule:nonzero;stroke:#ffffff;stroke-width:4;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       d="m 645.73406,-79.782809 0,119.084425 40.25906,0 -17.84947,28.95733 115.94986,0 -17.84947,-28.95733 40.26068,0 0,-119.084425 -41.97133,0 19.56012,31.73348 -115.94986,0 19.56013,-31.73348 -41.96972,0 z"
+       id="rect11443-06"
+       inkscape:connector-curvature="0" />
+    <flowRoot
+       xml:space="preserve"
+       id="flowRoot11501-18"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:30px;line-height:125%;font-family:'Anime Ace 2.0 BB';-inkscape-font-specification:'Anime Ace 2.0 BB, Normal';text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       transform="translate(-120.30542,-487.56625)"><flowRegion
+         id="flowRegion11503-82"><rect
+           id="rect11505-7"
+           width="282.17075"
+           height="77.126671"
+           x="705.42688"
+           y="573.005" /></flowRegion><flowPara
+         id="flowPara11507-32"
+         style="fill:#ffffff;fill-opacity:1">mODULE</flowPara></flowRoot>  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer11"
+     inkscape:label="Layer 5"
+     style="display:inline">
+    <path
+       style="fill:#ffffff"
+       d="m 287.3454,531.39645 c -3.00107,-2.29595 -7.50269,-4.16142 -17.10613,-4.16142 -9.60344,0 -16.35585,2.58295 -19.35693,4.73541 -1.35049,1.00448 -1.9507,0.14349 -2.10076,-0.43049 -0.15005,-0.57399 -0.45016,-1.43497 0.60022,-2.43945 0.75027,-0.71749 7.65274,-5.3094 15.75565,-6.02688 8.10289,-0.7175 19.05682,-1.14798 25.65918,4.59191 1.05038,1.00447 0.75028,2.43945 0,3.01344 -0.75027,0.57399 -1.35048,1.00448 -2.2508,1.00448 -0.90033,0 -0.75027,0 -1.20043,-0.287 l 0,0 z"
+       id="path10179-8"
+       inkscape:connector-curvature="0" />
+  </g>
+</svg>
