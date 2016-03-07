@@ -139,6 +139,7 @@
       </section>
 
       <section>
+        <img alt="TC Drupal logo" />
         <aside class="notes">
           And I was sitting in an auditorium listening to Larry Garfield give
           a talk an "Musical CMS: How Symfony is coming to Drupal".
@@ -146,6 +147,7 @@
       </section>
 
       <section>
+        <img alt="Comic?">
         <aside class="notes">
           This was my second Drupal camp. I actually had given a talk just the
           previous day on how does Drupal 7 work. See, for year's I had used
@@ -181,6 +183,10 @@
       <section>
         <h2>Hooks are API Go-Fish</h2>
         <p class="fragment">Do you have a _____ hook?</p>
+        <!--
+        @todo A comic could go here anthrpromorphizing modules and drupal
+         along with my response.
+         -->
         <aside class="notes">
           The thing that really bothered me was hooks, hooks are like API
           Go-fish.  I had been coding for over a decade at that point. I've been
@@ -215,6 +221,18 @@
       </section>
 
       <section>
+        <h2>Batteries NOT Included</h2>
+        <p>Core alone was never enough in D7</p>
+        <p>Key contrib modules needed to make a complete site</p>
+      </section>
+
+      <section>
+        <h2>Adoption Gap</h2>
+        <p>Core's done, but none of my needed modules</p>
+        <p>Hit Drupal 7 badly</p>
+      </section>
+
+      <section>
         <img alt="Request, process, return HTML"/>
         <aside class="notes">
           Drupal 7 was also built with the assumption of the desktop web at its
@@ -226,8 +244,9 @@
       </section>
 
       <section>
-        <h2>Bootstrapping Drupal is slow!</h2>
+        <h2>Bootstrapping is slow!</h2>
         <p class="fragment">Everything is loaded even when not needed</p>
+        <p class="fragment">Made Drupal 7 a terrible REST Server</p>
         <aside class="notes">
           drupal_bootstrap() is also really slow! Even if Drupal 7 was returning
           a REST response, it would still load the theme layer, load up all
@@ -235,7 +254,11 @@
           Drupal 7 unattractive as a backend to decoupled and native applications.
         </aside>
       </section>
-
+    </section>
+    <section>
+      <section>
+        <h1>Tech Wasn't our Biggest Problem</h1>
+      </section>
       <section>
         <h2>Not-Invented-Here (NIH)</h2>
         <p class="fragment">PHP4 dependencies were copy-paste</p>
@@ -254,8 +277,8 @@
 
       <section>
         <h2>NIH has a social cost</h2>
-        <p>In-community preferred despite costs</p>
-        <p>Sunk-cost fallacy makes replacement impossible</p>
+        <p class="fragment">In-community solutions preferred despite costs</p>
+        <p class="fragment">Sunk-cost fallacy makes replacement impossible</p>
         <aside class="notes">
           Not-invented-here also has a big social cost. It creates a culture
           where in-community solutions are immediately preferred even in the
@@ -281,13 +304,20 @@
         </aside>
       </section>
 
-      <section>
-        <img alt="Sad developer" />
+      <section data-transition="none">
+        <img src="images/iWasVeryDiscouraged1.png" alt="Sad developer" />
         <aside class="notes">
           After discovering all of this, I was really discouraged. The coding
           techniques I had been familiar with for years just didn't apply to
-          Drupal. It all seemed too strange, too weird, and too impenetrable for
-          me to even seriously consider writing a module or contributing to core.
+          Drupal.
+        </aside>
+      </section>
+
+      <section data-transition="none">
+        <img src="images/iWasVeryDiscouraged2.png" alt="Sad developer" />
+        <aside class="notes">
+          It all seemed too strange, too weird, and too impenetrable for me to
+          even seriously consider writing a module or contributing to core.
         </aside>
       </section>
 
@@ -301,6 +331,7 @@
       </section>
 
       <section>
+        <img alt="And then I got really excited.">
         <aside class="notes">
           The thing was, I had assumed I was alone. That no one else had this bizarre
           perspective on our beloved CMS. That is, until I was sitting in that
@@ -361,15 +392,6 @@
 
       <section>
         <h2>Symfony Components</h2>
-        <aside class="notes">
-          One of the biggest advertised features of Drupal 8 is that we've taken
-          advantage of Symfony components.
-        </aside>
-      </section>
-
-      <section>
-        <h2>Not just invite in</h2>
-        <h2>But also venture out</h2>
       </section>
 
       <section>
@@ -412,89 +434,209 @@
     <section>
       <section>
         <h1>Incremental Updates vs. Big Bang</h1>
+        <aside class="notes">
+          When we started working on Drupal 8, we didn't know how long it would
+          take. We certainly didn't expect it to take as long as it did.
+        </aside>
       </section>
       <section data-transition="none">
         <img src="images/incrementalVsBigBang/0.png" />
+        <aside class="notes">
+          You'd like to imagine the conversation goes like this. We have a project
+          manager, or the original author of the project.
+        </aside>
       </section>
       <section data-transition="none">
         <img src="images/incrementalVsBigBang/1.png" />
+        <aside class="notes">
+          And they say it's time to start working on the next version of the
+          project. Everyone is excited is, of course.
+        </aside>
       </section>
       <section data-transition="none">
         <img src="images/incrementalVsBigBang/2.png" />
+        <aside class="notes">
+          When we start planning out what we want to work on in the next version,
+          however...
+        </aside>
       </section>
       <section data-transition="none">
         <img src="images/incrementalVsBigBang/3.png" />
+        <aside class="notes">
+          ...everybody has their own ideas.
+        </aside>
       </section>
       <section>
         <img src="images/incrementalVsBigBang/4.png" />
+        <aside class="notes">
+          This is actually good for open source. Often we really do need many
+          if not all of those changes and features, but implementing them all
+          for the next version can take years.
+        </aside>
       </section>
       <section>
         <h2>Conflicting priorities</h2>
         <p>Easy/fun vs. Most Critical</p>
         <p>Subsystem dependencies</p>
         <p>Paying down technical debt</p>
+        <aside class="notes">
+          There's lots of conflicting priorities when planning a new version
+          of a piece of software.
+
+          With a volunteer-run project like Drupal, it's easy to choose between
+          what's easy and fun, vs. the most critical changes we need to make.
+
+          There's also a lot of subsystem dependencies to consider when planning
+          a major update. As replacing or updating one subsystem may require a
+          lot of changes in other subsystems.
+
+          Finally, there's the need to pay down technical debt accumulated in
+          previous versions.
+        </aside>
       </section>
       <section>
         <img src="images/incrementalVsBigBang/5.png" />
+        <aside class="notes">
+          So it's really tempting to think with all these needed changes,
+          that we do it all! But instead of doing a huge release cycle, we'll
+          break it up to several releases so it's easier to manage.
+        </aside>
       </section>
       <section>
         <h2>Great in Theory</h2>
         <p>More focused changes, less "too many cooks"</p>
-      </section>
-      <section>
-        <h2>Doc changes would have been faster</h2>
-        <p>Less to write with each change</p>
-        <p>Docs (should be) tied to releases</p>
-      </section>
-      <section>
-        <h2>Limits Culture Shock</h2>
-        <p>Focused changes easier to accept</p>
+        <aside class="notes">
+          This is great in theory, since it allows developers to focus a few
+          changes at a time, and avoid the problem of having "too many cooks"
+          each with conflicting priorities and agendas.
+        </aside>
       </section>
       <section>
         <h2>Less Perceived Work</h2>
-        <p>A focused change takes less time to update modules</p>
+        <p>Easier for volunteer core devs to maintain momentum</p>
+        <aside class="notes">
+          The biggest advantage is that the perceived amount of work would be
+          less for incremental changes rather than a huge, big-bang change.
+          This makes it easier to maintain momentum for a core developement
+          team made up of mostly volunteers.
+        </aside>
       </section>
       <section>
-        <h2>Bad in Practice</h2>
-        <p>Work is not really reduced</p>
-        <p>Just spread out</p>
+        <h2>Easier for Contrib Devs</h2>
+        <p class="fragment">A focused change takes less time to update modules</p>
+        <aside class="notes">
+          Focused changes is also easier for contrib developers as it takes
+          less time to update modules to the new version.
+        </aside>
       </section>
       <section>
-        <h2>Often requires a Tyrant</h2>
+        <h2>Incremental's advantage?</h2>
+        <p class="fragment">It limits cultural shock.</p>
+        <aside class="notes">
+          This all sounds great, but what's the real advantage of incremental
+          updates? Incremental updates limit cultural shock. Big changes are
+          easier to accept in smaller pieces.
+        </aside>
+      </section>
+    </section>
+    
+    <section>
+      <section>
+        <h1>So, why didn't we do that?</h1>
+        <aside class="notes">
+          So...ummm, why didn't we do that?
+        </aside>
       </section>
       <section>
         <h2>Drupal 8 was a "Big Bang" Change</h2>
         <p>All changes in one version jump</p>
+        <aside class="notes">
+          Drupal 8 was a Big Bang change. We had all the changes, new features,
+          and everything in one version jump.
+        </aside>
       </section>
       <section>
         <h2>Big Bang is Organic</h2>
+        <aside class="notes">
+          The thing with Big Bang changes is that they're organic.
+        </aside>
       </section>
       <section data-transition="none">
         <img src="images/incrementalVsBigBang/6.png" />
+        <aside class="notes">
+          Let me explain what I mean. Imagine your software is like a house.
+        </aside>
       </section>
       <section data-transition="none">
         <img src="images/incrementalVsBigBang/7.png" />
+        <aside class="notes">
+          And let's say you're planning an addition to your house.
+        </aside>
       </section>
       <section data-transition="none">
         <img src="images/incrementalVsBigBang/8.png" />
+        <aside class="notes">
+          Now you can just plug in a addition, you need to take out the walls
+          and do some demolition first.
+        </aside>
       </section>
       <section data-transition="none">
         <img src="images/incrementalVsBigBang/9.png" />
+        <aside class="notes">
+          As often happens during a remodeling, you start finding other things
+          that you need to fix. And since the walls are out anyways, there
+          isn't a better time to fix those problems.
+        </aside>
       </section>
       <section>
-        <h2>Drupal isn't an iPhone</h2>
-        <p class="fragment">And we're not working for Apple</p>
+        <h2>Feature Creep</h2>
+        <p class="fragment">It's not just for new features...</p>
+        <p class="fragment">...but for fixing things that we're unplanned.</p>
+        <aside class="notes">
+          This is feature creep. It doesn't just mean adding new features, but
+          also fixing other things we weren't planning to fix before. This
+          happened a lot in Drupal 8. We started out with a few changes and soon
+          we were replacing every little thing because, if we didn't fix it
+          now, when would we?
+        </aside>
+      </section>
+      <section>
+        <h2>Often requires a Tyrant</h2>
+        <aside class="notes">
+          The problem is that to make incremental changes work you often need a
+          tyrant.
+        </aside>
+      </section>
+      <section>
+        <img alt="Tyrant Comic" src="" />
       </section>
       <section>
         <h2>"Make it happen"</h2>
         <p>doesn't encourage unpaid contributors</p>
         <p class="fragment">...they leave instead.</p>
       </section>
+      <section>
+        <h2>Drupal isn't an iPhone</h2>
+        <p class="fragment">And we're not working for Apple</p>
+      </section>
     </section>
 
     <section>
       <section>
         <h1>It'll Just Hurt...Differently</h1>
+      </section>
+      <section>
+        <h2>Incremental is Tricky</h2>
+        <p>Work is not really reduced...</p>
+        <p>...only the perception of the amount.</p>
+        <aside class="notes">
+          Incrementally updating a large software project like Drupal is difficult
+          in practice. Work isn't really really reduced, only the perception of
+          how much work there is.
+        </aside>
+      </section>
+      <section>
+        <img alt="work comic" src="" />
       </section>
       <section data-background="images/areYouTryingTo___MeOff/1.png" data-background-size="contain" data-transition="none">
         <h2>How's this sound?</h2>
@@ -557,24 +699,76 @@
 
     <section>
       <section>
+        <h1>Magic vs. Boilerplate</h1>
+      </section>
+      <!-- @todo Comic about "Why do I have to define 5 classes to do this one thing!?" -->
+      <section>
+        <h2>Boilerplate IS Tedious</h2>
+        <p>But it's also predictable.</p>
+      </section>
+      <section>
+        <h2>Generators reduce Tedium</h2>
+        <p>Creates basic "outline" of code</p>
+        <p>Usually built-in to IDEs</p>
+      </section>
+      <section>
+        <h2>We already have a great generator!</h2>
+      </section>
+      <section>
+        <h2>Generators Help Beginners</h2>
+        <p>Makes creating complex modules easier</p>
+      </section>
+      <!--
+        @todo Comic about I need to define how many functions for an entity?
+      -->
+    </section>
+
+    <section>
+      <section>
         <h1>But...forks?</h1>
+        <aside class="notes">
+          But what about forks?
+        </aside>
       </section>
       <section>
         <h2>Forks are Good!</h2>
-        <p>Sign of a healthy community</p>
-      </section>
-      <section>
-        <h2>OSS isn't "Highlander"</h2>
-        <p>There doesn't have to be only one.</p>
+        <p class="fragment">Sign of a healthy community</p>
+        <aside class="notes">
+          Forks are actually good! When a project is big enough to be forked
+          successfully, it's the sign of a healthy community around the software.
+        </aside>
       </section>
       <section>
         <h2>Shakes the Status Quo</h2>
         <p>Introduces new ideas</p>
+        <aside class="notes">
+          First of all, forks shake up the status quo. This helps to introduce
+          new ideas into the community and opens us to new possibilities we
+          didn't or couldn't consider before.
+        </aside>
       </section>
       <section>
         <h2>Forks are Natural</h2>
         <p>When a project reaches a certain size</p>
         <p>And no authoritarian figure at the center</p>
+        <aside class="notes">
+          Forks are also natural when a project reaches a certain size. When
+          a project has no authoritarian figure at its center, it's very easy
+          to create a self-sustaining fork.
+        </aside>
+      </section>
+      <!--
+      @todo Comic about GNOME 2 to 3 fork with MATE and Cinnamon
+      -->
+      <section>
+        <h2>It's not "Who's Winning?"</h2>
+        <p>It's what do you need?</p>
+      </section>
+      <section data-transition="none">
+        <img src="images/drupalIsntHighlander1.png" alt="Open Source isn't Highlander." />
+      </section>
+      <section data-transition="none">
+        <img src="images/drupalIsntHighlander2.png" alt="There doesn't need to be only one." />
       </section>
     </section>
 
@@ -741,6 +935,16 @@
         <p class="fragment">It's a process, not a goal</p>
       </section>
 
+    </section>
+
+    <section>
+      <section>
+        <h1>The Promise of Drupal 8</h1>
+      </section>
+      <section>
+        <h2>Not just invite in</h2>
+        <p class="fragment">But also venture out</p>
+      </section>
     </section>
 
     <section>
