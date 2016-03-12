@@ -15,7 +15,10 @@
    id="svg2"
    version="1.1"
    inkscape:version="0.91 r13725"
-   sodipodi:docname="alwaysBeGoogling.svg">
+   sodipodi:docname="alwaysBeGoogling.svg"
+   inkscape:export-filename="/home/tess/projects/drupal8CommunityReady/images/alwaysBeGoogling2.png"
+   inkscape:export-xdpi="90"
+   inkscape:export-ydpi="90">
   <defs
      id="defs4">
     <mask
@@ -373,8 +376,8 @@
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
      inkscape:zoom="0.53159302"
-     inkscape:cx="534.01331"
-     inkscape:cy="371.81132"
+     inkscape:cx="390.82326"
+     inkscape:cy="376.90002"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -396,7 +399,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
         <cc:license
            rdf:resource="http://creativecommons.org/licenses/by-nc-sa/3.0/" />
       </cc:Work>
@@ -420,7 +423,7 @@
     </rdf:RDF>
   </metadata>
   <g
-     inkscape:label="Layer 1"
+     inkscape:label="Base"
      inkscape:groupmode="layer"
      id="layer1"
      transform="translate(-35.315951,293.31249)">
@@ -444,16 +447,6 @@
          style="fill:none;stroke:#ffffff;stroke-width:38100;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
          id="path3591" />
     </g>
-    <path
-       inkscape:connector-curvature="0"
-       d="m 902.43408,280.77272 c 0,-3.89366 1.38883,-7.04995 3.10203,-7.04995 1.71323,0 3.10205,3.15629 3.10205,7.04995 0,3.89345 -1.38882,7.04976 -3.10205,7.04976 -1.7132,0 -3.10203,-3.15629 -3.10203,-7.04976 z"
-       style="fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1.91371953;stroke-opacity:1"
-       id="path3593" />
-    <path
-       inkscape:connector-curvature="0"
-       d="m 923.39263,280.77272 c 0,-3.89366 1.38883,-7.04995 3.10202,-7.04995 1.71322,0 3.10205,3.15629 3.10205,7.04995 0,3.89345 -1.38883,7.04976 -3.10205,7.04976 -1.71319,0 -3.10202,-3.15629 -3.10202,-7.04976 z"
-       style="fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1.91371953;stroke-opacity:1"
-       id="path3595" />
     <g
        style="stroke:#ffffff;stroke-opacity:1"
        id="g3597"
@@ -487,11 +480,27 @@
          d="m 806.8073,338.00108 85.1021,0 16,52.51303 -85.1021,0 z"
          style="opacity:1;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:#ffffff;stroke-width:3.5999999;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
     </g>
+    <path
+       inkscape:connector-curvature="0"
+       d="m 902.43408,280.77272 c 0,-3.89366 1.38883,-7.04995 3.10203,-7.04995 1.71323,0 3.10205,3.15629 3.10205,7.04995 0,3.89345 -1.38882,7.04976 -3.10205,7.04976 -1.7132,0 -3.10203,-3.15629 -3.10203,-7.04976 z"
+       style="display:inline;fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1.91371953;stroke-opacity:1"
+       id="path3593" />
+    <path
+       inkscape:connector-curvature="0"
+       d="m 923.39263,280.77272 c 0,-3.89366 1.38883,-7.04995 3.10202,-7.04995 1.71322,0 3.10205,3.15629 3.10205,7.04995 0,3.89345 -1.38883,7.04976 -3.10205,7.04976 -1.71319,0 -3.10202,-3.15629 -3.10202,-7.04976 z"
+       style="display:inline;fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1.91371953;stroke-opacity:1"
+       id="path3595" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer2"
+     inkscape:label="Layer 1"
+     style="display:inline">
     <flowRoot
        xml:space="preserve"
        id="flowRoot13986"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:30px;line-height:125%;font-family:'Anime Ace 2.0 BB';-inkscape-font-specification:'Anime Ace 2.0 BB, Normal';text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       transform="translate(-47.454135,-225.59151)"><flowRegion
+       transform="translate(11.28683,9.40569)"><flowRegion
          id="flowRegion13988"><rect
            id="rect13990"
            width="419.49384"
@@ -500,9 +509,34 @@
            y="272.02289" /></flowRegion><flowPara
          id="flowPara13992"
          style="fill:#ffffff;fill-opacity:1">I shouldn't need to google whenever I define a hook.</flowPara></flowRoot>    <path
+       transform="translate(-35.315951,293.31249)"
        style="opacity:1;fill:none;fill-opacity:1;fill-rule:nonzero;stroke:#ffffff;stroke-width:4;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-       d="M 585.5 286.71484 A 249.25082 102.52203 0 0 0 336.24805 389.23828 A 249.25082 102.52203 0 0 0 585.5 491.75977 A 249.25082 102.52203 0 0 0 719.89648 475.57031 L 803.24609 520.33398 L 774.50391 456.00391 A 249.25082 102.52203 0 0 0 834.75 389.23828 A 249.25082 102.52203 0 0 0 585.5 286.71484 z "
-       transform="translate(35.315951,-293.31249)"
-       id="path13994" />
+       d="m 714.87287,-64.912938 c -137.65921,-2.57e-4 -249.25384,45.901354 -249.25195,102.52344 7.3e-4,56.621324 111.5946,102.521748 249.25195,102.521488 47.6397,-0.003 94.27966,-5.62098 134.39648,-16.18946 l 49.48912,63.57505 5.11831,-83.14145 c 38.83297,-18.579131 60.20534,-42.264316 60.24609,-66.765628 0.002,-56.621773 -111.59155,-102.523254 -249.25,-102.52344 z"
+       id="path13994"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="sccccccs" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer3"
+     inkscape:label="Layer 2"
+     style="display:inline">
+    <flowRoot
+       xml:space="preserve"
+       id="flowRoot14725"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:30px;line-height:125%;font-family:'Anime Ace 2.0 BB';-inkscape-font-specification:'Anime Ace 2.0 BB, Normal';text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       transform="translate(-45.128512,-17.13595)"><flowRegion
+         id="flowRegion14727"><rect
+           id="rect14729"
+           width="375.90137"
+           height="184.63391"
+           x="347.15598"
+           y="508.71378"
+           style="fill:#ffffff;fill-opacity:1" /></flowRegion><flowPara
+         id="flowPara14731">I shouldn't need to use a debugger either...</flowPara></flowRoot>    <path
+       style="opacity:1;fill:none;fill-opacity:1;fill-rule:nonzero;stroke:#ffffff;stroke-width:4;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       d="m 490.03711,460.13672 a 230.43944,79.007812 0 0 0 -230.43945,79.00781 230.43944,79.007812 0 0 0 230.43945,79.00781 230.43944,79.007812 0 0 0 222.07031,-58.24218 l 77.9707,-13.24024 -80.07031,-30.79687 a 230.43944,79.007812 0 0 0 -219.9707,-55.73633 z"
+       id="path4989"
+       inkscape:connector-curvature="0" />
   </g>
 </svg>

@@ -318,8 +318,11 @@
         <img src="images/arraysOfDoom4.png">
       </section>
 
-      <section>
-        <img src="images/alwaysBeGoogling.png">
+      <section data-transition="none">
+        <img src="images/alwaysBeGoogling1.png">
+      </section>
+      <section data-transition="none">
+        <img src="images/alwaysBeGoogling2.png">
       </section>
 
       <section>
@@ -331,146 +334,6 @@
           doom everywhere in Drupal. Either you needed to create them in your
           code, or work with huge, undocumentable monstrosities that you needed
           to run through a debugger first BEFORE writing your code. WTH!?
-        </aside>
-      </section>
-
-      <section>
-        <img src="images/iShouldntNeedADebuggerEither.png" />
-      </section>
-
-      <section>
-        <h2>Batteries NOT Included</h2>
-        <p>Core alone was never enough in D7</p>
-        <p>Key contrib modules needed to make a complete site</p>
-      </section>
-
-      <section>
-        <h2>Adoption Gap</h2>
-        <p>Core's done, but none of my needed modules</p>
-        <p>Hit Drupal 7 badly</p>
-      </section>
-      <section data-transition="none">
-        <img src="images/adoptionGap1.png">
-      </section>
-      <section data-transition="none">
-        <img src="images/adoptionGap2.png">
-      </section>
-      <section data-transition="none">
-        <img src="images/adoptionGap3.png">
-      </section>
-      <section data-transition="none">
-        <img src="images/adoptionGap4.png">
-      </section>
-      <section data-transition="none">
-        <img src="images/adoptionGap5.png">
-      </section>
-      <section data-transition="none">
-        <img src="images/adoptionGap6.png">
-      </section>
-
-
-      <section data-transition="none">
-        <img alt="Request, process, return HTML" src="images/requestProcess1.png"/>
-        <aside class="notes">
-          Drupal 7 was also built with the assumption of the desktop web at its
-          core. When a request comes in, Drupal processes it, routes it to the
-          appropriate handlers, and then returns HTML for display. With frameworks
-          like React and mobile applications, the need to return HTML has gotten
-          smaller and smaller.
-        </aside>
-      </section>
-      <section data-transition="none">
-        <img alt="Request, process, return HTML" src="images/requestProcess2.png"/>
-      </section>
-      <section data-transition="none">
-        <img alt="Request, process, return HTML" src="images/requestProcess3.png"/>
-      </section>
-      <section data-transition="none">
-        <img alt="Request, process, return HTML" src="images/requestProcess4.png"/>
-      </section>
-      <section data-transition="none">
-        <img alt="Request, process, return HTML" src="images/requestProcess5.png"/>
-      </section>
-
-      <section>
-        <h2>Bootstrapping is slow!</h2>
-        <p class="fragment">Everything is loaded even when not needed</p>
-        <aside class="notes">
-          drupal_bootstrap() is also really slow! Even if Drupal 7 was returning
-          a REST response, it would still load the theme layer, load up all
-          modules, and require a lot of CPU and memory resources. This makes
-          Drupal 7 unattractive as a backend to decoupled and native applications.
-        </aside>
-      </section>
-
-      <section data-transition="none">
-        <img src="images/newRequestProcess1.png">
-      </section>
-      <section data-transition="none">
-        <img src="images/newRequestProcess2.png">
-      </section>
-      <section data-transition="none">
-        <img src="images/newRequestProcess3.png">
-      </section>
-      <section data-transition="none">
-        <img src="images/newRequestProcess4.png">
-      </section>
-      <section data-transition="none">
-        <img src="images/newRequestProcess5.png">
-      </section>
-      <section>
-        <h2>D7 was a poor REST Sever</h2>
-        <p class="fragment">Impacted mobile, native, and decoupled front-end apps</p>
-        <p class="fragment">Discouraged use of Drupal 7 as a backend</p>
-      </section>
-    </section>
-
-    <section>
-      <section>
-        <h1>Tech Wasn't our Biggest Problem</h1>
-      </section>
-      <section>
-        <h2>Not-Invented-Here (NIH)</h2>
-        <p class="fragment">PHP4 dependencies were copy-paste</p>
-        <p class="fragment">Drupal 7 didn't make this easier</p>
-        <aside class="notes">
-          Drupal also has a bad habit of developing their own solutions rather
-          than working with others'. This is the "Not Invented Here" problem.
-
-          In earlier versions of PHP, there was a good reason for this as
-          including external dependencies was laborious. We literally had to
-          copy and paste code into our repository. Today, however, there
-          are many excellent libaries and tools we could leverage, yet Drupal
-          7 did not provide any natural way to do so.
-        </aside>
-      </section>
-
-      <section>
-        <h2>NIH has a social cost</h2>
-        <p class="fragment">In-community solutions preferred despite costs</p>
-        <p class="fragment">Sunk-cost fallacy makes replacement impossible</p>
-        <aside class="notes">
-          Not-invented-here also has a big social cost. It creates a culture
-          where in-community solutions are immediately preferred even in the
-          face of time, stress, and maintainership costs. Once in place,
-          NIH motivated code can become impossible to replace due to the
-          sunk-cost fallacy.
-        </aside>
-      </section>
-
-      <section>
-        <h2>Sunk-cost Fallacy</h2>
-        <p class="fragment">"Point of no return" thinking</p>
-        <p class="fragment">Works in software design too</p>
-        <aside class="notes">
-          Haven't heard of the Sunk-cost Fallacy? It's an idea from behavioral
-          economics that suggests once we've invested a certain amount of utility
-          in something, we pass a point of "no return" where we're obligated
-          to stick with it even when we know the problems.
-
-          Usually this refers to cars, houses, movie or concert tickets, but it
-          works in software design as well! Often, it's a key motivator behind
-          forks.
         </aside>
       </section>
 
@@ -518,11 +381,181 @@
       <section data-transition="none">
         <img src="images/iThoughtIWasAlone4.png">
       </section>
-
     </section>
 
     <section>
+      <section>
+        <h1>What was wrong with Drupal 7?</h1>
+      </section>
+      <section>
+        <h2>Batteries NOT Included</h2>
+      </section>
+      <section data-transition="none">
+        <img src="images/adoptionGap1.png">
+      </section>
+      <section data-transition="none">
+        <img src="images/adoptionGap2.png">
+      </section>
+      <section data-transition="none">
+        <img src="images/adoptionGap3.png">
+      </section>
+      <section data-transition="none">
+        <img src="images/adoptionGap4.png">
+      </section>
+      <section data-transition="none">
+        <img src="images/adoptionGap5.png">
+      </section>
+      <section data-transition="none">
+        <img src="images/adoptionGap6.png">
+      </section>
+      <section>
+        <h2>Missing Functionality</h2>
+        <p>Core alone was never enough in D7</p>
+        <p>Key contrib modules needed to make a complete site</p>
+      </section>
 
+      <section>
+        <h2>The Web also Changed</h2>
+      </section>
+
+      <section data-transition="none">
+        <img alt="Request, process, return HTML" src="images/requestProcess1.png"/>
+        <aside class="notes">
+          Drupal 7 was also built with the assumption of the desktop web at its
+          core. When a request comes in, Drupal processes it, routes it to the
+          appropriate handlers, and then returns HTML for display. With frameworks
+          like React and mobile applications, the need to return HTML has gotten
+          smaller and smaller.
+        </aside>
+      </section>
+      <section data-transition="none">
+        <img alt="Request, process, return HTML" src="images/requestProcess2.png"/>
+      </section>
+      <section data-transition="none">
+        <img alt="Request, process, return HTML" src="images/requestProcess3.png"/>
+      </section>
+      <section data-transition="none">
+        <img alt="Request, process, return HTML" src="images/requestProcess4.png"/>
+      </section>
+      <section data-transition="none">
+        <img alt="Request, process, return HTML" src="images/requestProcess5.png"/>
+      </section>
+
+      <section>
+        <h2>No longer just HTML</h2>
+        <p class="fragment">Many endpoints only need content, not an HTML page</p>
+        <p class="fragment">Decoupled, Mobile, and Native Apps</p>
+      </section>
+
+      <section data-transition="none">
+        <img src="images/newRequestProcess1.png">
+      </section>
+      <section data-transition="none">
+        <img src="images/newRequestProcess2.png">
+      </section>
+      <section data-transition="none">
+        <img src="images/newRequestProcess3.png">
+      </section>
+      <section data-transition="none">
+        <img src="images/newRequestProcess4.png">
+      </section>
+      <section data-transition="none">
+        <img src="images/newRequestProcess5.png">
+      </section>
+      <section>
+        <h2>D7 was a poor REST Sever</h2>
+        <p class="fragment">Discouraged use of Drupal 7 as a backend</p>
+      </section>
+
+      <section>
+        <h2>Theme Layer</h2>
+      </section>
+      <section data-transition="none">
+        <img src="images/d7ThemeLayer1.png" alt="Comic">
+      </section>
+      <section data-transition="none">
+        <img src="images/d7ThemeLayer2.png" alt="Comic">
+      </section>
+      <section data-transition="none">
+        <img src="images/d7ThemeLayer3.png" alt="Comic">
+      </section>
+      <section data-transition="none">
+        <img src="images/d7ThemeLayer4.png" alt="Comic">
+      </section>
+      <section data-transition="none">
+        <img src="images/d7ThemeLayer5.png" alt="Comic">
+      </section>
+      <section>
+        <h2>PHPTemplate</h2>
+        <p class="fragment">Raw PHP in a theme is a bad idea!</p>
+        <p class="fragment">Complicated syntax, security nightmare.</p>
+      </section>
+    </section>
+
+    <section>
+      <!--
+      @todo This section seems too short and feels like it's missing something.
+      -->
+      <section>
+        <h1>Tech Wasn't our Biggest Problem</h1>
+      </section>
+      <section>
+        <h2>Not-Invented-Here (NIH)</h2>
+        <p class="fragment">PHP4 dependencies were copy-paste</p>
+        <p class="fragment">Drupal 7 didn't make this easier</p>
+        <aside class="notes">
+          Drupal also has a bad habit of developing their own solutions rather
+          than working with others'. This is the "Not Invented Here" problem.
+
+          In earlier versions of PHP, there was a good reason for this as
+          including external dependencies was laborious. We literally had to
+          copy and paste code into our repository. Today, however, there
+          are many excellent libaries and tools we could leverage, yet Drupal
+          7 did not provide any natural way to do so.
+        </aside>
+      </section>
+
+      <section>
+        <h2>NIH has a social cost</h2>
+        <!--
+        @todo Replace fragments below with a comic?
+        -->
+        <p class="fragment">In-community solutions preferred despite costs</p>
+        <p class="fragment">Sunk-cost fallacy makes replacement impossible</p>
+        <aside class="notes">
+          Not-invented-here also has a big social cost. It creates a culture
+          where in-community solutions are immediately preferred even in the
+          face of time, stress, and maintainership costs. Once in place,
+          NIH motivated code can become impossible to replace due to the
+          sunk-cost fallacy.
+        </aside>
+      </section>
+
+      <section>
+        <h2>Sunk-cost Fallacy</h2>
+        <p class="fragment">"Point of no return" thinking</p>
+        <p class="fragment">Works in software design too</p>
+        <aside class="notes">
+          Haven't heard of the Sunk-cost Fallacy? It's an idea from behavioral
+          economics that suggests once we've invested a certain amount of utility
+          in something, we pass a point of "no return" where we're obligated
+          to stick with it even when we know the problems.
+
+          Usually this refers to cars, houses, movie or concert tickets, but it
+          works in software design as well! Often, it's a key motivator behind
+          forks.
+        </aside>
+      </section>
+
+      <!--
+      @todo Old release cycles and discouraging potential contributors.
+      -->
+    </section>
+
+    <section>
+      <!--
+      @todo Seems really close to the main theme of the talk, but doesn't go far enough.
+      -->
       <section>
         <h1>What's to get excited about in Drupal 8?</h1>
         <aside class="notes">
@@ -593,6 +626,39 @@
         <img src="images/butWhyDidItTakeSoLong2.png" />
       </section>
 
+    </section>
+
+    <section>
+      <!--
+      @todo Seems out of place, especially at this point in the talk.
+
+      This really shouldn't be it's own section. It can easily be used to support
+      a point made elsewhere, but it doesn't quite fit. It can be thought of as
+      a valid criticism of Drupal 8, since we need to adjust to boilerplate code.
+      -->
+      <section>
+        <h1>Magic vs. Boilerplate</h1>
+      </section>
+      <!-- @todo Comic about "Why do I have to define 5 classes to do this one thing!?" -->
+      <section>
+        <h2>Boilerplate IS Tedious</h2>
+        <p>But it's also predictable.</p>
+      </section>
+      <section>
+        <h2>Generators reduce Tedium</h2>
+        <p>Creates basic "outline" of code</p>
+        <p>Usually built-in to IDEs</p>
+      </section>
+      <section>
+        <h2>We already have a great generator!</h2>
+      </section>
+      <section>
+        <h2>Generators Help Beginners</h2>
+        <p>Makes creating complex modules easier</p>
+      </section>
+      <!--
+        @todo Comic about I need to define how many functions for an entity?
+      -->
     </section>
 
     <section>
@@ -947,39 +1013,6 @@
         <p>Big changes are exciting</p>
         <p>Can attract new developers</p>
       </section>
-    </section>
-
-    <section>
-      <!--
-      @todo Seems out of place, especially at this point in the talk.
-
-      This really shouldn't be it's own section. It can easily be used to support
-      a point made elsewhere, but it doesn't quite fit. It can be thought of as
-      a valid criticism of Drupal 8, since we need to adjust to boilerplate code.
-      -->
-      <section>
-        <h1>Magic vs. Boilerplate</h1>
-      </section>
-      <!-- @todo Comic about "Why do I have to define 5 classes to do this one thing!?" -->
-      <section>
-        <h2>Boilerplate IS Tedious</h2>
-        <p>But it's also predictable.</p>
-      </section>
-      <section>
-        <h2>Generators reduce Tedium</h2>
-        <p>Creates basic "outline" of code</p>
-        <p>Usually built-in to IDEs</p>
-      </section>
-      <section>
-        <h2>We already have a great generator!</h2>
-      </section>
-      <section>
-        <h2>Generators Help Beginners</h2>
-        <p>Makes creating complex modules easier</p>
-      </section>
-      <!--
-        @todo Comic about I need to define how many functions for an entity?
-      -->
     </section>
 
     <section>
