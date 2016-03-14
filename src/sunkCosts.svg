@@ -15,7 +15,10 @@
    id="svg2"
    version="1.1"
    inkscape:version="0.91 r13725"
-   sodipodi:docname="empty.svg">
+   sodipodi:docname="sunkCosts.svg"
+   inkscape:export-filename="/home/tess/projects/drupal8CommunityReady/images/sunkCosts4.png"
+   inkscape:export-xdpi="90"
+   inkscape:export-ydpi="90">
   <defs
      id="defs4">
     <marker
@@ -431,10 +434,10 @@
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
      inkscape:zoom="0.63957285"
-     inkscape:cx="532.99446"
-     inkscape:cy="439.68672"
+     inkscape:cx="453.83932"
+     inkscape:cy="390.96728"
      inkscape:document-units="px"
-     inkscape:current-layer="layer1"
+     inkscape:current-layer="layer26"
      showgrid="false"
      inkscape:window-width="1366"
      inkscape:window-height="704"
@@ -454,7 +457,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title />
+        <dc:title></dc:title>
         <cc:license
            rdf:resource="http://creativecommons.org/licenses/by-nc-sa/3.0/" />
       </cc:Work>
@@ -602,65 +605,56 @@
        style="display:inline;fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1.24724019;stroke-opacity:1"
        id="path4943"
        transform="translate(35.315951,-293.31249)" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer24"
+     inkscape:label="Layer 2"
+     style="display:inline">
     <flowRoot
        xml:space="preserve"
-       id="flowRoot12412"
-       style="display:inline;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:30px;line-height:125%;font-family:'Anime Ace 2.0 BB';-inkscape-font-specification:'Anime Ace 2.0 BB, Normal';text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       transform="translate(209.35821,-287.07778)"><flowRegion
-         id="flowRegion12414"><rect
-           id="rect12416"
-           width="283.0014"
-           height="90.685509"
-           x="351.7973"
-           y="81.295021"
-           style="fill:#ffffff;fill-opacity:1" /></flowRegion><flowPara
-         id="flowPara12418">We need this new feature.</flowPara></flowRoot>    <flowRoot
+       id="flowRoot12673"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:30px;line-height:125%;font-family:'Anime Ace 2.0 BB';-inkscape-font-specification:'Anime Ace 2.0 BB, Normal';text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       transform="translate(143.59183,12.872913)"><flowRegion
+         id="flowRegion12675"><rect
+           id="rect12677"
+           width="370.55981"
+           height="134.46474"
+           x="389.32233"
+           y="56.27832" /></flowRegion><flowPara
+         id="flowPara12679"
+         style="opacity:0.95999995;fill:#ffffff;fill-opacity:1">We have all these issues with our implementation...</flowPara></flowRoot>    <path
+       style="display:inline;opacity:0.95999995;fill:none;fill-opacity:1;fill-rule:nonzero;stroke:#ffffff;stroke-width:4;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       d="m 718.53906,32.753906 a 223.58673,92.249069 0 0 0 -223.58594,92.248044 223.58673,92.249069 0 0 0 223.58594,92.25 223.58673,92.249069 0 0 0 19.97071,-0.4414 l 70.71484,222.46484 -21.6543,-226.64844 a 223.58673,92.249069 0 0 0 154.55664,-87.625 223.58673,92.249069 0 0 0 -223.58789,-92.248044 z"
+       id="path12697"
+       inkscape:connector-curvature="0" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer25"
+     inkscape:label="Layer 3"
+     style="display:inline">
+    <flowRoot
        xml:space="preserve"
-       id="flowRoot12420"
-       style="display:inline;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:30px;line-height:125%;font-family:'Anime Ace 2.0 BB';-inkscape-font-specification:'Anime Ace 2.0 BB, Normal';text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       transform="translate(-122.82171,-232.08736)"><flowRegion
-         id="flowRegion12422"><rect
-           id="rect12424"
-           width="397.14011"
-           height="137.59181"
-           x="301.76392"
-           y="165.72636" /></flowRegion><flowPara
-         id="flowPara12426"
-         style="fill:#ffffff;fill-opacity:1">this library  already does most of what we need.</flowPara></flowRoot>    <flowRoot
-       xml:space="preserve"
-       id="flowRoot12436"
-       style="display:inline;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:30px;line-height:125%;font-family:'Anime Ace 2.0 BB';-inkscape-font-specification:'Anime Ace 2.0 BB, Normal';text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       transform="translate(-28.717442,-298.00312)"><flowRegion
-         id="flowRegion12438"><rect
-           id="rect12440"
-           width="342.41605"
-           height="150.10019"
-           x="426.84738"
-           y="423.71106" /></flowRegion><flowPara
-         id="flowPara12442"
-         style="fill:#ffffff;fill-opacity:1">but not everything, let's just write our own.</flowPara></flowRoot>    <path
-       style="display:inline;opacity:1;fill:none;fill-opacity:1;fill-rule:nonzero;stroke:#ffffff;stroke-width:4;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-       d="m 667.63223,57.842841 c -82.89741,1.4e-4 -150.09903,30.450779 -150.09961,68.013669 5.8e-4,37.56289 67.2022,68.01353 150.09961,68.01367 6.29598,-0.028 12.58183,-0.2354 18.82031,-0.62109 l 117.20917,260.16837 -72.16425,-266.0922 c 52.5761,-11.2007 86.16624,-35.14355 86.23633,-61.46875 C 817.73321,88.293275 750.5304,57.842493 667.63223,57.842841 Z"
-       id="path12444"
-       inkscape:connector-curvature="0"
-       sodipodi:nodetypes="sccccccs"
-       transform="translate(35.315951,-293.31249)" />
-    <path
-       style="display:inline;opacity:1;fill:none;fill-opacity:1;fill-rule:nonzero;stroke:#ffffff;stroke-width:4;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-       d="m 342.41602,206.37799 a 215.76901,85.21312 0 0 0 -215.76954,85.21289 215.76901,85.21312 0 0 0 121.04688,76.44727 l -19.41602,93.19727 70.53125,-86.20313 a 215.76901,85.21312 0 0 0 43.60743,1.77148 215.76901,85.21312 0 0 0 215.76953,-85.21289 215.76901,85.21312 0 0 0 -215.76953,-85.21289 z"
-       id="path12446"
-       inkscape:connector-curvature="0"
-       transform="translate(35.315951,-293.31249)" />
-    <path
-       style="display:inline;opacity:1;fill:none;fill-opacity:1;fill-rule:nonzero;stroke:#ffffff;stroke-width:4;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-       d="m 534.02148,398.43945 a 191.53409,96.157928 0 0 0 -191.5332,96.15821 191.53409,96.157928 0 0 0 191.5332,96.1582 191.53409,96.157928 0 0 0 164.61329,-47.21289 l 72.26367,16.19726 -48.4375,-48.4375 a 191.53409,96.157928 0 0 0 3.0957,-16.70507 191.53409,96.157928 0 0 0 -191.53516,-96.15821 z"
-       id="path12456"
-       inkscape:connector-curvature="0"
-       transform="translate(35.315951,-293.31249)" />
+       id="flowRoot12681"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:30px;line-height:125%;font-family:'Anime Ace 2.0 BB';-inkscape-font-specification:'Anime Ace 2.0 BB, Normal';text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       transform="translate(-119.74072,-16.762522)"><flowRegion
+         id="flowRegion12683"><rect
+           id="rect12685"
+           width="365.8692"
+           height="192.31584"
+           x="243.9128"
+           y="200.12433" /></flowRegion><flowPara
+         id="flowPara12687"
+         style="fill:#ffffff;fill-opacity:1">This library could replace it, it meets all our requirements now.</flowPara></flowRoot>    <path
+       style="display:inline;opacity:0.95999995;fill:none;fill-opacity:1;fill-rule:nonzero;stroke:#ffffff;stroke-width:4;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       d="M 308.66992,155.47266 A 237.65862,117.26576 0 0 0 71.011719,272.73828 237.65862,117.26576 0 0 0 212.3457,379.8457 l -1.26758,79.82618 43.49024,-72.87305 a 237.65862,117.26576 0 0 0 54.10156,3.20508 237.65862,117.26576 0 0 0 237.6582,-117.26563 237.65862,117.26576 0 0 0 -237.6582,-117.26562 z"
+       id="path12699"
+       inkscape:connector-curvature="0" />
     <g
        style="display:inline"
        id="g12536"
-       transform="translate(221.37763,277.3809)">
+       transform="translate(186.06168,570.69339)">
       <path
          id="rect12467"
          d="m 1.2872145,119.478 65.0392225,0 0,65.03922 -65.0392225,0 z"
@@ -677,6 +671,53 @@
          d="m 213.81591,65.703413 20.48822,7.832897 -60.75083,23.225784 -60.75084,-23.225787 0,0 20.4888,-7.833116"
          style="display:inline;opacity:1;fill:none;fill-opacity:1;fill-rule:nonzero;stroke:#ffffff;stroke-width:3.99999976;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
          inkscape:connector-curvature="0" />
+    </g>
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer26"
+     inkscape:label="Layer 4"
+     style="display:inline">
+    <flowRoot
+       xml:space="preserve"
+       id="flowRoot12689"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:30px;line-height:125%;font-family:'Anime Ace 2.0 BB';-inkscape-font-specification:'Anime Ace 2.0 BB, Normal';text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       transform="translate(-49.85111,-11.198979)"><flowRegion
+         id="flowRegion12691"><rect
+           id="rect12693"
+           width="275.18365"
+           height="128.21057"
+           x="511.27875"
+           y="425.2746" /></flowRegion><flowPara
+         id="flowPara12695"
+         style="fill:#ffffff;fill-opacity:1">But we put in all this work already...</flowPara></flowRoot>    <path
+       style="display:inline;opacity:0.95999995;fill:none;fill-opacity:1;fill-rule:nonzero;stroke:#ffffff;stroke-width:4;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       d="m 596.49219,384.62305 a 172.77156,82.867805 0 0 0 -172.77149,82.86718 172.77156,82.867805 0 0 0 172.77149,82.86719 172.77156,82.867805 0 0 0 130.14648,-28.45508 l 61.38672,9.69336 -35.69922,-28.56054 a 172.77156,82.867805 0 0 0 16.9375,-35.54493 172.77156,82.867805 0 0 0 -172.77148,-82.86718 z"
+       id="path12701"
+       inkscape:connector-curvature="0" />
+    <g
+       transform="translate(526.44798,215.24421)"
+       id="g14190">
+      <g
+         transform="matrix(1.5068658e-4,0,0,-1.5068658e-4,293.32011,329.72086)"
+         id="g3703-8"
+         style="stroke:#ffffff;stroke-opacity:1">
+        <path
+           id="path3705-3"
+           style="fill:none;stroke:#ffffff;stroke-width:25400;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+           d="M 0.0153656,0.03601074 41172.02,29558.02"
+           inkscape:connector-curvature="0" />
+      </g>
+      <g
+         transform="matrix(-1.5068658e-4,0,0,-1.5068658e-4,319.83071,330.88898)"
+         id="g3707-4"
+         style="stroke:#ffffff;stroke-opacity:1">
+        <path
+           id="path3709-5"
+           style="fill:none;stroke:#ffffff;stroke-width:25400;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+           d="M -0.04048157,-0.00390625 41171.96,29557.98"
+           inkscape:connector-curvature="0" />
+      </g>
     </g>
   </g>
 </svg>

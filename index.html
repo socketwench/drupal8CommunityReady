@@ -292,14 +292,7 @@
       </section>
 
       <section>
-        <h2>Code for everything!</h2>
-        <p class="fragment">Even for things that shouldn't be code</p>
-        <aside class="notes">
-          That wasn't the only thing that bothered me. Drupal used code for
-          everything. Menu items, forms, and tons of other things that shouldn't
-          be code. I did't understand why we didn't save these in flat-files
-          like many, many other projects.
-        </aside>
+        <h2>Arrays of Doom!</h2>
       </section>
 
       <section data-transition="none">
@@ -326,9 +319,8 @@
       </section>
 
       <section>
-        <h2>Arrays of doom!</h2>
-        <p class="fragment">Undocumentable Monstrosities</p>
-        <p class="fragment">Lack of a language feature patched with human effort</p>
+        <h2>Undocumentable Monstrosities</h2>
+        <p class="fragment">Lack of a language feature patched with human effort.</p>
         <aside class="notes">
           With the exception of the database layer, there were huge arrays of
           doom everywhere in Drupal. Either you needed to create them in your
@@ -356,7 +348,7 @@
 
       <section>
         <h2>I &lt;3 Drupal</h2>
-        <p class="fragment">Just don't tell me how you work</p>
+        <p class="fragment">Just don't tell me how you work.</p>
         <aside class="notes">
           I really, really love you Drupal, but please, don't tell me how you
           work.
@@ -385,7 +377,7 @@
 
     <section>
       <section>
-        <h1>What was wrong with Drupal 7?</h1>
+        <h1>Drupal 7 Pain Points</h1>
       </section>
       <section>
         <h2>Batteries NOT Included</h2>
@@ -413,6 +405,56 @@
         <p>Core alone was never enough in D7</p>
         <p>Key contrib modules needed to make a complete site</p>
       </section>
+
+      <section>
+        <h2>Development Cycle Problems</h2>
+      </section>
+      <section data-transition="none">
+        <img src="images/breakingFixesMustWait1.png" />
+      </section>
+      <section data-transition="none">
+        <img src="images/breakingFixesMustWait2.png" />
+      </section>
+      <section data-transition="none">
+        <img src="images/breakingFixesMustWait3.png" />
+      </section>
+      <section data-transition="none">
+        <img src="images/breakingFixesMustWait4.png" />
+      </section>
+      <section data-transition="none">
+        <img src="images/breakingFixesMustWait5.png" />
+      </section>
+      <section>
+        <h2>Lengthy Dev Cycles Kill Momentum</h2>
+        <p class="fragment">And contributor interest.</p>
+      </section>
+
+      <!-- @todo Uncomment to fill possible time gap -->
+      <!--<section data-transition="none">-->
+        <!--<img src="images/patchEveryBuild1.png" />-->
+      <!--</section>-->
+      <!--<section data-transition="none">-->
+        <!--<img src="images/patchEveryBuild2.png" />-->
+      <!--</section>-->
+      <!--<section data-transition="none">-->
+        <!--<img src="images/patchEveryBuild3.png" />-->
+      <!--</section>-->
+      <!--<section data-transition="none">-->
+        <!--<img src="images/dontHackCore1.png" />-->
+      <!--</section>-->
+      <!--<section data-transition="none">-->
+        <!--<img src="images/dontHackCore2.png" />-->
+      <!--</section>-->
+      <!--<section>-->
+        <!--<h2>Hacking Core</h2>-->
+        <!--<p>Isn't just about patching files</p>-->
+      <!--</section>-->
+      <!--<section>-->
+        <!--<h2>Runtime Patching</h2>-->
+        <!--<p class="fragment">Adds CPU, memory, debugging overhead</p>-->
+        <!--<p class="fragment">Only alternative when core is untouchable for so long</p>-->
+      <!--</section>-->
+
 
       <section>
         <h2>The Web also Changed</h2>
@@ -499,68 +541,104 @@
       <section>
         <h1>Tech Wasn't our Biggest Problem</h1>
       </section>
+
+      <section>
+        <h2>We liked our own code...</h2>
+        <h2 class="fragment">...a little too much.</h2>
+      </section>
+      <section data-transition="none">
+        <img src="images/notInventedHere1.png" />
+      </section>
+      <section data-transition="none">
+        <img src="images/notInventedHere2.png" />
+      </section>
+      <section data-transition="none">
+        <img src="images/notInventedHere3.png" />
+      </section>
+      <section data-transition="none">
+        <img src="images/notInventedHere4.png" />
+      </section>
+
       <section>
         <h2>Not-Invented-Here (NIH)</h2>
-        <p class="fragment">PHP4 dependencies were copy-paste</p>
-        <p class="fragment">Drupal 7 didn't make this easier</p>
-        <aside class="notes">
-          Drupal also has a bad habit of developing their own solutions rather
-          than working with others'. This is the "Not Invented Here" problem.
+        <p class="fragment">Prefer in-community solutions despite costs.</p>
+      </section>
 
-          In earlier versions of PHP, there was a good reason for this as
-          including external dependencies was laborious. We literally had to
-          copy and paste code into our repository. Today, however, there
-          are many excellent libaries and tools we could leverage, yet Drupal
-          7 did not provide any natural way to do so.
-        </aside>
+      <section>
+        <h2>PHP 4 Didn't Help</h2>
+        <p class="fragment">Dependencies were copy-paste.</p>
+        <p class="fragment">Required manual effort to build, update.</p>
       </section>
 
       <section>
         <h2>NIH has a social cost</h2>
-        <!--
-        @todo Replace fragments below with a comic?
-        -->
-        <p class="fragment">In-community solutions preferred despite costs</p>
-        <p class="fragment">Sunk-cost fallacy makes replacement impossible</p>
-        <aside class="notes">
-          Not-invented-here also has a big social cost. It creates a culture
-          where in-community solutions are immediately preferred even in the
-          face of time, stress, and maintainership costs. Once in place,
-          NIH motivated code can become impossible to replace due to the
-          sunk-cost fallacy.
-        </aside>
+      </section>
+      <section data-transition="none">
+        <img src="images/sunkCosts1.png" />
+      </section>
+      <section data-transition="none">
+        <img src="images/sunkCosts2.png" />
+      </section>
+      <section data-transition="none">
+        <img src="images/sunkCosts3.png" />
+      </section>
+      <section data-transition="none">
+        <img src="images/sunkCosts4.png" />
       </section>
 
       <section>
         <h2>Sunk-cost Fallacy</h2>
         <p class="fragment">"Point of no return" thinking</p>
-        <p class="fragment">Works in software design too</p>
         <aside class="notes">
           Haven't heard of the Sunk-cost Fallacy? It's an idea from behavioral
           economics that suggests once we've invested a certain amount of utility
           in something, we pass a point of "no return" where we're obligated
           to stick with it even when we know the problems.
-
+        </aside>
+      </section>
+      <section>
+        <h2>Sunk Costs in Software</h2>
+        <p class="fragment">Makes replacement of large subsystems impossible</p>
+        <aside class="notes">
           Usually this refers to cars, houses, movie or concert tickets, but it
-          works in software design as well! Often, it's a key motivator behind
-          forks.
+          works in software design as well!
         </aside>
       </section>
 
-      <!--
-      @todo Old release cycles and discouraging potential contributors.
-      -->
+      <section>
+        <h2>Sunk Costs in Drupal 7</h2>
+        <p class="fragment">PHPTemplate vs. Smarty, etc.</p>
+        <p class="fragment">Simpletest vs. PHPUnit</p>
+        <p class="fragment">Many others...</p>
+      </section>
+    </section>
+
+    <section>
+      <section>
+        <h1>What about Drupal 8?</h1>
+      </section>
+      <section>
+        <h2>There's a lot of tech improvements.</h2>
+        <p class="fragment">But I don't want to talk about that...</p>
+      </section>
+      <section>
+        <h2>Technology should be an enabler for people!</h2>
+      </section>
+      <section>
+        <h2>So who did we enable in Drupal 8?</h2>
+      </section>
     </section>
 
     <section>
       <!--
-      @todo Seems really close to the main theme of the talk, but doesn't go far enough.
+      @todo Do a parallel structure with the Drupal 7 section?
+
+      We had a technical section, and then a social section for D7. We should
+      do the same here.
       -->
       <section>
-        <h1>What's to get excited about in Drupal 8?</h1>
-        <aside class="notes">
-          So why was I getting excited, and why am I excited today for Drupal 8?
-        </aside>
+        <h1>Not just Community</h1>
+        <h1 class="fragment">but Communities.</h1>
       </section>
 
       <section>
@@ -628,38 +706,38 @@
 
     </section>
 
-    <section>
-      <!--
-      @todo Seems out of place, especially at this point in the talk.
+    <!--
+    @todo Seems out of place, especially at this point in the talk.
 
-      This really shouldn't be it's own section. It can easily be used to support
-      a point made elsewhere, but it doesn't quite fit. It can be thought of as
-      a valid criticism of Drupal 8, since we need to adjust to boilerplate code.
-      -->
-      <section>
-        <h1>Magic vs. Boilerplate</h1>
-      </section>
-      <!-- @todo Comic about "Why do I have to define 5 classes to do this one thing!?" -->
-      <section>
-        <h2>Boilerplate IS Tedious</h2>
-        <p>But it's also predictable.</p>
-      </section>
-      <section>
-        <h2>Generators reduce Tedium</h2>
-        <p>Creates basic "outline" of code</p>
-        <p>Usually built-in to IDEs</p>
-      </section>
-      <section>
-        <h2>We already have a great generator!</h2>
-      </section>
-      <section>
-        <h2>Generators Help Beginners</h2>
-        <p>Makes creating complex modules easier</p>
-      </section>
-      <!--
-        @todo Comic about I need to define how many functions for an entity?
-      -->
-    </section>
+    This really shouldn't be it's own section. It can easily be used to support
+    a point made elsewhere, but it doesn't quite fit. It can be thought of as
+    a valid criticism of Drupal 8, since we need to adjust to boilerplate code.
+    -->
+    <!--<section>-->
+      <!--<section>-->
+        <!--<h1>Magic vs. Boilerplate</h1>-->
+      <!--</section>-->
+      <!--&lt;!&ndash; @todo Comic about "Why do I have to define 5 classes to do this one thing!?" &ndash;&gt;-->
+      <!--<section>-->
+        <!--<h2>Boilerplate IS Tedious</h2>-->
+        <!--<p>But it's also predictable.</p>-->
+      <!--</section>-->
+      <!--<section>-->
+        <!--<h2>Generators reduce Tedium</h2>-->
+        <!--<p>Creates basic "outline" of code</p>-->
+        <!--<p>Usually built-in to IDEs</p>-->
+      <!--</section>-->
+      <!--<section>-->
+        <!--<h2>We already have a great generator!</h2>-->
+      <!--</section>-->
+      <!--<section>-->
+        <!--<h2>Generators Help Beginners</h2>-->
+        <!--<p>Makes creating complex modules easier</p>-->
+      <!--</section>-->
+      <!--&lt;!&ndash;-->
+        <!--@todo Comic about I need to define how many functions for an entity?-->
+      <!--&ndash;&gt;-->
+    <!--</section>-->
 
     <section>
       <section>
@@ -1005,7 +1083,7 @@
         <p>It's easier to be a new student, than an old expert</p>
       </section>
       <section>
-        <h2>Change is scary</h2>
+        <h2>Change is Intimidating</h2>
         <p>Some will take this as an exit cue</p>
       </section>
       <section>
@@ -1243,8 +1321,7 @@
     </section>
 
     <section>
-      <section data-background="images/8bitBackground.png"
-               data-background-size="contain">
+      <section>
         <h1>Drupal 8 is a Great Opportunity</h1>
       </section>
     </section>
