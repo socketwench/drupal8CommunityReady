@@ -1,180 +1,1517 @@
 <!doctype html>
 <html lang="en">
 
-	<head>
-		<meta charset="utf-8">
+<head>
+  <meta charset="utf-8">
 
-		<title>Drupal 8: Community Ready</title>
+  <title>Drupal 8: Community Ready</title>
 
-		<meta name="description" content="A framework for easily creating beautiful presentations using HTML">
-		<meta name="author" content="socketwench">
+  <meta name="description"
+        content="A framework for easily creating beautiful presentations using HTML">
+  <meta name="author" content="socketwench">
 
-		<meta name="apple-mobile-web-app-capable" content="yes">
-		<meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
+  <meta name="apple-mobile-web-app-capable" content="yes">
+  <meta name="apple-mobile-web-app-status-bar-style"
+        content="black-translucent">
 
-		<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no, minimal-ui">
+  <meta name="viewport"
+        content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no, minimal-ui">
 
-		<link rel="stylesheet" href="css/reveal.css">
-		<link rel="stylesheet" href="css/theme/zeeEighty.css" id="theme">
+  <link rel="stylesheet" href="css/reveal.css">
+  <link rel="stylesheet" href="css/theme/zeeEighty.css" id="theme">
 
-		<!-- Code syntax highlighting -->
-		<link rel="stylesheet" href="lib/css/zenburn.css">
+  <!-- Code syntax highlighting -->
+  <link rel="stylesheet" href="lib/css/zenburn.css">
 
-		<!-- Printing and PDF exports -->
-		<script>
-			var link = document.createElement( 'link' );
-			link.rel = 'stylesheet';
-			link.type = 'text/css';
-			link.href = window.location.search.match( /print-pdf/gi ) ? 'css/print/pdf.css' : 'css/print/paper.css';
-			document.getElementsByTagName( 'head' )[0].appendChild( link );
-		</script>
+  <!-- Printing and PDF exports -->
+  <script>
+    var link = document.createElement('link');
+    link.rel = 'stylesheet';
+    link.type = 'text/css';
+    link.href = window.location.search.match(/print-pdf/gi) ? 'css/print/pdf.css' : 'css/print/paper.css';
+    document.getElementsByTagName('head')[0].appendChild(link);
+  </script>
 
-		<!--[if lt IE 9]>
-		<script src="lib/js/html5shiv.js"></script>
-		<![endif]-->
-	</head>
+  <!--[if lt IE 9]>
+  <script src="lib/js/html5shiv.js"></script>
+  <![endif]-->
+</head>
 
-	<body>
+<body>
 
-		<div class="reveal">
+<div class="reveal">
 
-			<!-- Any section element inside of this container is displayed as a slide -->
-			<div class="slides">
-				<section>
-					<p>&nbsp;</p>
-					<h1>Drupal 8</h1>
-					<h3>Community Ready!</h3>
-					<p>&nbsp;</p>
-					<p>socketwench.github.io/drupal8CommunityReady</p>
-					<img src="images/controls.png" />
-				</section>
+  <!-- Any section element inside of this container is displayed as a slide -->
+  <div class="slides">
+    <section>
+      <p>&nbsp;</p>
+      <h1>Drupal 8</h1>
+      <h3>Community Ready!</h3>
+      <p>&nbsp;</p>
+      <p>socketwench.github.io/drupal8CommunityReady</p>
+      <img src="images/controls.png"/>
+    </section>
 
-				<section>
-					<section data-background="images/8bitBackground.png" data-background-size="contain">
-						<h1>Character Select Screen</h1>
-					</section>
-				</section>
+    <section>
+      <section data-background-transition="none"
+               data-background="images/socketwench/socketwench1.png"
+               data-background-size="contain">
+        <aside class="notes">
+          So you might be wondering who is this weird person in front
+          of you. And yes, I do make that
+          face when I get to go on a business trip.
+        </aside>
+      </section>
+      <section data-background-transition="none"
+               data-background="images/socketwench/socketwench2.png"
+               data-background-size="contain">
+        <aside class="notes">
+          My name is Tess Flynn, otherwise known as socketwench.
+        </aside>
+      </section>
+      <section data-background-transition="none"
+               data-background="images/socketwench/socketwench3.png"
+               data-background-size="contain">
+        <aside class="notes">
+          That's wench, not wrench.
+        </aside>
+      </section>
+      <section data-background-transition="none"
+               data-background="images/socketwench/socketwench4.png"
+               data-background-size="contain">
+        <aside class="notes">
+          I'm the module maintainer for Flag, Flag Friend, and
+          Examples.
+        </aside>
+      </section>
+      <section data-background-transition="none"
+               data-background="images/socketwench/socketwench5.png"
+               data-background-size="contain">
+        <aside class="notes">
+          And I work as a Drupal Developer for FFW, the largest Drupal
+          consultancy in the world. Just
+          in case you're looking for work, we're hiring. Hit me up
+          after the session.
+        </aside>
+      </section>
+    </section>
 
-				<section>
-					<section data-background="images/8bitBackground.png" data-background-size="contain">
-						<h1>Drupal at a Crossroads</h1>
-					</section>
-				</section>
+    <section>
+      <section data-background="images/crossroads.png"
+               data-background-size="contain">
+        <h1>Drupal at a Crossroads</h1>
+        <aside class="notes">
+          In many ways, Drupal today is at a kind of crossroads. There's been
+          a lot of speculation, hope, excitement, even a little fear. Developers
+          and businesses alike have a lot to be both concerned, and excited about.
+        </aside>
+      </section>
+      <section>
+        <h2>Huge Changes</h2>
+        <p class="fragment">In code and process</p>
+        <aside class="notes">
+          There's been some huge changes with over the last several years.
+          Critics have called Drupal 8 a completely different CMS from the
+          previous version. While intimidating, there were many changes we
+          needed for Drupal to be ready for the now and the future.
+        </aside>
+      </section>
+      <section>
+        <h2>Gigantic Dev Cycle</h2>
+        <p class="fragment">4 years!</p>
+        <aside class="notes">
+          There's also been a gigantic development cycle for this version,
+          longer than any other we've done in the history of the project. Four
+          years! That's an eternity in the tech world.
+        </aside>
+      </section>
+      <section>
+        <h2>"When it's Ready"</h2>
+        <p>Led to speculation, worry</p>
+        <aside class="notes">
+          We also had the nagging problem that we never really knew when Drupal
+          8 was going to be released. We said, "When it's ready". This created
+          a lot of speculation and even worry that Drupal would never get out
+          the door.
+        </aside>
+      </section>
+      <section>
+        <h2>Community Shakeup</h2>
+        <p>Long time devs left or reduced involvement</p>
+        <aside class="notes">
+          We've also had some long time developers leave the project, or reduce
+          their involvement. From an outsider perspective it's hard to read this
+          in an alarming way, forgetting about the many new developers that have
+          joined the project recently and had a big impact.
+        </aside>
+      </section>
+      <section>
+        <h2>Forked!</h2>
+        <p>Not the first, but highest profile</p>
+        <aside class="notes">
+          And let's not forget the big fork Drupal had recently. It wasn't the
+          first, but it was certainly the highest profile.
+        </aside>
+      </section>
+      <section data-transition="none">
+        <img src="images/drupal8Reactions1.png" />
+      </section>
+      <section data-transition="none">
+        <img src="images/drupal8Reactions2.png" />
+      </section>
+      <section data-transition="none">
+        <img src="images/drupal8Reactions3.png" />
+      </section>
+    </section>
 
-				<section>
-					<section data-background="images/8bitBackground.png" data-background-size="contain">
-						<h1>But let me tell you a different story...</h1>
-					</section>
-				</section>
+    <section>
+      <section>
+        <h1>But let me tell you a different story...</h1>
+      </section>
 
-				<section>
-					<section data-background="images/8bitBackground.png" data-background-size="contain">
-						<h1>What's new in Drupal 8?</h1>
-					</section>
+      <section>
+        <h2>Let's go back to 2012</h2>
+        <p class="fragment">Drupal 8 had just gotten started</p>
+      </section>
 
-					<section>
-						<h2>Semantic Versioning</h2>
-					</section>
+      <section data-transition="none">
+        <img src="images/sittingInAnAuditorium1.png" />
+        <aside class="notes">
+          And I was sitting in an auditorium...
+        </aside>
+      </section>
+      <section data-transition="none">
+        <img src="images/sittingInAnAuditorium2.png" />
+        <aside class="notes">
+          ...listening to Larry Garfield give a talk an "Musical CMS: How
+          Symfony is coming to Drupal".
+        </aside>
+      </section>
+      <section data-transition="none">
+        <img src="images/sittingInAnAuditorium3.png" />
+        <aside class="notes">
+          And what I was hearing was really, really exciting.
+        </aside>
+      </section>
 
-					<section>
-						<h2>Ready out of the box</h2>
-						<p>More features included in core</p>
-						<p>Less to install later</p>
-					</section>
+      <section data-transition="none">
+        <img src="images/letsFindOutHowDrupalWorks1.png" />
+        <aside class="notes">
+          This was my second Drupal camp. I actually had given a talk just the
+          previous day on how does Drupal 7 work.
+        </aside>
+      </section>
 
-					<section>
-						<h2>Web Services</h2>
-						<p>Best in class REST server</p>
-					</section>
+      <section data-transition="none">
+        <img src="images/letsFindOutHowDrupalWorks2.png" />
+        <aside class="notes">
+          See, for year's I had used Drupal for my own site, but I never really
+          developed any code for it, nor peaked inside core.
+        </aside>
+      </section>
 
-					<section>
-						<h2>New theme layer</h2>
-					</section>
+      <section data-transition="none">
+        <img src="images/letsFindOutHowDrupalWorks3.png" />
+        <aside class="notes">
+          I decided to change that. I set up a debugger and stepped through the
+          entire Drupal 7 init process.
+        </aside>
+      </section>
 
-				</section>
+      <section data-transition="none">
+        <img src="images/letsFindOutHowDrupalWorks4.png" />
+        <aside class="notes">
+          And that's when I discovered something kinda surprising.
+        </aside>
+      </section>
 
-				<section>
-					<section>
-						<h1>What's the same?</h1>
-					</section>
+      <section data-transition="none">
+        <img src="images/letsFindOutHowDrupalWorks5.png" />
+        <aside class="notes">
+          ...even a little unsettling.
+        </aside>
+      </section>
+    </section>
 
-					<section>
-						<h2>Site Building</h2>
-						<p class="fragment">Mostly the same...</p>
-						<p class="fragment">...minus Features module.</p>
-					</section>
+    <section>
+      <section>
+        <h1>Drupal 7 is weird</h1>
+        <aside class="notes">
+          The thing is, Drupal 7 is really, really weird.
+        </aside>
+      </section>
+      <section data-transition="none">
+        <img src="images/d7IsWierd1.png" />
+      </section>
+      <section data-transition="none">
+        <img src="images/d7IsWierd2.png" />
+      </section>
+      <section data-transition="none">
+        <img src="images/d7IsWierd3.png" />
+      </section>
 
-					<section>
-						<h2>Config Management</h2>
-					</section>
-				</section>
+      <section>
+        <h2>Anachronisms</h2>
+        <p class="fragment">Straight functions (mostly)</p>
+        <p class="fragment">PHP4's OOP was odd &amp; incomplete</p>
+        <aside class="notes">
+          Drupal 7 is, to me, full of anachronisms. It's composed of straight
+          functions -- mostly. There isn't anything wrong with that, it only
+          feels...well...old fashioned. It was also justified in Drupal's case
+          as PHP 4's OOP support was odd and incomplete.
+        </aside>
+      </section>
 
-				<section>
-					<section data-background="images/8bitBackground.png" data-background-size="contain">
-						<h1>So what didn't we do so well?</h1>
-					</section>
+      <section>
+        <h2>Hooks are API Go-Fish</h2>
+        <aside class="notes">
+          The thing that really bothered me was hooks, hooks are like API
+          Go-fish.  I had been coding for over a decade at that point. I've been
+          through 4 years of college, worked in multiple languages and products,
+          and I had never saw anything like hooks. Drupal 7, in essence, asks each
+          module "Do you have a something-hook?" and if it does, it executes it.
+          I just couldn't believe the project I had come to love the last few
+          years works like that. I was dumbfounded.
+        </aside>
+      </section>
 
-					<section>
-						<h2>FUD</h2>
-						<p>Fear Uncertainty and Doubt</p>
-					</section>
+      <section data-transition="none">
+        <img src="images/doYouHaveABlahHook1.png" />
+      </section>
 
-					<section>
-						<h2>BURNOUT</h2>
-					</section>
+      <section data-transition="none">
+        <img src="images/doYouHaveABlahHook2.png" />
+      </section>
 
-					<section>
-						<h2>Routing System</h2>
-					</section>
+      <section data-transition="none">
+        <img src="images/doYouHaveABlahHook3.png" />
+      </section>
 
-					<section>
-						<h2>4 Years is too many!</h2>
-					</section>
-				</section>
+      <section data-transition="none">
+        <img src="images/doYouHaveABlahHook4.png" />
+      </section>
 
-				<section>
-					<section data-background="images/8bitBackground.png" data-background-size="contain">
-						<h1>Drupal 8 is a Great Opportunity</h1>
-					</section>
-				</section>
+      <section>
+        <h2>Arrays of Doom!</h2>
+      </section>
 
-				<section>
-					<h1>Thank you!</h1>
-					<p>&nbsp;</p>
-					<p>socketwench.github.io/drupal8CommunityReady</p>
-				</section>
+      <section data-transition="none">
+        <img src="images/arraysOfDoom1.png">
+      </section>
 
-			</div>
+      <section data-transition="none">
+        <img src="images/arraysOfDoom2.png">
+      </section>
 
-		</div>
+      <section data-transition="none">
+        <img src="images/arraysOfDoom3.png">
+      </section>
 
-		<script src="lib/js/head.min.js"></script>
-		<script src="js/reveal.js"></script>
+      <section data-transition="none">
+        <img src="images/arraysOfDoom4.png">
+      </section>
 
-		<script>
+      <section data-transition="none">
+        <img src="images/alwaysBeGoogling1.png">
+      </section>
+      <section data-transition="none">
+        <img src="images/alwaysBeGoogling2.png">
+      </section>
 
-			// Full list of configuration options available at:
-			// https://github.com/hakimel/reveal.js#configuration
-			Reveal.initialize({
-				controls: false,
-				progress: true,
-				history: true,
-				center: true,
+      <section>
+        <h2>Undocumentable Monstrosities</h2>
+        <p class="fragment">Lack of a language feature patched with human effort.</p>
+        <aside class="notes">
+          With the exception of the database layer, there were huge arrays of
+          doom everywhere in Drupal. Either you needed to create them in your
+          code, or work with huge, undocumentable monstrosities that you needed
+          to run through a debugger first BEFORE writing your code. WTH!?
+        </aside>
+      </section>
 
-				transition: 'slide', // none/fade/slide/convex/concave/zoom
+      <section data-transition="none">
+        <img src="images/iWasVeryDiscouraged1.png" alt="Sad developer" />
+        <aside class="notes">
+          After discovering all of this, I was really discouraged. The coding
+          techniques I had been familiar with for years just didn't apply to
+          Drupal.
+        </aside>
+      </section>
 
-				// Optional reveal.js plugins
-				dependencies: [
-					{ src: 'lib/js/classList.js', condition: function() { return !document.body.classList; } },
-					{ src: 'plugin/markdown/marked.js', condition: function() { return !!document.querySelector( '[data-markdown]' ); } },
-					{ src: 'plugin/markdown/markdown.js', condition: function() { return !!document.querySelector( '[data-markdown]' ); } },
-					{ src: 'plugin/highlight/highlight.js', async: true, callback: function() { hljs.initHighlightingOnLoad(); } },
-					{ src: 'plugin/zoom-js/zoom.js', async: true },
-					{ src: 'plugin/notes/notes.js', async: true }
-				]
-			});
+      <section data-transition="none">
+        <img src="images/iWasVeryDiscouraged2.png" alt="Sad developer" />
+        <aside class="notes">
+          It all seemed too strange, too weird, and too impenetrable for me to
+          even seriously consider writing a module or contributing to core.
+        </aside>
+      </section>
 
-		</script>
+      <section>
+        <h2>I &lt;3 Drupal</h2>
+        <p class="fragment">Just don't tell me how you work.</p>
+        <aside class="notes">
+          I really, really love you Drupal, but please, don't tell me how you
+          work.
+        </aside>
+      </section>
 
-	</body>
+      <section data-transition="none">
+        <img alt="I thought I was alone" src="images/iThoughtIWasAlone1.png">
+        <aside class="notes">
+          The thing was, I had assumed I was alone. That no one else had this bizarre
+          perspective on our beloved CMS. That is, until I was sitting in that
+          auditorium listening to Crell talk about putting Symfony in Drupal.
+          And then I got really, really excited.
+        </aside>
+      </section>
+      <section data-transition="none">
+        <img src="images/iThoughtIWasAlone2.png">
+      </section>
+      <section data-transition="none">
+        <img src="images/iThoughtIWasAlone3.png">
+      </section>
+      <section data-transition="none">
+        <img src="images/iThoughtIWasAlone4.png">
+      </section>
+    </section>
+
+    <section>
+      <section>
+        <h1>Drupal 7 Pain Points</h1>
+      </section>
+      <section>
+        <h2>Batteries NOT Included</h2>
+      </section>
+      <section data-transition="none">
+        <img src="images/adoptionGap1.png">
+      </section>
+      <section data-transition="none">
+        <img src="images/adoptionGap2.png">
+      </section>
+      <section data-transition="none">
+        <img src="images/adoptionGap3.png">
+      </section>
+      <section data-transition="none">
+        <img src="images/adoptionGap4.png">
+      </section>
+      <section data-transition="none">
+        <img src="images/adoptionGap5.png">
+      </section>
+      <section data-transition="none">
+        <img src="images/adoptionGap6.png">
+      </section>
+      <section>
+        <h2>Missing Functionality</h2>
+        <p>Core alone was never enough in D7</p>
+        <p>Key contrib modules needed to make a complete site</p>
+      </section>
+
+      <section>
+        <h2>Development Cycle Problems</h2>
+      </section>
+      <section data-transition="none">
+        <img src="images/breakingFixesMustWait1.png" />
+      </section>
+      <section data-transition="none">
+        <img src="images/breakingFixesMustWait2.png" />
+      </section>
+      <section data-transition="none">
+        <img src="images/breakingFixesMustWait3.png" />
+      </section>
+      <section data-transition="none">
+        <img src="images/breakingFixesMustWait4.png" />
+      </section>
+      <section data-transition="none">
+        <img src="images/breakingFixesMustWait5.png" />
+      </section>
+      <section>
+        <h2>Lengthy Dev Cycles Kill Momentum</h2>
+        <p class="fragment">And contributor interest.</p>
+      </section>
+
+      <!-- @todo Uncomment to fill possible time gap -->
+      <!--<section data-transition="none">-->
+        <!--<img src="images/patchEveryBuild1.png" />-->
+      <!--</section>-->
+      <!--<section data-transition="none">-->
+        <!--<img src="images/patchEveryBuild2.png" />-->
+      <!--</section>-->
+      <!--<section data-transition="none">-->
+        <!--<img src="images/patchEveryBuild3.png" />-->
+      <!--</section>-->
+      <!--<section data-transition="none">-->
+        <!--<img src="images/dontHackCore1.png" />-->
+      <!--</section>-->
+      <!--<section data-transition="none">-->
+        <!--<img src="images/dontHackCore2.png" />-->
+      <!--</section>-->
+      <!--<section>-->
+        <!--<h2>Hacking Core</h2>-->
+        <!--<p>Isn't just about patching files</p>-->
+      <!--</section>-->
+      <!--<section>-->
+        <!--<h2>Runtime Patching</h2>-->
+        <!--<p class="fragment">Adds CPU, memory, debugging overhead</p>-->
+        <!--<p class="fragment">Only alternative when core is untouchable for so long</p>-->
+      <!--</section>-->
+
+
+      <section>
+        <h2>The Web also Changed</h2>
+      </section>
+
+      <section data-transition="none">
+        <img alt="Request, process, return HTML" src="images/requestProcess1.png"/>
+        <aside class="notes">
+          Drupal 7 was also built with the assumption of the desktop web at its
+          core. When a request comes in, Drupal processes it, routes it to the
+          appropriate handlers, and then returns HTML for display. With frameworks
+          like React and mobile applications, the need to return HTML has gotten
+          smaller and smaller.
+        </aside>
+      </section>
+      <section data-transition="none">
+        <img alt="Request, process, return HTML" src="images/requestProcess2.png"/>
+      </section>
+      <section data-transition="none">
+        <img alt="Request, process, return HTML" src="images/requestProcess3.png"/>
+      </section>
+      <section data-transition="none">
+        <img alt="Request, process, return HTML" src="images/requestProcess4.png"/>
+      </section>
+      <section data-transition="none">
+        <img alt="Request, process, return HTML" src="images/requestProcess5.png"/>
+      </section>
+
+      <section>
+        <h2>No longer just HTML</h2>
+        <p class="fragment">Many endpoints only need content, not an HTML page.</p>
+        <p class="fragment">Decoupled, Mobile, and Native Apps.</p>
+      </section>
+
+      <section data-transition="none">
+        <img src="images/newRequestProcess1.png">
+      </section>
+      <section data-transition="none">
+        <img src="images/newRequestProcess2.png">
+      </section>
+      <section data-transition="none">
+        <img src="images/newRequestProcess3.png">
+      </section>
+      <section data-transition="none">
+        <img src="images/newRequestProcess4.png">
+      </section>
+      <section data-transition="none">
+        <img src="images/newRequestProcess5.png">
+      </section>
+      <section>
+        <h2>D7 was a poor REST Sever</h2>
+        <p class="fragment">Discouraged use of Drupal 7 as a backend.</p>
+      </section>
+
+      <section>
+        <h2>Theme Layer</h2>
+      </section>
+      <section data-transition="none">
+        <img src="images/d7ThemeLayer1.png" alt="Comic">
+      </section>
+      <section data-transition="none">
+        <img src="images/d7ThemeLayer2.png" alt="Comic">
+      </section>
+      <section data-transition="none">
+        <img src="images/d7ThemeLayer3.png" alt="Comic">
+      </section>
+      <section data-transition="none">
+        <img src="images/d7ThemeLayer4.png" alt="Comic">
+      </section>
+      <section data-transition="none">
+        <img src="images/d7ThemeLayer5.png" alt="Comic">
+      </section>
+      <section>
+        <h2>PHPTemplate</h2>
+        <p class="fragment">Raw PHP in a theme is a bad idea!</p>
+        <p class="fragment">Complicated syntax, security nightmare.</p>
+      </section>
+    </section>
+
+    <section>
+      <!--
+      @todo This section seems too short and feels like it's missing something.
+      -->
+      <section>
+        <h1>Tech Wasn't our Biggest Problem</h1>
+      </section>
+
+      <section>
+        <h2>We liked our own code...</h2>
+        <h2 class="fragment">...a little too much.</h2>
+      </section>
+      <section data-transition="none">
+        <img src="images/notInventedHere1.png" />
+      </section>
+      <section data-transition="none">
+        <img src="images/notInventedHere2.png" />
+      </section>
+      <section data-transition="none">
+        <img src="images/notInventedHere3.png" />
+      </section>
+      <section data-transition="none">
+        <img src="images/notInventedHere4.png" />
+      </section>
+
+      <section>
+        <h2>Not-Invented-Here (NIH)</h2>
+        <p class="fragment">Prefer in-community solutions despite costs.</p>
+      </section>
+
+      <section>
+        <h2>PHP 4 Didn't Help</h2>
+        <p class="fragment">Dependencies were copy-paste.</p>
+        <p class="fragment">Required manual effort to build, update.</p>
+      </section>
+
+      <section>
+        <h2>NIH has a social cost</h2>
+      </section>
+      <section data-transition="none">
+        <img src="images/sunkCosts1.png" />
+      </section>
+      <section data-transition="none">
+        <img src="images/sunkCosts2.png" />
+      </section>
+      <section data-transition="none">
+        <img src="images/sunkCosts3.png" />
+      </section>
+      <section data-transition="none">
+        <img src="images/sunkCosts4.png" />
+      </section>
+
+      <section>
+        <h2>Sunk-cost Fallacy</h2>
+        <p class="fragment">"Point of no return" thinking</p>
+        <aside class="notes">
+          Haven't heard of the Sunk-cost Fallacy? It's an idea from behavioral
+          economics that suggests once we've invested a certain amount of utility
+          in something, we pass a point of "no return" where we're obligated
+          to stick with it even when we know the problems.
+        </aside>
+      </section>
+      <section>
+        <h2>Sunk Costs in Software</h2>
+        <p class="fragment">Makes replacement of large subsystems impossible</p>
+        <aside class="notes">
+          Usually this refers to cars, houses, movie or concert tickets, but it
+          works in software design as well!
+        </aside>
+      </section>
+
+      <section>
+        <h2>Sunk Costs in Drupal 7</h2>
+        <p class="fragment">PHPTemplate vs. Smarty, etc.</p>
+        <p class="fragment">Simpletest vs. PHPUnit</p>
+        <p class="fragment">Many others...</p>
+      </section>
+
+      <section>
+        <h2>NIH made Drupal Insular</h2>
+        <p class="fragment">We rarely worked "upstream".</p>
+      </section>
+    </section>
+
+    <section>
+      <section>
+        <h1>What about Drupal 8?</h1>
+      </section>
+      <section>
+        <h2>There's a lot of tech improvements.</h2>
+        <p class="fragment">But I don't want to talk about that...</p>
+      </section>
+      <section>
+        <h2>Technology should be an enabler for people!</h2>
+      </section>
+      <section>
+        <h2>So who did we enable in Drupal 8?</h2>
+      </section>
+    </section>
+
+    <section>
+      <section>
+        <h1>Not just Community</h1>
+        <h1 class="fragment">but Communities.</h1>
+      </section>
+
+      <section>
+        <h2>OOP Everywhere!</h2>
+        <p class="fragment">PHP 5 fully implemented OOP</p>
+        <aside class="notes">
+          The first thing was that we finally started using object-oriented
+          programming. PHP 5 brought a full OOP features that we could finally
+          leverage in Drupal.
+        </aside>
+      </section>
+
+      <section>
+        <h2>More than just Objects</h2>
+      </section>
+      <section data-transition="none">
+        <img src="images/moreThanJustObjects1.png" />
+      </section>
+      <section data-transition="none">
+        <img src="images/moreThanJustObjects2.png" />
+      </section>
+      <section data-transition="none">
+        <img src="images/moreThanJustObjects3.png" />
+      </section>
+      <section data-transition="none">
+        <img src="images/moreThanJustObjects4.png" />
+      </section>
+      <section data-transition="none">
+        <img src="images/moreThanJustObjects5.png" />
+      </section>
+      <section data-transition="none">
+        <img src="images/moreThanJustObjects6.png" />
+      </section>
+      <section data-transition="none">
+        <img src="images/moreThanJustObjects7.png" />
+      </section>
+      <section data-transition="none">
+        <img src="images/moreThanJustObjects8.png" />
+      </section>
+      <section data-transition="none">
+        <img src="images/moreThanJustObjects9.png" />
+      </section>
+      <section>
+        <h2>Functional Pain</h2>
+        <p>Groups of API functions not related at language level.</p>
+        <p class="fragment">Require more training!</p>
+      </section>
+
+      <section data-transition="none">
+        <img src="images/shorterWithObjects1.png" />
+      </section>
+      <section data-transition="none">
+        <img src="images/shorterWithObjects2.png" />
+      </section>
+      <section data-transition="none">
+        <img src="images/shorterWithObjects3.png" />
+      </section>
+      <section data-transition="none">
+        <img src="images/shorterWithObjects4.png" />
+      </section>
+      <section data-transition="none">
+        <img src="images/shorterWithObjects5.png" />
+      </section>
+      <section>
+        <h2>OOP Groups Functionality</h2>
+        <p>At the language level.</p>
+      </section>
+
+      <section data-transition="none">
+        <img src="images/easierToExtend1.png" />
+      </section>
+      <section data-transition="none">
+        <img src="images/easierToExtend2.png" />
+      </section>
+      <section>
+        <h2>Less Copy & Paste</h2>
+        <p>More getting stuff done.</p>
+        <p class="fragment">PHP 5 makes it easy to extend existing code.</p>
+      </section>
+
+      <section>
+        <h2>Reduced "Drupalisms"</h2>
+        <p class="fragment">Lowers barriers for developers to use Drupal.</p>
+        <p class="fragment">Provides a familiar environment to learn new skills.</p>
+        <aside class="notes">
+          One of the benefits of modern OOP is that it reduces "Drupalisms",
+          of which hooks was one of the biggest offenders. These project-
+          specific patterns have long been a barrier to developers that would
+          otherwise look to other CMSes.
+
+          OOP and reduced Drupalisms benefits longtime Drupal developers too.
+          Drupal 8 provides a familiar environment to develop a broader base of
+          skills.
+        </aside>
+      </section>
+
+      <section>
+        <h2>Batteries Included</h2>
+      </section>
+      <section data-transition="none">
+        <img src="images/batteriesIncluded1.png" />
+      </section>
+      <section data-transition="none">
+        <img src="images/batteriesIncluded2.png" />
+      </section>
+      <section data-transition="none">
+        <img src="images/batteriesIncluded3.png" />
+      </section>
+      <section data-transition="none">
+        <img src="images/batteriesIncluded4.png" />
+      </section>
+      <section data-transition="none">
+        <img src="images/batteriesIncluded5.png" />
+      </section>
+      <section>
+        <h2>Less to Download</h2>
+        <p class="fragment">And less wait to build a real site.</p>
+      </section>
+
+      <section>
+        <h2>The Drop Picks Up Speed</h2>
+      </section>
+      <section data-transition="none">
+        <img src="images/semanticVersions1.png" />
+      </section>
+      <section data-transition="none">
+        <img src="images/semanticVersions2.png" />
+      </section>
+      <section data-transition="none">
+        <img src="images/semanticVersions3.png" />
+      </section>
+      <section data-transition="none">
+        <img src="images/semanticVersions4.png" />
+      </section>
+      <section>
+        <h2>Semantic Versioning</h2>
+        <p class="fragment">Predictable releases every ~6 months.</p>
+        <p class="fragment">Long Term Support when next major version starts.</p>
+      </section>
+      <section>
+        <h2>More than Just Good Feels</h2>
+        <p class="fragment">It validates contributor effort...</p>
+        <p class="fragment">...before they forget about it.</p>
+      </section>
+
+      <section>
+        <h2>Load Just The Things</h2>
+        <p class="fragment">Web services + progressive decoupling</p>
+        <p class="fragment">Ready for decoupled front-end, mobile, and native apps.</p>
+      </section>
+
+      <section data-background="images/twig.png" data-background-size="contain">
+        <h2>New Theme Engine</h2>
+        <p class="fragment">Twig means no more PHP!</p>
+      </section>
+      <section>
+        <h2>Simplified Theme Layer</h2>
+        <p class="fragment">More theme templates, less functions.</p>
+      </section>
+
+      <section data-transition="none">
+        <img src="images/butWhyDidItTakeSoLong1.png" />
+      </section>
+      <section data-transition="none">
+        <img src="images/butWhyDidItTakeSoLong2.png" />
+      </section>
+
+    </section>
+
+    <!--
+    @todo Seems out of place, especially at this point in the talk.
+
+    This really shouldn't be it's own section. It can easily be used to support
+    a point made elsewhere, but it doesn't quite fit. It can be thought of as
+    a valid criticism of Drupal 8, since we need to adjust to boilerplate code.
+    -->
+    <!--<section>-->
+      <!--<section>-->
+        <!--<h1>Magic vs. Boilerplate</h1>-->
+      <!--</section>-->
+      <!--&lt;!&ndash; @todo Comic about "Why do I have to define 5 classes to do this one thing!?" &ndash;&gt;-->
+      <!--<section>-->
+        <!--<h2>Boilerplate IS Tedious</h2>-->
+        <!--<p>But it's also predictable.</p>-->
+      <!--</section>-->
+      <!--<section>-->
+        <!--<h2>Generators reduce Tedium</h2>-->
+        <!--<p>Creates basic "outline" of code</p>-->
+        <!--<p>Usually built-in to IDEs</p>-->
+      <!--</section>-->
+      <!--<section>-->
+        <!--<h2>We already have a great generator!</h2>-->
+      <!--</section>-->
+      <!--<section>-->
+        <!--<h2>Generators Help Beginners</h2>-->
+        <!--<p>Makes creating complex modules easier</p>-->
+      <!--</section>-->
+      <!--&lt;!&ndash;-->
+        <!--@todo Comic about I need to define how many functions for an entity?-->
+      <!--&ndash;&gt;-->
+    <!--</section>-->
+
+    <section>
+      <section>
+        <h1>Incremental Updates vs. Big Bang</h1>
+        <aside class="notes">
+          When we started working on Drupal 8, we didn't know how long it would
+          take. We certainly didn't expect it to take as long as it did.
+        </aside>
+      </section>
+      <section data-transition="none">
+        <img src="images/incrementalVsBigBang/0.png" />
+        <aside class="notes">
+          You'd like to imagine the conversation goes like this. We have a project
+          manager, or the original author of the project.
+        </aside>
+      </section>
+      <section data-transition="none">
+        <img src="images/incrementalVsBigBang/1.png" />
+        <aside class="notes">
+          And they say it's time to start working on the next version of the
+          project. Everyone is excited is, of course.
+        </aside>
+      </section>
+      <section data-transition="none">
+        <img src="images/incrementalVsBigBang/2.png" />
+        <aside class="notes">
+          When we start planning out what we want to work on in the next version,
+          however...
+        </aside>
+      </section>
+      <section data-transition="none">
+        <img src="images/incrementalVsBigBang/3.png" />
+        <aside class="notes">
+          ...everybody has their own ideas.
+        </aside>
+      </section>
+      <section>
+        <img src="images/incrementalVsBigBang/4.png" />
+        <aside class="notes">
+          This is actually good for open source. Often we really do need many
+          if not all of those changes and features, but implementing them all
+          for the next version can take years.
+        </aside>
+      </section>
+      <section>
+        <h2>Conflicting priorities</h2>
+        <p>Easy/fun vs. Most Critical</p>
+        <p>Subsystem dependencies</p>
+        <aside class="notes">
+          There's lots of conflicting priorities when planning a new version
+          of a piece of software.
+
+          With a volunteer-run project like Drupal, it's easy to choose between
+          what's easy and fun, vs. the most critical changes we need to make.
+
+          There's also a lot of subsystem dependencies to consider when planning
+          a major update. As replacing or updating one subsystem may require a
+        </aside>
+      </section>
+      <section>
+        <h2>Technical Debt</h2>
+        <blockquote>
+          I don't have the time to do it the right way.
+        </blockquote>
+      </section>
+      <section>
+        <img src="images/incrementalVsBigBang/5.png" />
+        <aside class="notes">
+          So it's really tempting to think with all these needed changes,
+          that we do it all! But instead of doing a huge release cycle, we'll
+          break it up to several releases so it's easier to manage.
+        </aside>
+      </section>
+      <section>
+        <h2>Incremental Updates</h2>
+        <p class="fragment">Define an endpoint several releases away</p>
+        <p class="fragment">Focus on one big change per release</p>
+      </section>
+      <section data-transition="none">
+        <img src="images/incrementalUpdates1.png" />
+      </section>
+      <section data-transition="none">
+        <img src="images/incrementalUpdates2.png" />
+      </section>
+      <section data-transition="none">
+        <img src="images/incrementalUpdates3.png" />
+      </section>
+
+      <section>
+        <h2>Great in Theory</h2>
+        <p>More focused changes, less "too many cooks"</p>
+        <aside class="notes">
+          This is great in theory, since it allows developers to focus a few
+          changes at a time, and avoid the problem of having "too many cooks"
+          each with conflicting priorities and agendas.
+        </aside>
+      </section>
+      <section>
+        <h2>Less Perceived Work</h2>
+        <p>Easier for volunteer core devs to maintain momentum</p>
+        <aside class="notes">
+          The biggest advantage is that the perceived amount of work would be
+          less for incremental changes rather than a huge, big-bang change.
+          This makes it easier to maintain momentum for a core developement
+          team made up of mostly volunteers.
+        </aside>
+      </section>
+      <section>
+        <h2>Easier for Contrib Devs</h2>
+        <p class="fragment">A focused change takes less time to update modules</p>
+        <aside class="notes">
+          Focused changes is also easier for contrib developers as it takes
+          less time to update modules to the new version.
+        </aside>
+      </section>
+
+      <section data-transition="none">
+        <img src="images/incrementalsAdvantage1.png" />
+      </section>
+      <section data-transition="none">
+        <img src="images/incrementalsAdvantage2.png" />
+      </section>
+      <section data-transition="none">
+        <img src="images/incrementalsAdvantage3.png" />
+      </section>
+      <section data-transition="none">
+        <img src="images/incrementalsAdvantage4.png" />
+      </section>
+      <section>
+        <h2>Incremental's advantage?</h2>
+        <p class="fragment">It limits cultural shock.</p>
+        <p class="fragment">Fewer changes make it easier to accept.</p>
+        <aside class="notes">
+          This all sounds great, but what's the real advantage of incremental
+          updates? Incremental updates limit cultural shock. Big changes are
+          easier to accept in smaller pieces.
+        </aside>
+      </section>
+    </section>
+    
+    <section>
+      <section>
+        <h1>So, why didn't we do that?</h1>
+        <aside class="notes">
+          So...ummm, why didn't we do that?
+        </aside>
+      </section>
+      <section>
+        <h2>Drupal 8 was a "Big Bang" Change</h2>
+        <p>All changes in one version jump</p>
+        <aside class="notes">
+          Drupal 8 was a Big Bang change. We had all the changes, new features,
+          and everything in one version jump.
+        </aside>
+      </section>
+      <section>
+        <h2>Big Bang is Organic</h2>
+        <aside class="notes">
+          The thing with Big Bang changes is that they're organic.
+        </aside>
+      </section>
+      <section data-transition="none">
+        <img src="images/incrementalVsBigBang/6.png" />
+        <aside class="notes">
+          Let me explain what I mean. Imagine your software is like a house.
+        </aside>
+      </section>
+      <section data-transition="none">
+        <img src="images/incrementalVsBigBang/7.png" />
+        <aside class="notes">
+          And let's say you're planning an addition to your house.
+        </aside>
+      </section>
+      <section data-transition="none">
+        <img src="images/incrementalVsBigBang/8.png" />
+        <aside class="notes">
+          Now you can just plug in a addition, you need to take out the walls
+          and do some demolition first.
+        </aside>
+      </section>
+      <section data-transition="none">
+        <img src="images/incrementalVsBigBang/9.png" />
+        <aside class="notes">
+          As often happens during a remodeling, you start finding other things
+          that you need to fix. And since the walls are out anyways, there
+          isn't a better time to fix those problems.
+        </aside>
+      </section>
+      <section>
+        <h2>Feature Creep</h2>
+        <p class="fragment">It's not just for new features...</p>
+        <p class="fragment">...but for fixing things that were unplanned.</p>
+        <aside class="notes">
+          This is feature creep. It doesn't just mean adding new features, but
+          also fixing other things we weren't planning to fix before. This
+          happened a lot in Drupal 8. We started out with a few changes and soon
+          we were replacing every little thing because, if we didn't fix it
+          now, when would we?
+        </aside>
+      </section>
+      <section>
+        <h2>Often requires a Tyrant</h2>
+        <p class="fragment">Or, at least someone that can say "No".</p>
+        <aside class="notes">
+          The problem is that to make incremental changes work you often need a
+          tyrant.
+        </aside>
+      </section>
+      <section data-transition="none">
+        <img alt="Tyrant Comic" src="images/tyrant1.png" />
+      </section>
+      <section data-transition="none">
+        <img alt="Tyrant Comic" src="images/tyrant2.png" />
+      </section>
+      <section data-transition="none">
+        <img alt="Tyrant Comic" src="images/tyrant3.png" />
+      </section>
+      <section data-transition="none">
+        <img alt="Tyrant Comic" src="images/tyrant4.png" />
+      </section>
+      <section>
+        <h2>'No' isn't the same in OSS</h2>
+        <p class="fragment">It discourages volunteers instead.</p>
+      </section>
+
+      <section>
+        <h2>"Make it happen"</h2>
+        <p>Doesn't encourage unpaid contributors</p>
+        <p class="fragment">...they leave instead.</p>
+      </section>
+      <section>
+        <h2>Drupal isn't an iPhone</h2>
+        <p class="fragment">And we're not working for Apple</p>
+      </section>
+    </section>
+    <section>
+      <section>
+        <h1>It'll Just Hurt...Differently</h1>
+      </section>
+      <section>
+        <h2>Work is not really reduced</h2>
+        <p>...only the perception of the amount.</p>
+        <aside class="notes">
+          Incrementally updating a large software project like Drupal is difficult
+          in practice. Work isn't really really reduced, only the perception of
+          how much work there is.
+        </aside>
+      </section>
+      <section data-transition="none">
+        <img src="images/workNotReallyReduced1.png">
+      </section>
+      <section data-transition="none">
+        <img src="images/workNotReallyReduced2.png">
+      </section>
+      <section data-transition="none">
+        <img src="images/workNotReallyReduced3.png">
+      </section>
+      <section data-transition="none">
+        <img src="images/workNotReallyReduced4.png">
+      </section>
+      <section data-transition="none">
+        <img src="images/workNotReallyReduced5.png">
+      </section>
+      <section data-transition="none">
+        <img src="images/workNotReallyReduced6.png">
+      </section>
+      <section data-transition="none">
+        <img src="images/workNotReallyReduced7.png">
+      </section>
+      <section data-transition="none">
+        <img src="images/workNotReallyReduced8.png">
+      </section>
+
+      <section>
+        <h2>How's this sound?</h2>
+        <p class="fragment">Rewrite your modules...</p>
+        <p><span class="fragment">...every 6 months</span><span class="fragment">...for 4 years?</span></p>
+      </section>
+      <section data-transition="none">
+        <img src="images/updateFatigue1.png" />
+      </section>
+      <section data-transition="none">
+        <img src="images/updateFatigue2.png" />
+      </section>
+      <section>
+        <h2>Incremental can be Exhausting</h2>
+        <p>Both for core developers...</p>
+        <p class="fragment">...and contrib developers.</p>
+      </section>
+      <!--<section>-->
+        <!--<h2>Flag 8.x-4.x</h2>-->
+        <!--<p class="fragment">Chased Drupal 8 HEAD for 3 years!</p>-->
+        <!--<p class="fragment">Required dedication, passion, and patience!</p>-->
+      <!--</section>-->
+
+      <!--<section data-background="images/bandaid.png" data-background-size="contain">-->
+        <!--<h2>Band-aid Problem</h2>-->
+        <!--<p class="fragment">Pull it off slowly and it'll hurt longer...</p>-->
+        <!--<p class="fragment">...or fast and it'll hurt more for less time.</p>-->
+      <!--</section>-->
+
+      <section>
+        <h2>Band-aid Problem</h2>
+      </section>
+      <section data-transition="none">
+        <img src="images/intermediaryPeriod1.png" />
+      </section>
+      <section data-transition="none">
+        <img src="images/intermediaryPeriod2.png" />
+      </section>
+      <section data-transition="none">
+        <img src="images/intermediaryPeriod3.png" />
+      </section>
+      <section data-transition="none">
+        <img src="images/intermediaryPeriod4.png" />
+      </section>
+      <section>
+        <img src="images/untilThingsStabilize.png" />
+      </section>
+      <section>
+        <h2>Incremental Updates</h2>
+        <p>Can create a "lost version"...</p>
+        <p class="fragment">...by exchanging cultural shock, for update fatigue.</p>
+      </section>
+
+    </section>
+
+    <!--<section>-->
+      <!--&lt;!&ndash;-->
+      <!--@todo This section also doesn't feel like it needs to be.-->
+
+      <!--Instead, it feels like it should be part of the previous combined-->
+      <!--section.-->
+      <!--&ndash;&gt;-->
+      <!--<section>-->
+        <!--<h1>Big Bang Updates</h1>-->
+      <!--</section>-->
+      <!--<section>-->
+        <!--<h2>Focuses Culture Shock</h2>-->
+        <!--<blockquote>-->
+          <!--"But I have to start all over again!"-->
+        <!--</blockquote>-->
+      <!--</section>-->
+      <!--<section>-->
+        <!--<h2>New but Familiar</h2>-->
+        <!--<p>It's easier to be a new student, than an old expert</p>-->
+      <!--</section>-->
+      <!--<section>-->
+        <!--<h2>Change is Intimidating</h2>-->
+        <!--<p>Some will take this as an exit cue</p>-->
+      <!--</section>-->
+      <!--<section>-->
+        <!--<h2>Creates New Interest</h2>-->
+        <!--<p>Big changes are exciting</p>-->
+        <!--<p>Can attract new developers</p>-->
+      <!--</section>-->
+    <!--</section>-->
+
+    <!--<section>-->
+      <!--
+      @todo Expand or cut this section based on time availability.
+      -->
+      <!--<section>-->
+        <!--<h1>But...forks?</h1>-->
+        <!--<aside class="notes">-->
+          <!--But what about forks?-->
+        <!--</aside>-->
+      <!--</section>-->
+      <!--<section>-->
+        <!--<h2>Forks are Good!</h2>-->
+        <!--<p class="fragment">Sign of a healthy community</p>-->
+        <!--<aside class="notes">-->
+          <!--Forks are actually good! When a project is big enough to be forked-->
+          <!--successfully, it's the sign of a healthy community around the software.-->
+        <!--</aside>-->
+      <!--</section>-->
+      <!--<section>-->
+        <!--<h2>Shakes the Status Quo</h2>-->
+        <!--<p>Introduces new ideas</p>-->
+        <!--<aside class="notes">-->
+          <!--First of all, forks shake up the status quo. This helps to introduce-->
+          <!--new ideas into the community and opens us to new possibilities we-->
+          <!--didn't or couldn't consider before.-->
+        <!--</aside>-->
+      <!--</section>-->
+      <!--<section>-->
+        <!--<h2>Forks are Natural</h2>-->
+        <!--<p>When a project reaches a certain size</p>-->
+        <!--<p>And no authoritarian figure at the center</p>-->
+        <!--<aside class="notes">-->
+          <!--Forks are also natural when a project reaches a certain size. When-->
+          <!--a project has no authoritarian figure at its center, it's very easy-->
+          <!--to create a self-sustaining fork.-->
+        <!--</aside>-->
+      <!--</section>-->
+      <!--
+      @todo Comic about GNOME 2 to 3 fork with MATE and Cinnamon
+      -->
+      <!--<section>-->
+        <!--<h2>It's not "Who's Winning?"</h2>-->
+        <!--<p>It's what do you need?</p>-->
+      <!--</section>-->
+      <!--<section data-transition="none">-->
+        <!--<img src="images/drupalIsntHighlander1.png" alt="Open Source isn't Highlander." />-->
+      <!--</section>-->
+      <!--<section data-transition="none">-->
+        <!--<img src="images/drupalIsntHighlander2.png" alt="There doesn't need to be only one." />-->
+      <!--</section>-->
+    <!--</section>-->
+
+    <section>
+      <section>
+        <h1>So what didn't we do so well?</h1>
+        <aside class="notes">
+          As much as I'm proud and excited about Drupal 8, there's a lot of things
+          I feel we should work on.
+        </aside>
+      </section>
+
+      <section>
+        <h2>Technical Shortcomings</h2>
+        <p class="fragment">Should be our least concern.</p>
+        <aside class="notes">
+          There are always technical things we could have done better. We could
+          have chosen a different routing system, a different front end...and
+          while those things are important, they're the least important
+          things we should improve.
+        </aside>
+      </section>
+
+      <section>
+        <h2>FUD</h2>
+        <p>Fear Uncertainty and Doubt</p>
+        <aside class="notes">
+          One of the first things I think we could do better in the future, and
+          I admit, also a personal axe to grind, is FUD. Fear Uncertainty, and Doubt.
+        </aside>
+      </section>
+      <section>
+        <h2>Drupal 8 Created a lot of FUD</h2>
+        <aside class="notes">
+          Drupal 8 created a lot of FUD. Any popular project that undergoes a
+          big refactoring as Drupal did inevitability results in FUD. Our seemingly
+          never-ending development cycle helped little, but that wasn't all.
+        </aside>
+      </section>
+      <section>
+        <h2>FUD easily created Unintentionally</h2>
+        <p>Social media echo chamber</p>
+        <aside class="notes">
+          FUD is easily created unintentionally, especially in Open Source. With
+          so many voices from so many backgrounds it's easy for any irregularity,
+          difference of opinion, or unexpected delay to result in fear,
+          uncertainty and doubt.
+
+          This is amplified by the social media echo chamber where concerns can
+          be reposted spread virally in seconds.
+        </aside>
+      </section>
+      <section>
+        <h2>People Turnover</h2>
+        <p>When a long-time project member leaves...</p>
+        <p>...it can be seen as a sign the project is failing.</p>
+        <aside class="notes">
+          Drupal 8 had several people either leaving the project entirely or
+          taking on reduced roles. When this happens in the middle of a dev
+          cycle, it can be seen as a sign the project is failing.
+        </aside>
+      </section>
+      <section>
+        <h2>Other Missteps</h2>
+        <p>"Secret" sprints & "heads down" behavior</p>
+        <aside class="notes">
+          We've also had some other missteps that created FUD. Sequestering
+          core developers for dedicated, private sprinting and other "heads
+          down" behavior may be forgotten now, but it was a serious worry that
+          created a needless information vacuum in which FUD can flourish.
+        </aside>
+      </section>
+      <section>
+        <h2>Fighting FUD</h2>
+        <p>Needs clear, and consistent communication</p>
+        <aside class="notes">
+          So how can we fight FUD in when we start working on the next version
+          of Drupal? We need clear, and consistent communication.
+        </aside>
+      </section>
+      <section>
+        <h2>Not easy in OSS</h2>
+        <p class="fragment">For smaller projects, the lead dev or original author</p>
+        <p class="fragment">Larger projects, sponsoring corporation or foundation</p>
+        <aside class="notes">
+          This isn't easy in open source! Often it requires a single point of
+          communication. In smaller projects this is often the lead developer
+          or original author. With a project as large as Drupal, it usually
+          falls to the sponsoring corporation, foundation, or association.
+        </aside>
+      </section>
+      <section>
+        <h2>Not an easy Job</h2>
+        <p class="fragment">And it is a job.</p>
+        <p class="fragment">"Contrib Champion", "Core Ombudsman"</p>
+        <aside class="notes">
+          This isn't an easy job either, and it is a job. Providing clear and
+          consistent communication throughout a development cycle is demanding.
+          If it doesn't come from an authoritative source, it won't have clout
+          to fight fear, uncertainty and doubt. I like calling this role the
+          "Contrib Champion" others call it a "Core Ombudsman". No matter
+          what they're called, I think it's an essential piece for Drupal's
+          future success.
+        </aside>
+      </section>
+
+      <section>
+        <h2>BURNOUT</h2>
+        <aside class="notes">
+          For four years we worked on Drupal 8. While I didn't spend a lot of
+          time with core, I did put a lot of effort into developing one of the
+          first Drupal 8 modules. And I have to tell you, it was exhausting.
+          Today more than one developer in Drupal is suffering from a psychological
+          and physiological condition known as burnout.
+        </aside>
+      </section>
+
+      <section>
+        <h2>What Causes Burnout?</h2>
+        <blockquote class="fragment">
+          The candle the burns twice as bright burns half as long.
+        </blockquote>
+        <aside class="notes">
+          While I can go into a long description of burnout and what causes it,
+          I find the following quote a great summary. 'The candle that burns
+          twice as bright burns half as long.' This is from the film Blade Runner.
+
+          Like many coders, we in Drupal often enjoy working on Drupal both as
+          a day job and as something fun to do. More than one developer working
+          on Drupal 8 was caught up in this pattern. For a short period of time,
+          this is okay, but four years is a very, very long time.
+        </aside>
+      </section>
+
+      <section>
+        <h2>Reducing Burnout Risk</h2>
+        <p class="fragment">Do...less.</p>
+        <aside class="notes">
+          A few developers I've spoken to have suffered burnout during Drupal 8's
+          development cycle. Solutions are often very personal, but some patterns
+          exist. We can reduce the risk of burning out by...doing less. This
+          seems obvious, but it can be very, very difficult to do. We're passionate
+          in the Drupal community, but we can't subsist on passion alone.
+        </aside>
+      </section>
+
+      <section>
+        <h2>Doing Less for Yourself</h2>
+        <p class="fragment">Take vacation, reduce roles, or change jobs.</p>
+        <p class="fragment">Seek out a co-maintainer.</p>
+        <aside class="notes">
+          If your a module dev or contribute in your free time, take a break.
+          Seek out a co-maintainer to keep things moving while you're away.
+        </aside>
+      </section>
+
+      <section>
+        <h2>Burnout Recovery</h2>
+        <p class="fragment">It's a process, not a goal.</p>
+      </section>
+
+      <section>
+        <h2>If You're an Employer</h2>
+        <p class="fragment">Burnout costs time, money, and morale.</p>
+      </section>
+      <section>
+        <h2>Preventing Burnout at Work</h2>
+        <p class="fragment">Track and enforce comp time.</p>
+        <p class="fragment">Watch for "un-vacationers".</p>
+      </section>
+      <section>
+        <h2>Grant Contrib Time</h2>
+        <p class="fragment">Not everyone will use or want it.</p>
+        <p class="fragment">Those that do, can burn out without it.</p>
+      </section>
+
+    </section>
+
+    <section>
+      <section>
+        <h1>The Promise of Drupal 8</h1>
+      </section>
+      <section>
+        <h2>A Technical Leap</h2>
+        <p>OOP, Twig, Symfony, and more.</p>
+      </section>
+      <section>
+        <h2>Process Improvements</h2>
+        <p>The Drop moves faster.</p>
+      </section>
+      <section>
+        <h2>Ready of the Box</h2>
+        <p>More of what you need in core.</p>
+      </section>
+      <section>
+        <h2>A Long Slog</h2>
+        <p>But a brighter future.</p>
+      </section>
+      <section>
+        <h2>Not just invite in</h2>
+        <h2 class="fragment">But also venture out</h2>
+      </section>
+      <section>
+        <h2>Drupal 8: A Great Opportunity</h2>
+        <p class="fragment">Both for today's Drupal devs...</p>
+        <p class="fragment">...and those we'll meet tomorrow.</p>
+      </section>
+    </section>
+
+    <section>
+      <h1>Thank you!</h1>
+      <p>&nbsp;</p>
+      <p>socketwench.github.io/drupal8CommunityReady</p>
+    </section>
+
+  </div>
+
+</div>
+
+<script src="lib/js/head.min.js"></script>
+<script src="js/reveal.js"></script>
+
+<script>
+
+  // Full list of configuration options available at:
+  // https://github.com/hakimel/reveal.js#configuration
+  Reveal.initialize({
+    controls: false,
+    progress: true,
+    history: true,
+    center: true,
+    width: 1024,
+    height: 763,
+
+    transition: 'slide', // none/fade/slide/convex/concave/zoom
+
+    // Optional reveal.js plugins
+    dependencies: [
+      {
+        src: 'lib/js/classList.js', condition: function () {
+        return !document.body.classList;
+      }
+      },
+      {
+        src: 'plugin/markdown/marked.js', condition: function () {
+        return !!document.querySelector('[data-markdown]');
+      }
+      },
+      {
+        src: 'plugin/markdown/markdown.js', condition: function () {
+        return !!document.querySelector('[data-markdown]');
+      }
+      },
+      {
+        src: 'plugin/highlight/highlight.js',
+        async: true,
+        callback: function () {
+          hljs.initHighlightingOnLoad();
+        }
+      },
+      {src: 'plugin/zoom-js/zoom.js', async: true},
+      {src: 'plugin/notes/notes.js', async: true}
+    ]
+  });
+
+</script>
+
+</body>
 </html>
