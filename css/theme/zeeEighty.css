@@ -16,6 +16,7 @@
  *********************************************/
 body {
   background: url("../../images/starfield.png") no-repeat center center fixed black; /* Old browsers */
+  background-size: cover;
 }
 
 .reveal {
