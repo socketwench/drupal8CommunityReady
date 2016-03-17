@@ -352,9 +352,9 @@
      borderopacity="0.57254902"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.53159302"
-     inkscape:cx="514.3783"
-     inkscape:cy="437.11688"
+     inkscape:zoom="0.6603382"
+     inkscape:cx="805.90772"
+     inkscape:cy="245.02724"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -376,7 +376,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
         <cc:license
            rdf:resource="http://creativecommons.org/licenses/by-nc-sa/3.0/" />
       </cc:Work>
@@ -490,7 +490,7 @@
            x="385.63336"
            y="334.10046" /></flowRegion><flowPara
          id="flowPara9665"
-         style="fill:#ffffff;fill-opacity:1">All of the techniques I know don't apply to Drupal.</flowPara></flowRoot>    <flowRoot
+         style="fill:#ffffff;fill-opacity:1">Everything I've learned so far doesn't apply to drupal.</flowPara></flowRoot>    <flowRoot
        xml:space="preserve"
        id="flowRoot9667"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:30px;line-height:125%;font-family:'Anime Ace 2.0 BB';-inkscape-font-specification:'Anime Ace 2.0 BB, Normal';text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
